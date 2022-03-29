@@ -1,0 +1,317 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-09 19:14+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.5.3\n"
+
+#: ../novel_25.html%2Bhtml[lang]:2-1
+msgid "ja"
+msgstr ""
+
+#: ../novel_25.html%2Bhtml.head.title:8-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】 | Key"
+msgstr ""
+
+#: ../novel_25.html%2Bhtml.head.meta[content]:9-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】"
+msgstr ""
+
+#: ../novel_25.html%2Bhtml.head.meta[content]:10-1
+msgid "Key,キー,kinetic,novel,キネティックノベル"
+msgstr ""
+
+#: ../novel_25.html%2Bhtml.body.div.div.div.div:44-1
+msgid "プリマドール・アンコール"
+msgstr ""
+
+#: ../novel_25.html%2Bhtml.body.div.div.div.div:48-1
+msgid "03-10 冬の花火（10）－終－"
+msgstr ""
+
+#: ../novel_25.html%2Bhtml.body.div.div.div.div:52-1
+msgid ""
+"<a href=\"novel_24.html\">＜＜前のエピソード</a> <a href=\"novel.html\">目次</a> <a "
+"href=\"novel_26.html\">次のエピソード＞＞</a>"
+msgstr ""
+
+#: ../novel_25.html%2Bhtml.body.div.div.div.div:56-1
+msgid ""
+"目が醒めたとき、リリアは光の中にいた。<br /> 暖かな光だ。白銀に反射するオレンジ色の輝き。まるで目を灼くような眩さを感じていた。<br /> 天国に"
+"行けたのだろうか。でも、そんなはずはない。リリアはいくつもの罪を犯した。罪人は地獄に堕ちる。幼い頃から、総主教会で何度も聞かされたはずだ。こんな平穏が手に"
+"入るはずもない……。<br /> <br /> 中年女「おはよう、お嬢ちゃん」<br /> <br /> "
+"女性の声だ。太く、それでいて柔らかい。瞳を巡らせると、恰幅のいい中年女性の姿があった。<br /> <br /> 中年女「まったく、命冥加なこった」"
+"<br /> <br /> どうやらリリアは、ベッドの上に寝かされているらしかった。<br /> <br /> リリア「私……どうして……」<br /> "
+"中年女「どうもこうもあるものか」<br /> <br /> 腕組みをして、大げさに息を漏らす。<br /> <br /> "
+"中年女「機械人形があんたを連れてきたのさ」<br /> リリア「え……？」<br /> "
+"中年女「しかも皇国製だ。いったいどこから領内に入ったんだろうね。こっちが慌てている間にどっかにいっちまったけど……」<br /> <br /> "
+"話がまったく見えない。機械人形が？ 私を？<br /> <br /> 中年女「あんた、アルタリアに侵入しようとしたのかい？ "
+"まったく無茶をしたねぇ……射殺されても文句はいえないよ。足だけで済んで幸いだったね……医者の到着があと少し遅れていたら、どうなっていたことか……」<br "
+"/> リリア「あ、あの……ここは……いったい……？」<br /> "
+"中年女「……ああ、心配しないでいいさ。ここは正真正銘ローベリア領内さ。ま、森を超えればそこは敵国だけどね……」<br /> リリア「………あぁ……」"
+"<br /> 中年女「ハーブティーでも用意するから、待ってな」<br /> <br /> そう言って去っていく。<br /> "
+"ただ天井を見上げていると、どこからか甘い香りが漂ってくる。少しずつ体の感覚が戻ってくるのを感じた。<br /> "
+"ふと、右手になにやら感覚があった。ずっと握りしめていた拳の中に、なにやら硬いものがある。<br /> <br /> リリア「……これは……」<br /> "
+"<br /> そっと目の前に持ってきて、開いてみる。<br /> それは一枚のシリングコインだった。"
+msgstr ""
+
+#: ../novel_25.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:101-5
+msgctxt "../novel_25.html+html.body.div.div.div.div.div.div.div.ul.li:101-5"
+msgid "『すこしでも、旅費の足しなればと思いまして』"
+msgstr ""
+
+#: ../novel_25.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:102-5
+msgctxt "../novel_25.html+html.body.div.div.div.div.div.div.div.ul.li:102-5"
+msgid "『すこしでも、旅費の足しなればと思いまして』"
+msgstr ""
+
+#: ../novel_25.html%2Bhtml.body.div.div.div.div:106-1
+msgid ""
+"そんな声が、まざまざと蘇ってくる。<br /> 気づけば、リリアはぽろりと涙をこぼしていた。<br /> <br /> リリア「灰桜………」<br /> "
+"<br /> ぎゅっと胸に抱きしめる。<br /> ほかほかと、命の灯火のように温かかった。<br /> <br /> "
+"リリア「ひくっ……ぐすっ……ふぇぇぇ………あああぁあぁああ～……」<br /> <br /> ぽろぽろと、止めどなく涙がこぼれていた。"
+msgstr ""
+
+#: ../novel_25.html%2Bhtml.body.div.div.div.div.div:121-2
+msgctxt "../novel_25.html+html.body.div.div.div.div.div:121-2"
+msgid "＊ ＊ ＊"
+msgstr ""
+
+#: ../novel_25.html%2Bhtml.body.div.div.div.div:122-340
+msgid ""
+"兵士「遠間博士、こちらです」<br /> <br /> 兵士の後に続いて、ボクは鼠色のせせこましい通路を進んでいく。国境線の要塞ともなれば、通路一つとって"
+"もひどく複雑で、案内なしではたちまち迷子になってしまうだろう。<br /> <br /> ナギ「すまないが、その博士というのはやめてくれないかな」<br "
+"/> 兵士「は？」<br /> ナギ「おじいちゃんと紛らわしいからね」<br /> <br /> もういいだろうと思って、軍帽を脱ぐ。前髪がさらりと揺れた"
+"。軍施設内では風紀を保つこと……血気盛んな士官にでも見つかれば煩く言われるが、ここならもう大丈夫だろう。<br /> <br /> "
+"兵士「ですが、他になんと……技術大尉、でよろしいですか？」<br /> ナギ「ナギさん、でいいんだよ。ボクは民間から徴用された、単なる人形師なんだからね」"
+"<br /> 兵士「いや、しかし、そういうわけには……」<br /> <br /> そうやって兵士を困らせていると、やがて小さな営倉に行き当たった。"
+"<br /> そこに、一台の自律人号がちょこんと腰掛けている。桜色の髪に、瑠璃色の瞳。そわそわした様子で辺りを見回している……。<br /> <br /"
+"> ナギ「やあ、迎えに来たよ」"
+msgstr ""
+
+#: ../novel_25.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:148-5
+msgctxt "../novel_25.html+html.body.div.div.div.div.div.div.div.ul.li:148-5"
+msgid "「あっ……ナギさん！」"
+msgstr ""
+
+#: ../novel_25.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:149-5
+msgctxt "../novel_25.html+html.body.div.div.div.div.div.div.div.ul.li:149-5"
+msgid "「あっ……ナギさん！」"
+msgstr ""
+
+#: ../novel_25.html%2Bhtml.body.div.div.div.div:153-1
+msgid ""
+"ナギ「寂しい思いをさせたね」<br /> <br /> こちらに気づくと、ぱあっと顔が明るくなる。ぴょんと飛び上がるように近づいてきていた。<br /> "
+"<br /> ナギ「ボクの試作人形が迷惑をかけたね」<br /> 兵士「いえ、早期に発見できたのは幸いでした。国境付近はなにが起こるかわかりませんから」"
+"<br /> ナギ「……こないだも、機械人形が暴走したんだって？」<br /> "
+"兵士「は、そうなのです。ちょうどこの試作人形を発見したときですね。命令を受け付けなくなって……まる二日失踪したのです」<br /> "
+"ナギ「無事に見つかったのかい？」<br /> "
+"兵士「ローベリア領内付近で見つかりました。技師の見立てでは、なにか攻撃命令が残っていたのかもしれないということでしたが……」<br /> "
+"ナギ「後で確認してみよう、キミの上官……ええと、誰だっけ。とにかく報告しておいてくれないかい？」<br /> 兵士「了解しました」<br /> <br /"
+"> 踵を鳴らして敬礼する。<br /> <br /> ナギ「じゃあ、行こうか」<br /> <br /> そっと彼女の背中を押して、その場を後にした。"
+msgstr ""
+
+#: ../novel_25.html%2Bhtml.body.div.div.div.div.div:174-2
+msgctxt "../novel_25.html+html.body.div.div.div.div.div:174-2"
+msgid "＊ ＊ ＊"
+msgstr ""
+
+#: ../novel_25.html%2Bhtml.body.div.div.div.div:175-340
+msgid ""
+"ナギ「少女歌劇団から盗まれた人形、無事回収されたみたいだよ。いまどきああいう人形は珍しいからね。いつか劇団が再開されたら、また歌声を響かせて欲しいものだ…"
+"…」<br /><br /> ボクのすこし後を、灰桜はふわふわした足取りで歩いている。<br /> "
+"話を聞いているのかいないのか。要塞内が珍しいらしく、あちこちに視線を彷徨わせていた。<br /> <br /> ナギ「灰桜」"
+msgstr ""
+
+#: ../novel_25.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:188-5
+msgctxt "../novel_25.html+html.body.div.div.div.div.div.div.div.ul.li:188-5"
+msgid "「みゅっ……はい、なんでしょうか？」"
+msgstr ""
+
+#: ../novel_25.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:189-5
+msgctxt "../novel_25.html+html.body.div.div.div.div.div.div.div.ul.li:189-5"
+msgid "「みゅっ……はい、なんでしょうか？」"
+msgstr ""
+
+#: ../novel_25.html%2Bhtml.body.div.div.div.div:193-1
+msgid "ナギ「機械人形を操ったのは、キミだね？」"
+msgstr ""
+
+#: ../novel_25.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:201-5
+msgctxt "../novel_25.html+html.body.div.div.div.div.div.div.div.ul.li:201-5"
+msgid "「……操った？」"
+msgstr ""
+
+#: ../novel_25.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:202-5
+msgctxt "../novel_25.html+html.body.div.div.div.div.div.div.div.ul.li:202-5"
+msgid "「……操った？」"
+msgstr ""
+
+#: ../novel_25.html%2Bhtml.body.div.div.div.div:206-1
+msgid "ナギ「指揮権を奪って……操作しただろう？」"
+msgstr ""
+
+#: ../novel_25.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:214-5
+msgctxt "../novel_25.html+html.body.div.div.div.div.div.div.div.ul.li:214-5"
+msgid "「……ああっ！」"
+msgstr ""
+
+#: ../novel_25.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:215-5
+msgctxt "../novel_25.html+html.body.div.div.div.div.div.div.div.ul.li:215-5"
+msgid "「……ああっ！」"
+msgstr ""
+
+#: ../novel_25.html%2Bhtml.body.div.div.div.div:219-1
+msgid ""
+"いま初めて気づいたというように、ぽんと手を打つ。<br /> <br /> "
+"ナギ「皇軍の機械人形を勝手に操ってはいけないよ。記録が残るからね……あとで消すのも結構大変なんだ」"
+msgstr ""
+
+#: ../novel_25.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:230-5
+msgctxt "../novel_25.html+html.body.div.div.div.div.div.div.div.ul.li:230-5"
+msgid "「ごめんなさい、私……どうしても～……理由を言いますと、そのっ……」"
+msgstr ""
+
+#: ../novel_25.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:231-5
+msgctxt "../novel_25.html+html.body.div.div.div.div.div.div.div.ul.li:231-5"
+msgid "「ごめんなさい、私……どうしても～……理由を言いますと、そのっ……」"
+msgstr ""
+
+#: ../novel_25.html%2Bhtml.body.div.div.div.div:235-1
+msgid "ナギ「怒ってないさ、キミがそうしたいと思ったんだろう？」"
+msgstr ""
+
+#: ../novel_25.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:243-5
+msgctxt "../novel_25.html+html.body.div.div.div.div.div.div.div.ul.li:243-5"
+msgid "「それはそうなのですが～……」"
+msgstr ""
+
+#: ../novel_25.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:244-5
+msgctxt "../novel_25.html+html.body.div.div.div.div.div.div.div.ul.li:244-5"
+msgid "「それはそうなのですが～……」"
+msgstr ""
+
+#: ../novel_25.html%2Bhtml.body.div.div.div.div:248-1
+msgid "ナギ「いいんだ。帰ったら、調律しよう」"
+msgstr ""
+
+#: ../novel_25.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:256-5
+msgctxt "../novel_25.html+html.body.div.div.div.div.div.div.div.ul.li:256-5"
+msgid "「はいっ」"
+msgstr ""
+
+#: ../novel_25.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:257-5
+msgctxt "../novel_25.html+html.body.div.div.div.div.div.div.div.ul.li:257-5"
+msgid "「はいっ」"
+msgstr ""
+
+#: ../novel_25.html%2Bhtml.body.div.div.div.div:261-1
+msgid ""
+"歩きながら、小さくため息を付く。彼女に悟られないよう。<br /> 軍用機械人形の指揮権を強制的に奪い、意のままに操る。そんな芸当を教えた覚えはなかった。"
+"しかし、灰桜はさも当然であるかのようにこなしてしまった。それはきっと彼女の記憶によるものではない。もっとずっと昔……論理機関の極めて深い場所にある、叫びの"
+"ような記憶。うまく消去したつもりだったが、そんな甘い話は無いらしい。<br /> <br /> ナギ「しばらくまた眠ることになりそうだよ」"
+msgstr ""
+
+#: ../novel_25.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:273-5
+msgctxt "../novel_25.html+html.body.div.div.div.div.div.div.div.ul.li:273-5"
+msgid "「え……そうなのですか？」"
+msgstr ""
+
+#: ../novel_25.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:274-5
+msgctxt "../novel_25.html+html.body.div.div.div.div.div.div.div.ul.li:274-5"
+msgid "「え……そうなのですか？」"
+msgstr ""
+
+#: ../novel_25.html%2Bhtml.body.div.div.div.div:278-1
+msgid ""
+"ナギ「ああ、大丈夫さ。次目覚めたとき……もっと素敵な世の中になっているからね」<br /> <br /> 失敗だ、今回も。<br /> "
+"だからやり直さなければいけない。最初から……すべてを初期化して。<br /> <br /> ナギ「どうした？」<br /> <br /> "
+"しばらく歩みを進める。<br /> 灰桜はついてきてなかった。立ち止まって、不安そうな瞳を向けている。"
+msgstr ""
+
+#: ../novel_25.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:295-5
+msgctxt "../novel_25.html+html.body.div.div.div.div.div.div.div.ul.li:295-5"
+msgid "「……忘れてしまうのですか？」"
+msgstr ""
+
+#: ../novel_25.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:296-5
+msgctxt "../novel_25.html+html.body.div.div.div.div.div.div.div.ul.li:296-5"
+msgid "「……忘れてしまうのですか？」"
+msgstr ""
+
+#: ../novel_25.html%2Bhtml.body.div.div.div.div:300-1
+msgid ""
+"ナギは胸が締め付けられるような思いだった。<br /> 気がつけば、瑠璃色のくりくりした瞳から目をそらしていた。<br /> <br /> "
+"ナギ「……すまない」<br /> <br /> そう絞り出すのがやっとだった。<br /> <br /> ナギ「行こう」"
+msgstr ""
+
+#: ../novel_25.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:316-5
+msgctxt "../novel_25.html+html.body.div.div.div.div.div.div.div.ul.li:316-5"
+msgid "「……はい」"
+msgstr ""
+
+#: ../novel_25.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:317-5
+msgctxt "../novel_25.html+html.body.div.div.div.div.div.div.div.ul.li:317-5"
+msgid "「……はい」"
+msgstr ""
+
+#: ../novel_25.html%2Bhtml.body.div.div.div.div:321-1
+msgid "ゆっくりとブーツを鳴らす。<br /> 灰桜はそれ以上なにを言うでもなく、後ろを追いかけてきた。"
+msgstr ""
+
+#: ../novel_25.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:334-5
+msgctxt "../novel_25.html+html.body.div.div.div.div.div.div.div.ul.li:334-5"
+msgid "「冬の花火、夜空にまたたく奇跡よ……」"
+msgstr ""
+
+#: ../novel_25.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:335-5
+msgctxt "../novel_25.html+html.body.div.div.div.div.div.div.div.ul.li:335-5"
+msgid "「冬の花火、夜空にまたたく奇跡よ……」"
+msgstr ""
+
+#: ../novel_25.html%2Bhtml.body.div.div.div.div:339-1
+msgid "ふと、詩が響く。"
+msgstr ""
+
+#: ../novel_25.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:349-5
+msgctxt "../novel_25.html+html.body.div.div.div.div.div.div.div.ul.li:349-5"
+msgid "「我らを包み、光をまたたかせたまえ……」"
+msgstr ""
+
+#: ../novel_25.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:350-5
+msgctxt "../novel_25.html+html.body.div.div.div.div.div.div.div.ul.li:350-5"
+msgid "「我らを包み、光をまたたかせたまえ……」"
+msgstr ""
+
+#: ../novel_25.html%2Bhtml.body.div.div.div.div:354-1
+msgid ""
+"それはもしかしたら、かつては歌だったのかもしれない。<br /> 大切な気持ち、それだけは忘れまいとするように……。<br /> "
+"灰桜は、ただその言葉を繰り返していた。"
+msgstr ""
+
+#: ../novel_25.html%2Bhtml.body.div.div.div.div.div:361-1
+msgid ""
+"<a href=\"novel_24.html\">＜＜前のエピソード</a> <a href=\"novel_26.html\">次のエピソード＞＞</"
+"a><br> <br><br> <a href=\"https://docs.google.com/forms/d/e/"
+"1FAIpQLSdhB2kW8Tk7HpuzAdeCxmOG858asuw3Gt5Bcillqu5u-iFf4A/viewform\""
+">【こちらのフォームよりご意見・ご感想をお寄せください】</a><br>もれなくデジタルコンテンツをプレゼント！"
+msgstr ""
+
+#: ../novel_25.html%2Bhtml.body.div.div:372-1
+msgid "執筆：丘野塔也 挿絵：まろやか ＣＶ：和氣あず未（灰桜）"
+msgstr ""
+
+#: ../novel_25.html%2Bhtml.body.div.div:381-1
+msgid "目次へ戻る"
+msgstr ""
+
+#: ../novel_25.html%2Bhtml.body.div.div:382-1
+msgid "©VISUAL ARTS / Key"
+msgstr ""

@@ -1,0 +1,331 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-09 19:14+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.5.3\n"
+
+#: ../novel_21.html%2Bhtml[lang]:2-1
+msgid "ja"
+msgstr ""
+
+#: ../novel_21.html%2Bhtml.head.title:8-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】 | Key"
+msgstr ""
+
+#: ../novel_21.html%2Bhtml.head.meta[content]:9-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】"
+msgstr ""
+
+#: ../novel_21.html%2Bhtml.head.meta[content]:10-1
+msgid "Key,キー,kinetic,novel,キネティックノベル"
+msgstr ""
+
+#: ../novel_21.html%2Bhtml.body.div.div.div.div:44-1
+msgid "プリマドール・アンコール"
+msgstr ""
+
+#: ../novel_21.html%2Bhtml.body.div.div.div.div:48-1
+msgid "03-06 冬の花火（６）"
+msgstr ""
+
+#: ../novel_21.html%2Bhtml.body.div.div.div.div:52-1
+msgid ""
+"<a href=\"novel_20.html\">＜＜前のエピソード</a> <a href=\"novel.html\">目次</a> <a "
+"href=\"novel_22.html\">次のエピソード＞＞</a>"
+msgstr ""
+
+#: ../novel_21.html%2Bhtml.body.div.div.div.div:56-1
+msgid "長く静かな夜が明け、遅い朝がやってくる。<br /> 雪はまだ降り続いたまま。白白とした空から剥がれ落ちるように、雪の結晶が舞い落ちていた。"
+msgstr ""
+
+#: ../novel_21.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:70-5
+msgctxt "../novel_21.html+html.body.div.div.div.div.div.div.div.ul.li:70-5"
+msgid "「おはようございます、リリアさん」"
+msgstr ""
+
+#: ../novel_21.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:71-5
+msgctxt "../novel_21.html+html.body.div.div.div.div.div.div.div.ul.li:71-5"
+msgid "「おはようございます、リリアさん」"
+msgstr ""
+
+#: ../novel_21.html%2Bhtml.body.div.div.div.div:75-1
+msgid "すこしお寝坊なことを気にして、灰桜が寝室にやってくる。"
+msgstr ""
+
+#: ../novel_21.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:85-5
+msgctxt "../novel_21.html+html.body.div.div.div.div.div.div.div.ul.li:85-5"
+msgid "「朝ごはんできていますよ。今朝はパンとチーズと、あと……」"
+msgstr ""
+
+#: ../novel_21.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:86-5
+msgctxt "../novel_21.html+html.body.div.div.div.div.div.div.div.ul.li:86-5"
+msgid "「朝ごはんできていますよ。今朝はパンとチーズと、あと……」"
+msgstr ""
+
+#: ../novel_21.html%2Bhtml.body.div.div.div.div:90-1
+msgid "雪明かりが反射する室内は、どこかうら寂しい印象だ。"
+msgstr ""
+
+#: ../novel_21.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:100-5
+msgctxt "../novel_21.html+html.body.div.div.div.div.div.div.div.ul.li:100-5"
+msgid "「……リリアさん？」"
+msgstr ""
+
+#: ../novel_21.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:101-5
+msgctxt "../novel_21.html+html.body.div.div.div.div.div.div.div.ul.li:101-5"
+msgid "「……リリアさん？」"
+msgstr ""
+
+#: ../novel_21.html%2Bhtml.body.div.div.div.div:105-1
+msgid ""
+"きょろきょろと辺りを見回す。<br /> 室内は寒々しく、人の温もりは感じられない。<br /> "
+"そのベッドは空っぽで、書き置きらしきメモが一枚置いてあった。重しの代わりに乗せられているのは、一枚のシリングコイン。<br /> "
+"部屋の片隅に寄せていた車椅子は、最初から無かったかのように姿を消している。"
+msgstr ""
+
+#: ../novel_21.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:118-5
+msgctxt "../novel_21.html+html.body.div.div.div.div.div.div.div.ul.li:118-5"
+msgid "「……みゅ？」"
+msgstr ""
+
+#: ../novel_21.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:119-5
+msgctxt "../novel_21.html+html.body.div.div.div.div.div.div.div.ul.li:119-5"
+msgid "「……みゅ？」"
+msgstr ""
+
+#: ../novel_21.html%2Bhtml.body.div.div.div.div.div:126-2
+msgid "＊ ＊ ＊"
+msgstr ""
+
+#: ../novel_21.html%2Bhtml.body.div.div.div.div:127-340
+msgid ""
+"リリア「よいっ……しょっ……」<br /> <br /> 雪に車輪を取られながら、リリアは車椅子を押す。<br /> "
+"ひどく寒い朝だった。手袋をしていても、グリップを持つ手がかじかんでしまい、力が入らない。なんとか坂道を登りきると、遠くに総主教会が見えてきた。<br /"
+"> ちらりと、名残を惜しむように振り返る。<br /> "
+"展望台の上から、住宅街の屋根が広がっているのが見える。真っ白な雪を載せて、まるでベッドが立ち並んでいるようだ。<br /> <br /> "
+"リリア「ごめんね、灰桜……」<br /> <br /> 短い感謝の手紙だけを残して、リリアは灰桜のもとを発った。<br /> "
+"これ以上お世話になるわけにはいかない。彼女のマスターだってもう帰ってくるだろうし、そうなると余計な詮索をされるだろう。なによりあの男と接触してしまった。"
+"<br /> コートのポケットを探ると、くしゃりと皺の入った名刺を取り出す。実のところ、リリアは迷っていた。いまならまだ引き返せるのではないか……そんな考"
+"えが頭をよぎる。きっと灰桜と出会ってしまったせいだ。ポンコツで、無邪気で……無垢な笑顔の人形。もうすこし早く彼女のような存在に出会えたなら、あるいは決断し"
+"なかったかもしれない。<br /> でも、いまさらなんて言って劇団に戻ればいいのだろう。いや、そもそも居場所はあるのだろうか……？<br /> <br /"
+"> 男「お嬢さん、今朝は冷えるね」<br /> <br /> 答えの出ない考えを巡らせていると、背後から声をかけられた。<br /> <br /> "
+"男「昨夜はよく休めたかい」<br /> <br /> 帽子を傾けて挨拶する。厚手のコートで覆われた、大柄の体。今日は首元に洒落た柄のマフラーを巻いていた。"
+"<br /> <br /> 男「そう緊張しないで。取引といこうか」<br /> リリア「あの、私……」<br /> "
+"男「おっと、いまさら怖気づいたなんて言うなよ」<br /> <br /> じっと顔を覗き込んでくる。白粉のような匂いがした。<br /> <br /> "
+"男「こっちも商売なんだ」<br /> <br /> どすの効いた声を上げる。<br /> リリアはもう後戻りできないのだと、改めてそう思い知らされた。"
+"<br /> <br /> 男「これが約束の人形かい？」<br /> リリア「ええ……そうよ」<br /> "
+"男「助かるねぇ。戦争続きで人形がちっとも手に入らなくてね。劇場で働いていたとなるとさぞかしいい値がつくだろうよ」<br /> リリア「あの、お金は……」"
+"<br /> 男「そう焦るなって。モノを確認してからだ……」<br /> <br /> 粗雑な手付きで、人形に掛けられたストールを剥ぎ取る。<br /> "
+"まじまじとその端正な顔を覗き込んだ。<br /> <br /> 男「……うん？」<br /> リリア「な、なに……？」<br /> "
+"男「おい、こいつは違うぞ」<br /> リリア「違わないわ。レバルジャク少女歌劇団の歌唱人形よ」<br /> "
+"男「昨日、お前の横に人形がいただろう。東邦製やつだ。あいつはどうした？」<br /> リリア「待って……！ あの子は違うわ」<br /> "
+"男「違うもんか、あの人形ならとんでもない値段がつく。さっさと連れてきな」<br /> リリア「勘違いしないで、あの子はわたしが連れてきた人形じゃない」"
+"<br /> 男「はっ、たまたま人形のお友達でもできたのか？」<br /> <br /> 男は小馬鹿にしたように笑う。まったく信じていないことは明らかだ。"
+"<br /> <br /> 男「ちょろまかしたのは一体だけじゃないんだろ？ それとも別の買い手がいるのか？」<br /> "
+"リリア「勘違いよ。私が売りたいといったのはこの人形よ」<br /> 男「こいつじゃ話にならないな」<br /> "
+"リリア「……だったら、この話は無しにしてくれる？」<br /> <br /> あまりに引き下がらないので、業を煮やしたリリアはそう切り出す。<br /> "
+"さっと、男の顔色が変わるのが分かった。<br /> <br /> 男「お嬢さん、俺の顔を潰そうっていうのかい？」<br /> "
+"リリア「そうじゃないわ、出来ないものは出来ないと言っているだけ……」<br /> 男「いい度胸だ」<br /> <br /> "
+"座った目つきで、じりじりと近寄ってくる。<br /> <br /> リリア「な、なによ……大声出すわよ」<br /> "
+"男「好きにしなよ、あんたの味方がいるならな……ローベリア人さん」<br /> リリア「………っ」<br /> <br /> "
+"揶揄するようなその言葉に、リリアは歯噛みした。<br /> バレていた。この髪の色のせいだろうか？ あるいは、最初から検討をつけていたのかもしれない。"
+"<br /> <br /> 男「お情けでこの国においてもらっているってこと、忘れるなよ。不逞ローベリア人は……収容所送りだぞ」<br /> <br /> "
+"その言葉に、リリアは背筋がぞっとする思いだった。<br /> <br /> 男「……東邦製の人形はどこにある？」<br /> <br /> "
+"ぽん、と肩に手を置かれて、リリアは滑稽なほど体を震わせた。<br /> <br /> リリア「そ、それは……」<br /> <br /> "
+"一瞬、あの住宅が脳裏をよぎる。赤塗の壁。あたたかな暖炉。和やかな笑顔……。<br /> <br /> リリア「……言えないわ」<br /> <br /> "
+"絞り出すようにいう。<br /> ちっとも暑くないのに、頬を汗が伝っていた。<br /> <br /> 男「ほーう……」<br /> <br /> "
+"ぎゅっと肩に置かれた手に力が込められる。まるで熊にでもにじり寄られている気分だった。"
+msgstr ""
+
+#: ../novel_21.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:231-5
+msgctxt "../novel_21.html+html.body.div.div.div.div.div.div.div.ul.li:231-5"
+msgid "「リリアさーんっ！」"
+msgstr ""
+
+#: ../novel_21.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:232-5
+msgctxt "../novel_21.html+html.body.div.div.div.div.div.div.div.ul.li:232-5"
+msgid "「リリアさーんっ！」"
+msgstr ""
+
+#: ../novel_21.html%2Bhtml.body.div.div.div.div:236-1
+msgid "不意に、声が響く。<br /> この状況に似つかわしくない、明るく脳天気な声が。"
+msgstr ""
+
+#: ../novel_21.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:247-5
+msgctxt "../novel_21.html+html.body.div.div.div.div.div.div.div.ul.li:247-5"
+msgid "「よかったぁ、追いつきました……！」"
+msgstr ""
+
+#: ../novel_21.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:248-5
+msgctxt "../novel_21.html+html.body.div.div.div.div.div.div.div.ul.li:248-5"
+msgid "「よかったぁ、追いつきました……！」"
+msgstr ""
+
+#: ../novel_21.html%2Bhtml.body.div.div.div.div:252-1
+msgid ""
+"「灰桜……」<br /> <br /> 背中の煙突から、水蒸気がたなびいている。<br /> そこで笑顔を向けているのは、紛れもなく灰桜だった。"
+msgstr ""
+
+#: ../novel_21.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:265-5
+msgctxt "../novel_21.html+html.body.div.div.div.div.div.div.div.ul.li:265-5"
+msgid "「はい、これ……お忘れ物です！」"
+msgstr ""
+
+#: ../novel_21.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:266-5
+msgctxt "../novel_21.html+html.body.div.div.div.div.div.div.div.ul.li:266-5"
+msgid "「はい、これ……お忘れ物です！」"
+msgstr ""
+
+#: ../novel_21.html%2Bhtml.body.div.div.div.div:270-1
+msgid ""
+"「え……」<br /> <br /> そっと差し出してくれる。<br /> それは、一枚のコインだった。メモを置くとき、重り代わりにしておいた……。"
+"<br /> <br /> 「どうして……」"
+msgstr ""
+
+#: ../novel_21.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:283-5
+msgctxt "../novel_21.html+html.body.div.div.div.div.div.div.div.ul.li:283-5"
+msgid "「すこしでも、旅費の足しになればと思いまして」"
+msgstr ""
+
+#: ../novel_21.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:284-5
+msgctxt "../novel_21.html+html.body.div.div.div.div.div.div.div.ul.li:284-5"
+msgid "「すこしでも、旅費の足しになればと思いまして」"
+msgstr ""
+
+#: ../novel_21.html%2Bhtml.body.div.div.div.div:288-1
+msgid "「馬鹿なことしないで！」"
+msgstr ""
+
+#: ../novel_21.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:296-5
+msgctxt "../novel_21.html+html.body.div.div.div.div.div.div.div.ul.li:296-5"
+msgid "「みゅっ、申し訳ありませんっ」"
+msgstr ""
+
+#: ../novel_21.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:297-5
+msgctxt "../novel_21.html+html.body.div.div.div.div.div.div.div.ul.li:297-5"
+msgid "「みゅっ、申し訳ありませんっ」"
+msgstr ""
+
+#: ../novel_21.html%2Bhtml.body.div.div.div.div:301-1
+msgid "灰桜はぴょんと飛び上がって、恐縮した様子で頭を下げる。"
+msgstr ""
+
+#: ../novel_21.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:311-5
+msgctxt "../novel_21.html+html.body.div.div.div.div.div.div.div.ul.li:311-5"
+msgid "「わたし、なにか粗相がありましたか……？」"
+msgstr ""
+
+#: ../novel_21.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:312-5
+msgctxt "../novel_21.html+html.body.div.div.div.div.div.div.div.ul.li:312-5"
+msgid "「わたし、なにか粗相がありましたか……？」"
+msgstr ""
+
+#: ../novel_21.html%2Bhtml.body.div.div.div.div:316-1
+msgid ""
+"男「いいや、謝る必要はないさ。手間が省けたよ」<br /> <br /> 肩の重しは、気づけばなくなっていた。<br /> "
+"男はにやにや笑いを浮かべながら、灰桜に近づいていく。<br /> <br /> 男「一緒に来てくれるかい？」"
+msgstr ""
+
+#: ../novel_21.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:329-5
+msgctxt "../novel_21.html+html.body.div.div.div.div.div.div.div.ul.li:329-5"
+msgid "「わたしになにかご用でしょうか？」"
+msgstr ""
+
+#: ../novel_21.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:330-5
+msgctxt "../novel_21.html+html.body.div.div.div.div.div.div.div.ul.li:330-5"
+msgid "「わたしになにかご用でしょうか？」"
+msgstr ""
+
+#: ../novel_21.html%2Bhtml.body.div.div.div.div:334-1
+msgid "男「ああ、とっても大事な要件なんだ。お嬢さんの旅とやらも快適なものになるだろうよ」"
+msgstr ""
+
+#: ../novel_21.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:342-5
+msgctxt "../novel_21.html+html.body.div.div.div.div.div.div.div.ul.li:342-5"
+msgid "「それは、とっても素敵ですね」"
+msgstr ""
+
+#: ../novel_21.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:343-5
+msgctxt "../novel_21.html+html.body.div.div.div.div.div.div.div.ul.li:343-5"
+msgid "「それは、とっても素敵ですね」"
+msgstr ""
+
+#: ../novel_21.html%2Bhtml.body.div.div.div.div:347-1
+msgid "リリアは、車椅子のグリップを持つ手に、ぎゅっと力を込めた。<br /> <br /> 「灰桜っ！」"
+msgstr ""
+
+#: ../novel_21.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:358-5
+msgctxt "../novel_21.html+html.body.div.div.div.div.div.div.div.ul.li:358-5"
+msgid "「はい、どーしたのでしょうか？」"
+msgstr ""
+
+#: ../novel_21.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:359-5
+msgctxt "../novel_21.html+html.body.div.div.div.div.div.div.div.ul.li:359-5"
+msgid "「はい、どーしたのでしょうか？」"
+msgstr ""
+
+#: ../novel_21.html%2Bhtml.body.div.div.div.div:363-1
+msgid ""
+"「………っ！」<br /> <br /> ぐっと力を押して車輪を転がす。<br /> そのまま男に向かって突っ込んだ。<br /> <br /> "
+"「避けて！！！」"
+msgstr ""
+
+#: ../novel_21.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:376-5
+msgctxt "../novel_21.html+html.body.div.div.div.div.div.div.div.ul.li:376-5"
+msgid "「みゅみゅみゅっ……！」"
+msgstr ""
+
+#: ../novel_21.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:377-5
+msgctxt "../novel_21.html+html.body.div.div.div.div.div.div.div.ul.li:377-5"
+msgid "「みゅみゅみゅっ……！」"
+msgstr ""
+
+#: ../novel_21.html%2Bhtml.body.div.div.div.div:381-1
+msgid ""
+"勢いのついた車椅子は、そのまま男の腰骨あたりにぶつかった。<br /> <br /> 男「うおおおおおおおおぉぉぉ！？」<br /> <br /> "
+"人形と合わせて、それがどれほどの重量なのか、男には検討もつかなかっただろう。<br /> "
+"慌てて押し留めようとするが、それが逆効果だった。想定外の重みを受け止めきれず、そのまま一緒に坂道を転げ落ちていく。<br /> <br /> "
+"「灰桜、逃げるわよ！」"
+msgstr ""
+
+#: ../novel_21.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:396-5
+msgctxt "../novel_21.html+html.body.div.div.div.div.div.div.div.ul.li:396-5"
+msgid "「は、はひぃっ……！？」"
+msgstr ""
+
+#: ../novel_21.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:397-5
+msgctxt "../novel_21.html+html.body.div.div.div.div.div.div.div.ul.li:397-5"
+msgid "「は、はひぃっ……！？」"
+msgstr ""
+
+#: ../novel_21.html%2Bhtml.body.div.div.div.div:401-1
+msgid "その小さな手を取る。<br /> リリアは無我夢中で駆け出していた。"
+msgstr ""
+
+#: ../novel_21.html%2Bhtml.body.div.div.div.div.div:410-1
+msgid ""
+"<a href=\"novel_20.html\">＜＜前のエピソード</a> <a href=\"novel_22.html\">次のエピソード＞＞</"
+"a><br> <br><br> <a href=\"https://docs.google.com/forms/d/e/"
+"1FAIpQLSdhB2kW8Tk7HpuzAdeCxmOG858asuw3Gt5Bcillqu5u-iFf4A/viewform\""
+">【こちらのフォームよりご意見・ご感想をお寄せください】</a><br>もれなくデジタルコンテンツをプレゼント！"
+msgstr ""
+
+#: ../novel_21.html%2Bhtml.body.div.div:421-1
+msgid "執筆：丘野塔也 挿絵：まろやか ＣＶ：和氣あず未（灰桜）"
+msgstr ""
+
+#: ../novel_21.html%2Bhtml.body.div.div:430-1
+msgid "目次へ戻る"
+msgstr ""
+
+#: ../novel_21.html%2Bhtml.body.div.div:431-1
+msgid "©VISUAL ARTS / Key"
+msgstr ""

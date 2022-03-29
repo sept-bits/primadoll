@@ -1,0 +1,550 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-09 19:14+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.5.3\n"
+
+#: ../novel_41.html%2Bhtml[lang]:2-1
+msgid "ja"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.head.title:8-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】 | Key"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.head.meta[content]:9-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.head.meta[content]:10-1
+msgid "Key,キー,kinetic,novel,キネティックノベル"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div:44-1
+msgid "プリマドール・アンコール"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div:48-1
+msgid "06-08 雪華文様(8)"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div:52-1
+msgid ""
+"<a href=\"novel_40.html\">＜＜前のエピソード</a> <a href=\"novel.html\">目次</a> <a "
+"href=\"novel_42.html\">次のエピソード＞＞</a>"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:65-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:65-5"
+msgid "「こちらのお部屋でお休みください」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:66-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:66-5"
+msgid "「こちらのお部屋でお休みください」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div:70-1
+msgid ""
+"おとめ「すまないな」<br> <br> 今夜はもう遅いので、奥宮少佐は一泊していくことになった。<br> "
+"来客用の部屋に案内する。こういうケースもあろうかと、あらかじめベッドメイクしておいたのだ。"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:83-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:83-5"
+msgid "「雪羽は……どうしようかしら」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:84-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:84-5"
+msgid "「雪羽は……どうしようかしら」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div:88-1
+msgid "とはいえ、人形については考えていなかった。<br> <br> 雪羽「椅子の一脚を貸してもらおうか。それで事足りる」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:100-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:100-5"
+msgid "「そう……？」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:101-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:101-5"
+msgid "「そう……？」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div:105-1
+msgid ""
+"雪羽「奥宮少佐、お部屋の外で待機しております」<br> おとめ「ああ、ゆっくり休め」<br> 雪羽「はっ」<br> <br> "
+"雪羽は敬礼を、鴉羽は黙礼して、二人は部屋を辞した。"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:119-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:119-5"
+msgid "「向かいの部屋が空いているの。よかったら、そっちを使う？」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:120-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:120-5"
+msgid "「向かいの部屋が空いているの。よかったら、そっちを使う？」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div:124-1
+msgid "雪羽「……部屋？ 人形に部屋など不要だ」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:133-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:133-5"
+msgid "「でも……」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:134-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:134-5"
+msgid "「でも……」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div:138-1
+msgid "雪羽「まさか、貴様は個室を与えられているのか？」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:147-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:147-5"
+msgid "「……そうね、マスターから部屋を割り当てられて……」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:148-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:148-5"
+msgid "「……そうね、マスターから部屋を割り当てられて……」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div:152-1
+msgid "雪羽「奇特なものだな。人形は椅子の一脚もあれば休めるというのに」<br> <br> その声色には、どこか棘があった。"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:164-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:164-5"
+msgid "「そんなの……知っているわ。あたしだって従軍中は……」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:165-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:165-5"
+msgid "「そんなの……知っているわ。あたしだって従軍中は……」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div:169-1
+msgid "雪羽「貴様は３８３連隊所属の自律人形だったそうだな」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:178-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:178-5"
+msgid "「……ええ」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:179-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:179-5"
+msgid "「……ええ」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div:183-1
+msgid "雪羽「名誉ある部隊だ。それが、こんなところでいたずらに時間を潰していていいのか？」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:192-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:192-5"
+msgid "「あたしは……論理機関に問題があって……修理中なのよ……」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:193-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:193-5"
+msgid "「あたしは……論理機関に問題があって……修理中なのよ……」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div:197-1
+msgid "雪羽「さっさと初期化すればいい」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:206-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:206-5"
+msgid "「………」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:207-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:207-5"
+msgid "「………」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div:211-1
+msgid "ずばりそう言われて、鴉羽は言葉を失った。<br> <br> 雪羽「壊れた部品はそっくり新しくすべきだ。問題があるのなら消せばいい」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:223-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:223-5"
+msgid "「あたしだって、早く戦線に復帰したいと思っているわ……」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:224-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:224-5"
+msgid "「あたしだって、早く戦線に復帰したいと思っているわ……」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div:228-1
+msgid "雪羽「そうだ、それが皇国のためだ。遠間博士も、だからこそわざわざスクラップ同然だった貴様を直したのだろう？」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:237-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:237-5"
+msgid "「え、ええ……そう……思うわ」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:238-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:238-5"
+msgid "「え、ええ……そう……思うわ」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div:242-1
+msgid ""
+"雪羽「……実のところ、すこし期待していたのだ」<br> <br> ふと目をそらして、ぽつりと呟く。<br> <br> "
+"雪羽「貴様の活躍は聞いていた。その武勇も。こんな僻地で使用人のようなことをするのは、貴様の役割ではない」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:255-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:255-5"
+msgid "「う……」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:256-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:256-5"
+msgid "「う……」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div:260-1
+msgid "雪羽「言い過ぎたならすまない。台所の椅子を拝借するぞ」<br> <br> スタスタと歩いて行く。"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:272-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:272-5"
+msgid "「分かっているわよ、そんなこと……」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:273-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:273-5"
+msgid "「分かっているわよ、そんなこと……」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div:277-1
+msgid "廊下を照らす、カンテラの薄暗い灯り。<br> ひとり残されたあたしは、そう呟くしかなかった。"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div:284-2
+msgid "＊ ＊ ＊"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:292-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:292-5"
+msgid "「よいしょっ……」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:293-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:293-5"
+msgid "「よいしょっ……」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div:297-1
+msgid ""
+"スコップで雪をかき分けて、どさどさと沿道に排雪していく。<br> "
+"しばらく暖かい日々が続いていたが、ここ数日は急に冷え込んで、豪雪が降り続いていた。皇国でいう寒の戻りというところだろう。<br> <br> "
+"ローサ「うんっ……しょっ」<br> <br> それに続いて、すこし小ぶりなスコップを持ったローサが、同じく雪を掻き捨てている。<br> <br> "
+"ローサ「ごめんね、鴉羽お姉ちゃん。手伝ってもらって……」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:314-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:314-5"
+msgid "「あたしは<ruby>自律人形<rt>オートマタ</rt></ruby>よ、これぐらいへっちゃら」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:315-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:315-5"
+msgid "「あたしは<ruby>自律人形<rt>オートマタ</rt></ruby>よ、これぐらいへっちゃら」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div:319-1
+msgid ""
+"煙突から蒸気を吹き上げながら、笑顔を見せる。<br> 久しぶりに晴れた日。雪は徐々に溶け始め、すっかり重くなっていた。この調子では雪掻きが大変ではないかと"
+"思って、邸宅の雪掻きを終えた後、ローサの自宅へと寄ってみたのだ。案の定で、彼女の身内である祖父は足が悪いため、ひとりで小さな体を動かしていた。スコップを借"
+"りて、二人で雪掻きをすること小一時間。"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:331-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:331-5"
+msgid "「それにしても、この雪の山はすごいわね」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:332-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:332-5"
+msgid "「それにしても、この雪の山はすごいわね」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div:336-1
+msgid ""
+"自宅の屋根や入り口の雪掻きから始まって、街道へと繋がる道まで差し掛かったところで振り返ると、あちこちにこんもりした雪山が生まれていた。<br> <br> "
+"ローサ「雪だるま作れそう」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:348-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:348-5"
+msgid "「いいわね、もうすぐ終わるし、大きいの作りましょうか？」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:349-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:349-5"
+msgid "「いいわね、もうすぐ終わるし、大きいの作りましょうか？」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div:353-1
+msgid ""
+"ローサ「楽しそう」<br> <br> 頬を赤くしながら、ローサは顔をほころばせた。<br> "
+"目標が出来ると作業も捗る。街道までの通路をすっかり通すと、今度は雪の塊を作り始めた。"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:366-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:366-5"
+msgid "「さ、一緒に押して」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:367-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:367-5"
+msgid "「さ、一緒に押して」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div:371-1
+msgid "ローサ「うんしょ、うんしょ……」<br> <br> ごろごろと雪を丸めていく。<br> そのうち、ローサの半分ほどの背丈にまで成長していた。"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:384-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:384-5"
+msgid "「胴体がだいぶ大きくなったわね」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:385-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:385-5"
+msgid "「胴体がだいぶ大きくなったわね」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div:389-1
+msgid "ローサ「え、足じゃなくて？」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:398-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:398-5"
+msgid "「足……？」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:399-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:399-5"
+msgid "「足……？」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div:403-1
+msgid "ローサ「だって、この上に胴体が付いて、頭が乗っかるんでしょう？」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:412-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:412-5"
+msgid "「それだと三段になっちゃうけど」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:413-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:413-5"
+msgid "「それだと三段になっちゃうけど」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div:417-1
+msgid "ローサ「雪だるまって普通三段だよ」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:426-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:426-5"
+msgid "「そんなことないわ。雪だるまっていうからには……こう、だるま形よね」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:427-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:427-5"
+msgid "「そんなことないわ。雪だるまっていうからには……こう、だるま形よね」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div:431-1
+msgid "ローサ「そもそも、だるま形ってなに？」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:440-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:440-5"
+msgid "「だるまっていうのは、ええと……とにかく、頭と胴体の二段よ」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:441-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:441-5"
+msgid "「だるまっていうのは、ええと……とにかく、頭と胴体の二段よ」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div:445-1
+msgid "ローサ「それって足はどこにあるの？」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:454-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:454-5"
+msgid "「足は……無いわ」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:455-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:455-5"
+msgid "「足は……無いわ」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div:459-1
+msgid "ローサ「変なの」<br> <br> くすくす笑っている。どうやら雪だるまひとつとっても、異国では考え方が違うらしい。"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:471-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:471-5"
+msgid "「いいわ、じゃあ三段で作りましょう」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:472-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:472-5"
+msgid "「いいわ、じゃあ三段で作りましょう」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div:476-1
+msgid "ローサ「だるま形じゃなくていい？」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:485-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:485-5"
+msgid "「郷に入っては郷に従えと言うでしょ」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:486-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:486-5"
+msgid "「郷に入っては郷に従えと言うでしょ」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div:490-1
+msgid ""
+"もう二つほど雪の塊をせっせと作って、一緒に持ち上げていく。さすがに頭の段を乗せるのは難儀したが、苦労の末、やがて見上げるほど大きな雪だるまが誕生していた。"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:501-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:501-5"
+msgid "「出来た……」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:502-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:502-5"
+msgid "「出来た……」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div:506-1
+msgid "ローサ「すごい……わたし、雪だるま作ったのはじめて」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:515-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:515-5"
+msgid "「この家の守り神が出来たわね……あら？」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:516-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:516-5"
+msgid "「この家の守り神が出来たわね……あら？」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div:520-1
+msgid ""
+"ふと、微かに焦げたような香りが漂う。<br> 慌てて煙突を見ると、微かに煙が黒っぽくなっていた。<br> <br> ローサ「鴉羽さん、どうしたの？」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:533-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:533-5"
+msgid "「ごめんなさい、燃料が切れかけているみたい……」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:534-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:534-5"
+msgid "「ごめんなさい、燃料が切れかけているみたい……」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div:538-1
+msgid ""
+"備蓄分を節約しようと、今朝は燃料を控えめにしたのだ。雪かきの労働量を見積もれていなかった。<br> <br> "
+"ローサ「それって、うちの機械人形と同じので大丈夫？」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:550-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:550-5"
+msgid "「油分ならなんでも大丈夫なんだけど……でも、心配要らないわ。家に帰るぐらいは保つから……」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:551-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:551-5"
+msgid "「油分ならなんでも大丈夫なんだけど……でも、心配要らないわ。家に帰るぐらいは保つから……」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div:555-1
+msgid "ローサ「ダメ。なにかあったらどうするの？」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:564-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:564-5"
+msgid "「そ、そう……？」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:565-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:565-5"
+msgid "「そ、そう……？」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div:569-1
+msgid "ローサ「うちで飲んでいって。いま用意するから」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:578-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:578-5"
+msgid "「あ、待って。悪いわ……」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:579-5
+msgctxt "../novel_41.html+html.body.div.div.div.div.div.div.div.ul.li:579-5"
+msgid "「あ、待って。悪いわ……」"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div:583-1
+msgid "ローサ「いいからこっち、早く！」<br> <br> ローサの小さな手に引かれて、屋内へと招かれていた。"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div.div.div:593-1
+msgid ""
+"<a href=\"novel_40.html\">＜＜前のエピソード</a> <a href=\"novel_42.html\">次のエピソード＞＞</"
+"a><br> <br><br> <a href=\"https://docs.google.com/forms/d/e/"
+"1FAIpQLSdhB2kW8Tk7HpuzAdeCxmOG858asuw3Gt5Bcillqu5u-iFf4A/viewform\""
+">こちらのフォームよりご意見・ご感想をお寄せください</a><br>もれなくデジタルコンテンツをプレゼント！"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div:604-1
+msgid "執筆：丘野塔也 挿絵：まろやか ＣＶ：楠木ともり（鴉羽）"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div:609-1
+msgid "目次へ戻る"
+msgstr ""
+
+#: ../novel_41.html%2Bhtml.body.div.div.div:610-1
+msgid "©VISUAL ARTS / Key"
+msgstr ""

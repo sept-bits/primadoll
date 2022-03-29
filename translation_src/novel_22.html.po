@@ -1,0 +1,338 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-09 19:14+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.5.3\n"
+
+#: ../novel_22.html%2Bhtml[lang]:2-1
+msgid "ja"
+msgstr ""
+
+#: ../novel_22.html%2Bhtml.head.title:8-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】 | Key"
+msgstr ""
+
+#: ../novel_22.html%2Bhtml.head.meta[content]:9-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】"
+msgstr ""
+
+#: ../novel_22.html%2Bhtml.head.meta[content]:10-1
+msgid "Key,キー,kinetic,novel,キネティックノベル"
+msgstr ""
+
+#: ../novel_22.html%2Bhtml.body.div.div.div.div:44-1
+msgid "プリマドール・アンコール"
+msgstr ""
+
+#: ../novel_22.html%2Bhtml.body.div.div.div.div:48-1
+msgid "03-07 冬の花火（７）"
+msgstr ""
+
+#: ../novel_22.html%2Bhtml.body.div.div.div.div:52-1
+msgid ""
+"<a href=\"novel_21.html\">＜＜前のエピソード</a> <a href=\"novel.html\">目次</a> <a "
+"href=\"novel_23.html\">次のエピソード＞＞</a>"
+msgstr ""
+
+#: ../novel_22.html%2Bhtml.body.div.div.div.div:56-1
+msgid ""
+"日が落ちると、芯から凍えるような寒さが襲ってきた。<br /> 雪はいっこうに止む気配がなく、目抜き通りに白い絨毯を敷き詰めている。せめて体を濡らすことは"
+"避けようと、鎧戸が落とされた商店の前でかがみ込んでいた。月も見えない夜。遠くで微かに灯るガス灯だけが寄る辺だった。<br /> <br /> "
+"「灰桜……あなたは温かいわね」<br /> <br /> "
+"ストールを２人でかぶって、身を寄せ合っている。灰桜の体はぽかぽかと発熱しており、冷え切った体を少しずつ溶かしてくれる。"
+msgstr ""
+
+#: ../novel_22.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:73-5
+msgctxt "../novel_22.html+html.body.div.div.div.div.div.div.div.ul.li:73-5"
+msgid "「わたしは、役に立つ<ruby>自律人形<rt>オートマタ</rt></ruby>ですのでっ」"
+msgstr ""
+
+#: ../novel_22.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:74-5
+msgctxt "../novel_22.html+html.body.div.div.div.div.div.div.div.ul.li:74-5"
+msgid "「わたしは、役に立つ<ruby>自律人形<rt>オートマタ</rt></ruby>ですのでっ」"
+msgstr ""
+
+#: ../novel_22.html%2Bhtml.body.div.div.div.div:78-1
+msgid ""
+"「本当ね……くすっ……」<br /> <br /> 冗談抜きで、彼女がいなければ凍死していたかもしれない。<br /> <br /> 「ごめんね」"
+msgstr ""
+
+#: ../novel_22.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:90-5
+msgctxt "../novel_22.html+html.body.div.div.div.div.div.div.div.ul.li:90-5"
+msgid "「どうして謝るのでしょーか？」"
+msgstr ""
+
+#: ../novel_22.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:91-5
+msgctxt "../novel_22.html+html.body.div.div.div.div.div.div.div.ul.li:91-5"
+msgid "「どうして謝るのでしょーか？」"
+msgstr ""
+
+#: ../novel_22.html%2Bhtml.body.div.div.div.div:95-1
+msgid "「また嘘をついたの……あの人形はね、こっそり売るつもりだったの」"
+msgstr ""
+
+#: ../novel_22.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:103-5
+msgctxt "../novel_22.html+html.body.div.div.div.div.div.div.div.ul.li:103-5"
+msgid "「こっそり……？」"
+msgstr ""
+
+#: ../novel_22.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:104-5
+msgctxt "../novel_22.html+html.body.div.div.div.div.div.div.div.ul.li:104-5"
+msgid "「こっそり……？」"
+msgstr ""
+
+#: ../novel_22.html%2Bhtml.body.div.div.div.div:108-1
+msgid ""
+"「お金持ちにとって、人形はステイタスなの。でもいまは民間の人形なんてほとんど出回っていないから……だから、高値で売れるのよ。こっそり持ち出した……ううん、"
+"盗み出したの」"
+msgstr ""
+
+#: ../novel_22.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:116-5
+msgctxt "../novel_22.html+html.body.div.div.div.div.div.div.div.ul.li:116-5"
+msgid "「人のものを盗むのは、良くないです」"
+msgstr ""
+
+#: ../novel_22.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:117-5
+msgctxt "../novel_22.html+html.body.div.div.div.div.div.div.div.ul.li:117-5"
+msgid "「人のものを盗むのは、良くないです」"
+msgstr ""
+
+#: ../novel_22.html%2Bhtml.body.div.div.div.div:121-1
+msgid ""
+"「そんなの分かってる……でもどうしようもなかったの」<br /> <br /> どうしようもなく悲しくて、涙がにじむのが分かった。<br /> <br /"
+"> 「私にはローベリアの血が入っている……母さんの血よ。劇団には……ううん、この国に居場所なんてないの。毎日、毎日……ひどい扱いをされて……それでも収容所"
+"に送られないだけマシだけど……」"
+msgstr ""
+
+#: ../novel_22.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:133-5
+msgctxt "../novel_22.html+html.body.div.div.div.div.div.div.div.ul.li:133-5"
+msgid "「……そんな……」"
+msgstr ""
+
+#: ../novel_22.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:134-5
+msgctxt "../novel_22.html+html.body.div.div.div.div.div.div.div.ul.li:134-5"
+msgid "「……そんな……」"
+msgstr ""
+
+#: ../novel_22.html%2Bhtml.body.div.div.div.div:138-1
+msgid "「だからお金を作って……お母さんとお父さんの元へ行きたかったの。わたしの居場所に……でも、もうそれは無理だわ……」"
+msgstr ""
+
+#: ../novel_22.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:146-5
+msgctxt "../novel_22.html+html.body.div.div.div.div.div.div.div.ul.li:146-5"
+msgid "「諦めないでください、リリアさん」"
+msgstr ""
+
+#: ../novel_22.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:147-5
+msgctxt "../novel_22.html+html.body.div.div.div.div.div.div.div.ul.li:147-5"
+msgid "「諦めないでください、リリアさん」"
+msgstr ""
+
+#: ../novel_22.html%2Bhtml.body.div.div.div.div:151-1
+msgid ""
+"「ダメなのよ。あいつらとの約束を破った……お金なんてまともに払ってくれないわ。ううん、きっといまも私を探している……見つかったらどんな目に合うか……」"
+msgstr ""
+
+#: ../novel_22.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:159-5
+msgctxt "../novel_22.html+html.body.div.div.div.div.div.div.div.ul.li:159-5"
+msgid "「………」"
+msgstr ""
+
+#: ../novel_22.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:160-5
+msgctxt "../novel_22.html+html.body.div.div.div.div.div.div.div.ul.li:160-5"
+msgid "「………」"
+msgstr ""
+
+#: ../novel_22.html%2Bhtml.body.div.div.div.div:164-1
+msgid "「ごめんね灰桜、こんなことに巻き込んで。早くマスターと合流して。所有者が側にいれば下手なことはできないから……だから」"
+msgstr ""
+
+#: ../novel_22.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:172-5
+msgctxt "../novel_22.html+html.body.div.div.div.div.div.div.div.ul.li:172-5"
+msgid "「……リリアさんは、どうするのですか？」"
+msgstr ""
+
+#: ../novel_22.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:173-5
+msgctxt "../novel_22.html+html.body.div.div.div.div.div.div.div.ul.li:173-5"
+msgid "「……リリアさんは、どうするのですか？」"
+msgstr ""
+
+#: ../novel_22.html%2Bhtml.body.div.div.div.div:177-1
+msgid ""
+"「私は……」<br /> <br /> 灰桜の疑問に、リリアは答えることが出来なかった。<br /> ただしんしんと、雪の降り続ける空だけを見つめた。"
+"<br /> <br /> 「……国境でも、越えようかしら」"
+msgstr ""
+
+#: ../novel_22.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:190-5
+msgctxt "../novel_22.html+html.body.div.div.div.div.div.div.div.ul.li:190-5"
+msgid "「みゅ？」"
+msgstr ""
+
+#: ../novel_22.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:191-5
+msgctxt "../novel_22.html+html.body.div.div.div.div.div.div.div.ul.li:191-5"
+msgid "「みゅ？」"
+msgstr ""
+
+#: ../novel_22.html%2Bhtml.body.div.div.div.div:195-1
+msgid ""
+"「そうよね、ずっとずっと歩いていって……国境線さえ超えればそこはローベリアよ」<br /> <br /> 乾いた笑いが漏れる。<br /> "
+"自分がどれだけ無謀なことを言っているかは分かっている。それでも空想の一つもしなければ心が持たなかった。<br /> <br /> "
+"「皇軍の目をかいくぐって、うまく森を抜けて、ふふふっ……」"
+msgstr ""
+
+#: ../novel_22.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:208-5
+msgctxt "../novel_22.html+html.body.div.div.div.div.div.div.div.ul.li:208-5"
+msgid "「リリアさん」"
+msgstr ""
+
+#: ../novel_22.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:209-5
+msgctxt "../novel_22.html+html.body.div.div.div.div.div.div.div.ul.li:209-5"
+msgid "「リリアさん」"
+msgstr ""
+
+#: ../novel_22.html%2Bhtml.body.div.div.div.div:213-1
+msgid ""
+"気がつけば、隣りにいた温もりがなくなっていた。<br /> 灰桜が立ち上がって、真剣な表情で見つめている。<br /> <br /> 「……怒らないで」"
+"<br /> <br /> 馬鹿なことを言っているのは分かっている。<br /> それが、自殺行為以外のなにものでもないということも……"
+msgstr ""
+
+#: ../novel_22.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:229-5
+msgctxt "../novel_22.html+html.body.div.div.div.div.div.div.div.ul.li:229-5"
+msgid "「怒ってなんかいません」"
+msgstr ""
+
+#: ../novel_22.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:230-5
+msgctxt "../novel_22.html+html.body.div.div.div.div.div.div.div.ul.li:230-5"
+msgid "「怒ってなんかいません」"
+msgstr ""
+
+#: ../novel_22.html%2Bhtml.body.div.div.div.div:234-1
+msgid "「じゃあ……なに？」"
+msgstr ""
+
+#: ../novel_22.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:242-5
+msgctxt "../novel_22.html+html.body.div.div.div.div.div.div.div.ul.li:242-5"
+msgid "「一緒に、ローベリアに行きましょう」"
+msgstr ""
+
+#: ../novel_22.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:243-5
+msgctxt "../novel_22.html+html.body.div.div.div.div.div.div.div.ul.li:243-5"
+msgid "「一緒に、ローベリアに行きましょう」"
+msgstr ""
+
+#: ../novel_22.html%2Bhtml.body.div.div.div.div:247-1
+msgid ""
+"「……は？」<br /> <br /> 灰桜はいたって真面目だった。<br /> ぎゅっとリリアの手を取ると、懸命に引っ張って体を起こしてくれる。<br "
+"/> <br /> 「灰桜、あなたまさか……」"
+msgstr ""
+
+#: ../novel_22.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:260-5
+msgctxt "../novel_22.html+html.body.div.div.div.div.div.div.div.ul.li:260-5"
+"../novel_22.html+html.body.div.div.div.div.div.div.div.ul.li:260-5"
+"../novel_22.html+html.body.div.div.div.div.div.div.div.ul.li:260-5"
+msgid "「はいっ」"
+msgstr ""
+
+#: ../novel_22.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:261-5
+msgctxt "../novel_22.html+html.body.div.div.div.div.div.div.div.ul.li:261-5"
+msgid "「はいっ」"
+msgstr ""
+
+#: ../novel_22.html%2Bhtml.body.div.div.div.div:265-1
+msgid "手をつないだまま、灰桜はにっこりと微笑んだ。"
+msgstr ""
+
+#: ../novel_22.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:275-5
+msgctxt "../novel_22.html+html.body.div.div.div.div.div.div.div.ul.li:275-5"
+msgid "「わたし、お供します！」"
+msgstr ""
+
+#: ../novel_22.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:276-5
+msgctxt "../novel_22.html+html.body.div.div.div.div.div.div.div.ul.li:276-5"
+msgid "「わたし、お供します！」"
+msgstr ""
+
+#: ../novel_22.html%2Bhtml.body.div.div.div.div.div:283-2
+msgid "＊ ＊ ＊"
+msgstr ""
+
+#: ../novel_22.html%2Bhtml.body.div.div.div.div:287-91
+msgid ""
+"雪帽子をかぶった針葉樹林が密集しており、その奥には完全な暗闇が広がっている。足元には申し訳程度の有刺鉄線が敷かれており、片隅には簡素な警告看板。実際のとこ"
+"ろ、この程度の注意喚起で十分だった。アルタリアに住むもので、この森を抜けるという意味を知らないものはいない。<br /><br /> 皇軍の前線はこのずっ"
+"と先だ。その間に守備基地、地雷原、汚染地帯とあらゆる障害が待ち受けている。うかつな侵入者は敵スパイとみなされるに違いない。ましてやリリアにはローベリアの血"
+"が入っている。<br /> <br /> 「灰桜……本当にいいの？」<br /> <br /> "
+"震える声で、隣りにいる人形に尋ねた。手袋越しに、小さな指先の感触が伝わってくる。"
+msgstr ""
+
+#: ../novel_22.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:301-5
+msgctxt "../novel_22.html+html.body.div.div.div.div.div.div.div.ul.li:301-5"
+msgid "「もちろんです、リリアさん」"
+msgstr ""
+
+#: ../novel_22.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:302-5
+msgctxt "../novel_22.html+html.body.div.div.div.div.div.div.div.ul.li:302-5"
+msgid "「もちろんです、リリアさん」"
+msgstr ""
+
+#: ../novel_22.html%2Bhtml.body.div.div.div.div:306-1
+msgid "なにも不安を覚えていない様子で、にっこりと灰桜は笑った。"
+msgstr ""
+
+#: ../novel_22.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:316-5
+msgctxt "../novel_22.html+html.body.div.div.div.div.div.div.div.ul.li:316-5"
+msgid "「行きましょう、リリアさんが幸せに暮らせる場所に」"
+msgstr ""
+
+#: ../novel_22.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:317-5
+msgctxt "../novel_22.html+html.body.div.div.div.div.div.div.div.ul.li:317-5"
+msgid "「行きましょう、リリアさんが幸せに暮らせる場所に」"
+msgstr ""
+
+#: ../novel_22.html%2Bhtml.body.div.div.div.div:321-1
+msgid ""
+"なんだかその表情を見つめていると、不思議と安堵の気持ちがこみ上げてくる。彼女が隣にいてくれることが、心から嬉しかった。<br /> <br /> "
+"「……ありがとう」<br /> <br /> ぎゅっとその手を握りしめて。<br /> <br /> 「行きましょ、灰桜」"
+msgstr ""
+
+#: ../novel_22.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:336-5
+msgctxt "../novel_22.html+html.body.div.div.div.div.div.div.div.ul.li:336-5"
+msgid "「はいっ」"
+msgstr ""
+
+#: ../novel_22.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:337-5
+msgctxt "../novel_22.html+html.body.div.div.div.div.div.div.div.ul.li:337-5"
+msgid "「はいっ」"
+msgstr ""
+
+#: ../novel_22.html%2Bhtml.body.div.div.div.div:341-1
+msgid "やがて、雪を踏みしめて有刺鉄線を超えていた。"
+msgstr ""
+
+#: ../novel_22.html%2Bhtml.body.div.div.div.div.div:349-1
+msgid ""
+"<a href=\"novel_21.html\">＜＜前のエピソード</a> <a href=\"novel_23.html\">次のエピソード＞＞</"
+"a><br> <br><br> <a href=\"https://docs.google.com/forms/d/e/"
+"1FAIpQLSdhB2kW8Tk7HpuzAdeCxmOG858asuw3Gt5Bcillqu5u-iFf4A/viewform\""
+">【こちらのフォームよりご意見・ご感想をお寄せください】</a><br>もれなくデジタルコンテンツをプレゼント！"
+msgstr ""
+
+#: ../novel_22.html%2Bhtml.body.div.div:360-1
+msgid "執筆：丘野塔也 挿絵：まろやか ＣＶ：和氣あず未（灰桜）"
+msgstr ""
+
+#: ../novel_22.html%2Bhtml.body.div.div:369-1
+msgid "目次へ戻る"
+msgstr ""
+
+#: ../novel_22.html%2Bhtml.body.div.div:370-1
+msgid "©VISUAL ARTS / Key"
+msgstr ""

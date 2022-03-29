@@ -1,0 +1,165 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-09 19:14+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.5.3\n"
+
+#: ../novel_15.html%2Bhtml[lang]:2-1
+msgid "ja"
+msgstr ""
+
+#: ../novel_15.html%2Bhtml.head.title:8-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】 | Key"
+msgstr ""
+
+#: ../novel_15.html%2Bhtml.head.meta[content]:9-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】"
+msgstr ""
+
+#: ../novel_15.html%2Bhtml.head.meta[content]:10-1
+msgid "Key,キー,kinetic,novel,キネティックノベル"
+msgstr ""
+
+#: ../novel_15.html%2Bhtml.body.div.div.div.div:44-1
+msgid "プリマドール・アンコール"
+msgstr ""
+
+#: ../novel_15.html%2Bhtml.body.div.div.div.div:48-1
+msgid "02-4 きら星と焼き菓子（４）－終－"
+msgstr ""
+
+#: ../novel_15.html%2Bhtml.body.div.div.div.div:52-1
+msgid ""
+"<a href=\"novel_14.html\">＜＜前のエピソード</a> <a href=\"novel.html\">目次</a> <a "
+"href=\"novel_16.html\">次のエピソード＞＞</a>"
+msgstr ""
+
+#: ../novel_15.html%2Bhtml.body.div.div.div.div:56-1
+msgid ""
+"「すみません、こんなにいっぱいもらっちゃって……」<br /> <br /> ピーナッツ入りシューがたっぷりはいった紙袋を抱える。<br /> "
+"酒屋さんの前で、ぺこりと頭を下げた。"
+msgstr ""
+
+#: ../novel_15.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:72-5
+msgctxt "../novel_15.html+html.body.div.div.div.div.div.div.div.ul.li:72-5"
+msgid "「いいんですよぉ、皆さんで召し上がってくださいっ」"
+msgstr ""
+
+#: ../novel_15.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:73-5
+msgctxt "../novel_15.html+html.body.div.div.div.div.div.div.div.ul.li:73-5"
+msgid "「いいんですよぉ、皆さんで召し上がってくださいっ」"
+msgstr ""
+
+#: ../novel_15.html%2Bhtml.body.div.div.div.div:77-1
+msgid "「それに、おつまみまで」<br /> <br /> 大判のするめまでお土産にもらってしまった。"
+msgstr ""
+
+#: ../novel_15.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:89-5
+msgctxt "../novel_15.html+html.body.div.div.div.div.div.div.div.ul.li:89-5"
+msgid "「炙るとおいしいですよ。オーナーさんのお酒の供にどうぞ☆ ああ、あと……」"
+msgstr ""
+
+#: ../novel_15.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:90-5
+msgctxt "../novel_15.html+html.body.div.div.div.div.div.div.div.ul.li:90-5"
+msgid "「炙るとおいしいですよ。オーナーさんのお酒の供にどうぞ☆ ああ、あと……」"
+msgstr ""
+
+#: ../novel_15.html%2Bhtml.body.div.div.div.div:94-1
+msgid "腰から下げたメモ帳をめくると、そのうち一枚をぴっと切り離す。"
+msgstr ""
+
+#: ../novel_15.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:103-5
+msgctxt "../novel_15.html+html.body.div.div.div.div.div.div.div.ul.li:103-5"
+msgid "箒星「今日作ったシュー生地のレシピです」"
+msgstr ""
+
+#: ../novel_15.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:104-5
+msgctxt "../novel_15.html+html.body.div.div.div.div.div.div.div.ul.li:104-5"
+msgid "箒星「今日作ったシュー生地のレシピです」"
+msgstr ""
+
+#: ../novel_15.html%2Bhtml.body.div.div.div.div:108-1
+msgid "「なにからなにまで、本当すみません」"
+msgstr ""
+
+#: ../novel_15.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:115-5
+msgctxt "../novel_15.html+html.body.div.div.div.div.div.div.div.ul.li:115-5"
+msgid "「いいんですよ、外は暗いのでお気をつけくださいね」"
+msgstr ""
+
+#: ../novel_15.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:116-5
+msgctxt "../novel_15.html+html.body.div.div.div.div.div.div.div.ul.li:116-5"
+msgid "「いいんですよ、外は暗いのでお気をつけくださいね」"
+msgstr ""
+
+#: ../novel_15.html%2Bhtml.body.div.div.div.div:120-1
+msgid "「大通りを通っていけば、外灯があるので平気です。<br /> 箒星さん、本当にありがとうございます」"
+msgstr ""
+
+#: ../novel_15.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:128-5
+msgctxt "../novel_15.html+html.body.div.div.div.div.div.div.div.ul.li:128-5"
+msgid "「いいえ、からちゃんとげっちゃん……それに、灰ちゃんによろしくお願いします」"
+msgstr ""
+
+#: ../novel_15.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:129-5
+msgctxt "../novel_15.html+html.body.div.div.div.div.div.div.div.ul.li:129-5"
+msgid "「いいえ、からちゃんとげっちゃん……それに、灰ちゃんによろしくお願いします」"
+msgstr ""
+
+#: ../novel_15.html%2Bhtml.body.div.div.div.div:133-1
+msgid "箒星は、一瞬懐かしそうな遠い目をして。<br /> それから、柔らかな表情でにっこりと微笑んだ。"
+msgstr ""
+
+#: ../novel_15.html%2Bhtml.body.div.div.div.div.div:138-2
+msgid "＊ ＊ ＊"
+msgstr ""
+
+#: ../novel_15.html%2Bhtml.body.div.div.div.div:139-340
+msgid ""
+"宇佐美「ただいま……」<br /> <br /> そうっと黒猫亭のドアを開ける。<br /> "
+"室内は真っ暗の静寂だけがある。人形たちは動力源を一時停止して、眠っているのだろう、ピーナッツ入りシューを振る舞うのは明日になりそうだ。<br /> "
+"厨房に入ると、電灯を灯す。棚から分厚いレシピ帳を開くと、シュー生地の項目に、箒星さんからもらったメモを挟み込んだ。<br /> "
+"万年筆で丁寧に、こと細かく書かれたレシピ。<br /> メモの筆跡もそれとまったく同じで、レシピ帳に新しい一頁を添えていた。<br /> <br /> "
+"鴉羽「おかえりなさい」<br /> 宇佐美「鴉羽さん、起きてたんですか？」<br /> "
+"鴉羽「遅くなるって電話はもらってたけど、一応帰ってくるまでは待ってようと思って」<br /> "
+"宇佐美「すみません……あ、お礼と言ってはなんですけど、食べますか？」<br /> 鴉羽「これって……」<br /> <br /> "
+"ころんとしたピーナッツ入りシューを差し出す。<br /> <br /> 宇佐美「料理、習ってたんです」<br /> 鴉羽「じゃあ、いただくわ。はむ……」"
+"<br /> <br /> 穏やかに笑って、さっくりふわふわの生地を堪能していた。<br /> <br /> 鴉羽「食感が楽しいわね」<br /> "
+"宇佐美「あ、ピーナッツ入ってました？ 食べると幸運が舞い込むらしいですよ」<br /> 鴉羽「……箒星に会ったの？」<br /> "
+"宇佐美「はい、偶然でしたけど。黒猫亭の前の厨房係さんに」<br /> 鴉羽「元気そうだった？」<br /> 宇佐美「酒屋さんで腕をふるってました」<br "
+"/> 鴉羽「それは、良かったわ」<br /> 宇佐美「どうしてあそこで働いているんですか？」<br /> "
+"鴉羽「ほら、あそこの娘さんとは顔なじみでね。春先、急に料理人が辞めちゃったらしくて……」<br /> 宇佐美「それで、臨時に雇われていると……」<br /"
+"> 鴉羽「ええ、人形を信頼してくれる人と一緒に働くのはいいことだって……前のオーナーもそう言ってたから」<br /> "
+"宇佐美「黒猫亭には帰ってくるんですか？」<br /> 鴉羽「最近、新人が入ったみたい。引き継ぎを終えたら戻ってくるって言ってたわ」<br /> "
+"宇佐美「あの、その場合ボクはクビになったり……」<br /> 鴉羽「いったでしょ、人形を信頼してくれる人と働くのはいいことだって」<br /> <br /"
+"> 心配を和らげるように、鴉羽さんは柔らかく微笑んだ。<br /> <br /> 鴉羽「うささん、あなたもその一人なんだから」<br /> "
+"鴉羽「箒星も、すぐにって訳じゃ無さそうだし。だから……期待してるわね」<br /> 宇佐美「……はいっ」<br /> <br /> "
+"教わるべきところは教わって、ボクも頑張らないとな。<br /> でも、きっと大丈夫だろう。<br /> "
+"ピーナッツを食べると幸運が舞い込むって、そう言っていたし。"
+msgstr ""
+
+#: ../novel_15.html%2Bhtml.body.div.div.div.div.div:194-1
+msgid ""
+"<a href=\"novel_14.html\">＜＜前のエピソード</a> <a href=\"novel_16.html\""
+">次のエピソード＞＞</a>"
+msgstr ""
+
+#: ../novel_15.html%2Bhtml.body.div.div:203-1
+msgid "執筆：丘野塔也 挿絵：まろやか ＣＶ：中島由貴（箒星）"
+msgstr ""
+
+#: ../novel_15.html%2Bhtml.body.div.div:208-1
+msgid "目次へ戻る"
+msgstr ""
+
+#: ../novel_15.html%2Bhtml.body.div.div:209-1
+msgid "©VISUAL ARTS / Key"
+msgstr ""

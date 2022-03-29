@@ -1,0 +1,283 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-09 19:14+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.5.3\n"
+
+#: ../novel_03.html%2Bhtml[lang]:2-1
+msgid "ja"
+msgstr ""
+
+#: ../novel_03.html%2Bhtml.head.title:8-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】 | Key"
+msgstr ""
+
+#: ../novel_03.html%2Bhtml.head.meta[content]:9-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】"
+msgstr ""
+
+#: ../novel_03.html%2Bhtml.head.meta[content]:10-1
+msgid "Key,キー,kinetic,novel,キネティックノベル"
+msgstr ""
+
+#: ../novel_03.html%2Bhtml.body.div.div.div.div:44-1
+msgid "プリマドール・アンコール"
+msgstr ""
+
+#: ../novel_03.html%2Bhtml.body.div.div.div.div:48-1
+msgid "01-03 あんぱんと自律人形（３）"
+msgstr ""
+
+#: ../novel_03.html%2Bhtml.body.div.div.div.div:52-1
+msgid ""
+"<a href=\"novel_02.html\">＜＜前のエピソード</a> <a href=\"novel.html\">目次</a> <a "
+"href=\"novel_04.html\">次のエピソード＞＞</a>"
+msgstr ""
+
+#: ../novel_03.html%2Bhtml.body.div.div.div.div:55-1
+msgid ""
+"「灰桜は、パン屋で働いているの？」<br /> <br /> 素朴な疑問を口にすると、きょとんとした声が帰ってきた。<br /> <br /> "
+"「いや、あんぱんを売っていたから」"
+msgstr ""
+
+#: ../novel_03.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:73-5
+msgctxt "../novel_03.html+html.body.div.div.div.div.div.div.div.ul.li:73-5"
+msgid "「違うのです、話せば長くなりますが……」"
+msgstr ""
+
+#: ../novel_03.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:74-5
+msgctxt "../novel_03.html+html.body.div.div.div.div.div.div.div.ul.li:74-5"
+msgid "「違うのです、話せば長くなりますが……」"
+msgstr ""
+
+#: ../novel_03.html%2Bhtml.body.div.div.div.div:78-1
+msgid ""
+"なにやら深い事情があるらしい。<br /> ボクは居住まいを正すと、彼女の声に耳を傾けようとした。<br /> "
+"彼女がここにいたるまで、それはそれは大きな波乱があったのだろうか……？"
+msgstr ""
+
+#: ../novel_03.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:92-5
+msgctxt "../novel_03.html+html.body.div.div.div.div.div.div.div.ul.li:92-5"
+msgid "「実はわたしは、喫茶店で働く人形なのですが……」"
+msgstr ""
+
+#: ../novel_03.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:93-5
+msgctxt "../novel_03.html+html.body.div.div.div.div.div.div.div.ul.li:93-5"
+msgid "「実はわたしは、喫茶店で働く人形なのですが……」"
+msgstr ""
+
+#: ../novel_03.html%2Bhtml.body.div.div.div.div:97-1
+msgid "真剣な様子で視線を向けてくる。"
+msgstr ""
+
+#: ../novel_03.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:108-5
+msgctxt "../novel_03.html+html.body.div.div.div.div.div.div.div.ul.li:108-5"
+msgid "「お店で使用するパンを買い出しに来たまでは良かったのですが……」"
+msgstr ""
+
+#: ../novel_03.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:109-5
+msgctxt "../novel_03.html+html.body.div.div.div.div.div.div.div.ul.li:109-5"
+msgid "「お店で使用するパンを買い出しに来たまでは良かったのですが……」"
+msgstr ""
+
+#: ../novel_03.html%2Bhtml.body.div.div.div.div:113-1
+msgid "「うっかり全部食べちゃったとか？」"
+msgstr ""
+
+#: ../novel_03.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:123-5
+msgctxt "../novel_03.html+html.body.div.div.div.div.div.div.div.ul.li:123-5"
+msgid "「違いますっ」"
+msgstr ""
+
+#: ../novel_03.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:124-5
+msgctxt "../novel_03.html+html.body.div.div.div.div.div.div.div.ul.li:124-5"
+msgid "「違いますっ」"
+msgstr ""
+
+#: ../novel_03.html%2Bhtml.body.div.div.div.div:128-1
+msgid "「えっと……うっかりパンを落としちゃったとか？」"
+msgstr ""
+
+#: ../novel_03.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:138-5
+msgctxt "../novel_03.html+html.body.div.div.div.div.div.div.div.ul.li:138-5"
+msgid "「そんなにうっかりしてませんよ～」"
+msgstr ""
+
+#: ../novel_03.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:139-5
+msgctxt "../novel_03.html+html.body.div.div.div.div.div.div.div.ul.li:139-5"
+msgid "「そんなにうっかりしてませんよ～」"
+msgstr ""
+
+#: ../novel_03.html%2Bhtml.body.div.div.div.div:143-1
+msgid "「うっかりお金を落としたとか」"
+msgstr ""
+
+#: ../novel_03.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:152-5
+msgctxt "../novel_03.html+html.body.div.div.div.div.div.div.div.ul.li:152-5"
+msgid "「みゅっ」"
+msgstr ""
+
+#: ../novel_03.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:153-5
+msgctxt "../novel_03.html+html.body.div.div.div.div.div.div.div.ul.li:153-5"
+msgid "「みゅっ」"
+msgstr ""
+
+#: ../novel_03.html%2Bhtml.body.div.div.div.div:157-1
+msgid "ぴくっと体を震わせる。"
+msgstr ""
+
+#: ../novel_03.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:168-5
+msgctxt "../novel_03.html+html.body.div.div.div.div.div.div.div.ul.li:168-5"
+msgid "「……どうしてそれを」"
+msgstr ""
+
+#: ../novel_03.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:169-5
+msgctxt "../novel_03.html+html.body.div.div.div.div.div.div.div.ul.li:169-5"
+msgid "「……どうしてそれを」"
+msgstr ""
+
+#: ../novel_03.html%2Bhtml.body.div.div.div.div:173-1
+msgid "どうやら図星だったらしい。<br /> <br /> 「なるほど、それでアルバイトして、パンを買うお金を捻出していたと」"
+msgstr ""
+
+#: ../novel_03.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:185-5
+msgctxt "../novel_03.html+html.body.div.div.div.div.div.div.div.ul.li:185-5"
+msgid "「はいぃ……特売のあんぱんを売り切れば、お店用のパンをいただけるとのことでしたので……」"
+msgstr ""
+
+#: ../novel_03.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:186-5
+msgctxt "../novel_03.html+html.body.div.div.div.div.div.div.div.ul.li:186-5"
+msgid "「はいぃ……特売のあんぱんを売り切れば、お店用のパンをいただけるとのことでしたので……」"
+msgstr ""
+
+#: ../novel_03.html%2Bhtml.body.div.div.div.div:190-1
+msgid "「それなら、大成功だね。休憩はこの辺にしておこう」"
+msgstr ""
+
+#: ../novel_03.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:201-5
+msgctxt "../novel_03.html+html.body.div.div.div.div.div.div.div.ul.li:201-5"
+msgid "「と、いいますと？」"
+msgstr ""
+
+#: ../novel_03.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:202-5
+msgctxt "../novel_03.html+html.body.div.div.div.div.div.div.div.ul.li:202-5"
+msgid "「と、いいますと？」"
+msgstr ""
+
+#: ../novel_03.html%2Bhtml.body.div.div.div.div:206-1
+msgid "「バイト代のパンを貰いにいかないと」"
+msgstr ""
+
+#: ../novel_03.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:215-5
+msgctxt "../novel_03.html+html.body.div.div.div.div.div.div.div.ul.li:215-5"
+msgid "「そうでした！」"
+msgstr ""
+
+#: ../novel_03.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:216-5
+msgctxt "../novel_03.html+html.body.div.div.div.div.div.div.div.ul.li:216-5"
+msgid "「そうでした！」"
+msgstr ""
+
+#: ../novel_03.html%2Bhtml.body.div.div.div.div:220-1
+msgid "２人して立ち上がる。"
+msgstr ""
+
+#: ../novel_03.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:233-5
+msgctxt "../novel_03.html+html.body.div.div.div.div.div.div.div.ul.li:233-5"
+msgid "「あちらですっ」"
+msgstr ""
+
+#: ../novel_03.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:234-5
+msgctxt "../novel_03.html+html.body.div.div.div.div.div.div.div.ul.li:234-5"
+msgid "「あちらですっ」"
+msgstr ""
+
+#: ../novel_03.html%2Bhtml.body.div.div.div.div.div:242-2
+msgid "＊ ＊ ＊"
+msgstr ""
+
+#: ../novel_03.html%2Bhtml.body.div.div.div.div:243-340
+msgid "桜並木の先、坂道をすこしくだった先。<br /> そこに小さなパン屋さんがのぼりを揚げていた。"
+msgstr ""
+
+#: ../novel_03.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:260-5
+msgctxt "../novel_03.html+html.body.div.div.div.div.div.div.div.ul.li:260-5"
+msgid "「こ、こんなにいただけるんですかっ」"
+msgstr ""
+
+#: ../novel_03.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:261-5
+msgctxt "../novel_03.html+html.body.div.div.div.div.div.div.div.ul.li:261-5"
+msgid "「こ、こんなにいただけるんですかっ」"
+msgstr ""
+
+#: ../novel_03.html%2Bhtml.body.div.div.div.div:265-1
+msgid ""
+"灰桜はパン屋さんの前で、困惑した声を上げる。<br /> <br /> 「頑張ってくれたからねえ、おまけしておくよ」<br /> <br /> "
+"朗らかな声を返すのは、初老の女店主だ。"
+msgstr ""
+
+#: ../novel_03.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:281-5
+msgctxt "../novel_03.html+html.body.div.div.div.div.div.div.div.ul.li:281-5"
+msgid "「食パン２本で良かったのですが……」"
+msgstr ""
+
+#: ../novel_03.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:282-5
+msgctxt "../novel_03.html+html.body.div.div.div.div.div.div.div.ul.li:282-5"
+msgid "「食パン２本で良かったのですが……」"
+msgstr ""
+
+#: ../novel_03.html%2Bhtml.body.div.div.div.div:286-1
+msgid ""
+"食パン２本の入った紙袋が合計２袋。<br /> だいたい１本は３斤なので、合計１２斤の食パンをもらった格好だ。<br /> <br /> "
+"「貰っておきなよ。ほら、半分持つよ」"
+msgstr ""
+
+#: ../novel_03.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:300-5
+msgctxt "../novel_03.html+html.body.div.div.div.div.div.div.div.ul.li:300-5"
+msgid "「よろしいのですか？」"
+msgstr ""
+
+#: ../novel_03.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:301-5
+msgctxt "../novel_03.html+html.body.div.div.div.div.div.div.div.ul.li:301-5"
+msgid "「よろしいのですか？」"
+msgstr ""
+
+#: ../novel_03.html%2Bhtml.body.div.div.div.div:305-1
+msgid "「灰桜が務めている喫茶店、興味があるんだ。案内してくれるかい？」"
+msgstr ""
+
+#: ../novel_03.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:319-5
+msgctxt "../novel_03.html+html.body.div.div.div.div.div.div.div.ul.li:319-5"
+msgid "「もちろん、よろこんでっ」"
+msgstr ""
+
+#: ../novel_03.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:320-5
+msgctxt "../novel_03.html+html.body.div.div.div.div.div.div.div.ul.li:320-5"
+msgid "「もちろん、よろこんでっ」"
+msgstr ""
+
+#: ../novel_03.html%2Bhtml.body.div.div.div.div.div:329-1
+msgid ""
+"<a href=\"novel_02.html\">＜＜前のエピソード</a> <a href=\"novel_04.html\""
+">次のエピソード＞＞</a>"
+msgstr ""
+
+#: ../novel_03.html%2Bhtml.body.div.div:336-1
+msgid "執筆：丘野塔也 挿絵：まろやか ＣＶ：和氣あず未（灰桜）"
+msgstr ""
+
+#: ../novel_03.html%2Bhtml.body.div.div:341-1
+msgid "目次へ戻る"
+msgstr ""
+
+#: ../novel_03.html%2Bhtml.body.div.div:342-1
+msgid "©VISUAL ARTS / Key"
+msgstr ""

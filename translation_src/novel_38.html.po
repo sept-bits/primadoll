@@ -1,0 +1,441 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-09 19:14+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.5.3\n"
+
+#: ../novel_38.html%2Bhtml[lang]:2-1
+msgid "ja"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.head.title:8-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】 | Key"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.head.meta[content]:9-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.head.meta[content]:10-1
+msgid "Key,キー,kinetic,novel,キネティックノベル"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div:44-1
+msgid "プリマドール・アンコール"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div:48-1
+msgid "06-05 雪華文様(5)"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div:52-1
+msgid ""
+"<a href=\"novel_37.html\">＜＜前のエピソード</a> <a href=\"novel.html\">目次</a> <a "
+"href=\"novel_39.html\">次のエピソード＞＞</a>"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:67-5
+msgctxt "../novel_38.html+html.body.div.div.div.div.div.div.div.ul.li:67-5"
+msgid "「よいっ……っしょっ……」"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:68-5
+msgctxt "../novel_38.html+html.body.div.div.div.div.div.div.div.ul.li:68-5"
+msgid "「よいっ……っしょっ……」"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div:72-1
+msgid ""
+"後ろから農作業用の<ruby>機械人形<rt>メカニカ</rt></ruby>を押していく。地面が一部凍っていたのは幸いだった。それほど大きな力をかけなく"
+"ても滑るように進んでくれる。<br> <br> 女の子「お姉ちゃん、本当に大丈夫？」<br> <br> "
+"機械人形の体躯の上に腰かけながら、背後を気にしている。"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:86-5
+msgctxt "../novel_38.html+html.body.div.div.div.div.div.div.div.ul.li:86-5"
+msgid "「あたしは<ruby>自律人形<rt>オートマタ</rt></ruby>よ、これぐらいなんでもないわ」"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:87-5
+msgctxt "../novel_38.html+html.body.div.div.div.div.div.div.div.ul.li:87-5"
+msgid "「あたしは<ruby>自律人形<rt>オートマタ</rt></ruby>よ、これぐらいなんでもないわ」"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div:91-1
+msgid "蒸気を噴き出しながらも、笑顔を向ける。"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:101-5
+msgctxt "../novel_38.html+html.body.div.div.div.div.div.div.div.ul.li:101-5"
+msgid "「名前、聞いてもいいかしら」"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:102-5
+msgctxt "../novel_38.html+html.body.div.div.div.div.div.div.div.ul.li:102-5"
+msgid "「名前、聞いてもいいかしら」"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div:106-1
+msgid "女の子「……ローサ」"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:114-5
+msgctxt "../novel_38.html+html.body.div.div.div.div.div.div.div.ul.li:114-5"
+msgid "「可愛い名前ね。どういう意味があるのかしら」"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:115-5
+msgctxt "../novel_38.html+html.body.div.div.div.div.div.div.div.ul.li:115-5"
+msgid "「可愛い名前ね。どういう意味があるのかしら」"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div:119-1
+msgid "ローサ「バラの花から取ったって。その……お姉ちゃんは？」"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:127-5
+msgctxt "../novel_38.html+html.body.div.div.div.div.div.div.div.ul.li:127-5"
+msgid "「あたしの名前は……」"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:128-5
+msgctxt "../novel_38.html+html.body.div.div.div.div.div.div.div.ul.li:128-5"
+msgid "「あたしの名前は……」"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div:132-1
+msgid "一瞬戸惑うが、やがて顔を上げた。"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:142-5
+msgctxt "../novel_38.html+html.body.div.div.div.div.div.div.div.ul.li:142-5"
+msgid "「鴉羽っていうの。鴉っていうのは黒い鳥で、あたしは髪が黒いから……」"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:143-5
+msgctxt "../novel_38.html+html.body.div.div.div.div.div.div.div.ul.li:143-5"
+msgid "「鴉羽っていうの。鴉っていうのは黒い鳥で、あたしは髪が黒いから……」"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div:147-1
+msgid "ローサ「ぷっ」<br><br> 説明しようとすると、彼女は吹き出した。<br> <br> ローサ「鴉ぐらい知ってる。変な名前……」"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:159-5
+msgctxt "../novel_38.html+html.body.div.div.div.div.div.div.div.ul.li:159-5"
+msgid "「……そ、そうよね」"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:160-5
+msgctxt "../novel_38.html+html.body.div.div.div.div.div.div.div.ul.li:160-5"
+msgid "「……そ、そうよね」"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div.div:167-2
+msgctxt "../novel_38.html+html.body.div.div.div.div.div:167-2"
+msgid "＊ ＊ ＊"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div:168-340
+msgid ""
+"ナギ「古い燃料がタンクの中で固まっているんだよ」<br> <br> 機械人形を押して、やがて邸宅に戻る。<br> "
+"ナギさんは特段驚くでもなく、どこか興味深そうに機械人形を観察すると、事情を二、三割聞いただけで修理を始めていた。<br> <br> "
+"ナギ「それで燃焼不良を起こしているんだな。冬に入る前に燃料は抜かなければいけないよ」<br> <br> "
+"倉庫の中、工具を手にしばらくハッチの中を弄って、すぐに問題に検討を付けていた。<br> <br> ローサ「毎年ちゃんとやっているはずだけど……」<br> "
+"ナギ「念入りにしたほうがいいさ。最近の燃料は不純物が多いからね」<br> ローサ「それは、皇国がいい燃料をみんな持っていくからよ」<br> "
+"ナギ「ははは、違いない」<br> <br> なにやら薬品を持ってきて、タンクを洗浄しようとしている。<br> "
+"乾いたばかりの制服がさっそく汚れてしまいそうだが、また洗えばいいかと思った。<br> <br> ローサ「お姉ちゃんたちは、不思議」"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:194-5
+msgctxt "../novel_38.html+html.body.div.div.div.div.div.div.div.ul.li:194-5"
+msgid "「不思議って……なにが？」"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:195-5
+msgctxt "../novel_38.html+html.body.div.div.div.div.div.div.div.ul.li:195-5"
+msgid "「不思議って……なにが？」"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div:199-1
+msgid ""
+"ローサ「東邦人なのにいばってない」<br> ナギ「軍人は特に偉そうだろ」<br> ローサ「うん」<br> "
+"ナギ「ボクは元々技術者なんだ。人形の研究をしていたんだよ。それがこういう情勢になっちゃって、赤紙一枚で異国まで飛ばされたってわけさ」<br> "
+"ローサ「だから、メイド人形を持ってる？」"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:211-5
+msgctxt "../novel_38.html+html.body.div.div.div.div.div.div.div.ul.li:211-5"
+msgid "「め、メイド人形というか、メイドのようなことをやっているというか……」"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:212-5
+msgctxt "../novel_38.html+html.body.div.div.div.div.div.div.div.ul.li:212-5"
+msgid "「め、メイド人形というか、メイドのようなことをやっているというか……」"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div:216-1
+msgid "ナギ「ああ、彼女はみんなの役に立つ自律人形なのさ」"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:224-5
+msgctxt "../novel_38.html+html.body.div.div.div.div.div.div.div.ul.li:224-5"
+msgid "「役に立つ……」"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:225-5
+msgctxt "../novel_38.html+html.body.div.div.div.div.div.div.div.ul.li:225-5"
+msgid "「役に立つ……」"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div:229-1
+msgid "ナギ「そうだろ？」<br> <br> なんともその言葉の意味が飲み込めなくて、鴉羽は言葉を濁した。"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div.div:235-2
+msgctxt "../novel_38.html+html.body.div.div.div.div.div:235-2"
+msgid "＊ ＊ ＊"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div:236-340
+msgid ""
+"ローサ「すごい、すごい」<br> <br> 軽快に煙を吹き出す機械人形。<br> その背中に跨がりながら、ローサは嬉しそうに笑った。<br> "
+"始めてしまえば、修理はあっという間だった。<br> <br> "
+"ナギ「何度も命令を送ったから、論理機関に負荷がかかっているようだね。しばらくは起動に時間がかかるだろうが、気長にね」<br> "
+"ローサ「交換したほうがいい？」<br> "
+"ナギ「論理機関には修復機能があるから、時間が経てば直るんだ。でも無理させすぎると治らなくなるからね。大切に扱ってあげて」<br> ローサ「わかった」"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:254-5
+msgctxt "../novel_38.html+html.body.div.div.div.div.div.div.div.ul.li:254-5"
+msgid "「雪道は滑りやすいから、気をつけるのよ」"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:255-5
+msgctxt "../novel_38.html+html.body.div.div.div.div.div.div.div.ul.li:255-5"
+msgid "「雪道は滑りやすいから、気をつけるのよ」"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div:259-1
+msgid "ローサ「うん……ありがとう！」<br> <br> 手を振りながら、彼女と機械人形は去っていった。<br> <br> ナギ「お手柄だったね」"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:271-5
+msgctxt "../novel_38.html+html.body.div.div.div.div.div.div.div.ul.li:271-5"
+msgid "「困っていた様子だったので……ただ、それだけです」"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:272-5
+msgctxt "../novel_38.html+html.body.div.div.div.div.div.div.div.ul.li:272-5"
+msgid "「困っていた様子だったので……ただ、それだけです」"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div:276-1
+msgid "ナギ「いいや、誰にでもできることじゃないさ」"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div:280-91
+msgid "ぽんぽん、と肩を叩いてくれる。<br> 照れくさいような、居心地が悪いような、なんとも妙な気持ちだった。"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:289-5
+msgctxt "../novel_38.html+html.body.div.div.div.div.div.div.div.ul.li:289-5"
+msgid "「あの、ひとつ聞きたいのですが」"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:290-5
+msgctxt "../novel_38.html+html.body.div.div.div.div.div.div.div.ul.li:290-5"
+msgid "「あの、ひとつ聞きたいのですが」"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div:294-1
+msgid "そんな気持ちを払おうと、質問を投げかけた。"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:304-5
+msgctxt "../novel_38.html+html.body.div.div.div.div.div.div.div.ul.li:304-5"
+msgid "「<ruby>機械人形<rt>メカニカ</rt></ruby>を指揮できなかったのですが……原因はなんでしょう」"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:305-5
+msgctxt "../novel_38.html+html.body.div.div.div.div.div.div.div.ul.li:305-5"
+msgid "「<ruby>機械人形<rt>メカニカ</rt></ruby>を指揮できなかったのですが……原因はなんでしょう」"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div:309-1
+msgid ""
+"街道で動作不良を起こした機械人形を見かけたときのこと。問題を探ろうと論理機関を繋げようと思ったのだが、灼けつくような感覚と共に遮断されていた。<br> "
+"<br> ナギ「すまない、ちゃんと言っておくべきだったね」<br> <br> すこしばつが悪そうに、マスターは頭を掻いた。"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:323-5
+msgctxt "../novel_38.html+html.body.div.div.div.div.div.div.div.ul.li:323-5"
+msgid "「もしかして……」"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:324-5
+msgctxt "../novel_38.html+html.body.div.div.div.div.div.div.div.ul.li:324-5"
+msgid "「もしかして……」"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div:328-1
+msgid "ナギ「それが一番の故障なんだ。キミの論理機関は壊れているんだ」"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:336-5
+msgctxt "../novel_38.html+html.body.div.div.div.div.div.div.div.ul.li:336-5"
+msgid "「そんな……」"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:337-5
+msgctxt "../novel_38.html+html.body.div.div.div.div.div.div.div.ul.li:337-5"
+msgid "「そんな……」"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div:341-1
+msgid "目の前が真っ暗になる気持ちだった。<br> 義体が変わることなど、些末な問題だった。"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:352-5
+msgctxt "../novel_38.html+html.body.div.div.div.div.div.div.div.ul.li:352-5"
+msgid "「それでは……戦えないではありませんか……？」"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:353-5
+msgctxt "../novel_38.html+html.body.div.div.div.div.div.div.div.ul.li:353-5"
+msgid "「それでは……戦えないではありませんか……？」"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div:357-1
+msgid "ナギ「当然、そういうことになる」"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:365-5
+msgctxt "../novel_38.html+html.body.div.div.div.div.div.div.div.ul.li:365-5"
+msgid "「……直りますか？」"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:366-5
+msgctxt "../novel_38.html+html.body.div.div.div.div.div.div.div.ul.li:366-5"
+msgid "「……直りますか？」"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div:370-1
+msgid "ナギ「いっただろう、論理機関には自己修復機能がある。時間をかけて修復すれば、あるいは」"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:378-5
+msgctxt "../novel_38.html+html.body.div.div.div.div.div.div.div.ul.li:378-5"
+msgid "「それは、どれぐらいの時間でしょう」"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:379-5
+msgctxt "../novel_38.html+html.body.div.div.div.div.div.div.div.ul.li:379-5"
+msgid "「それは、どれぐらいの時間でしょう」"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div:383-1
+msgid "ナギ「分からない。一年か、二年か……あるいはもっと」"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:391-5
+msgctxt "../novel_38.html+html.body.div.div.div.div.div.div.div.ul.li:391-5"
+msgid "「そ、そんなにですか……！？」"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:392-5
+msgctxt "../novel_38.html+html.body.div.div.div.div.div.div.div.ul.li:392-5"
+msgid "「そ、そんなにですか……！？」"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div:396-1
+msgid ""
+"ナギ「でも、考え方だと思うんだ」<br> <br> あたしの声色があまりに気落ちしているからか、明るい声でナギさんは笑った。<br> <br> "
+"ナギ「指揮だけが人形の役目じゃない。キミは戦闘以外でも人の役に……」"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:408-5
+msgctxt "../novel_38.html+html.body.div.div.div.div.div.div.div.ul.li:408-5"
+msgid "「な、なにをいうんですか！？」"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:409-5
+msgctxt "../novel_38.html+html.body.div.div.div.div.div.div.div.ul.li:409-5"
+msgid "「な、なにをいうんですか！？」"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div:413-1
+msgid "しかし、それは余計に傷口をえぐる言葉だ。"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:423-5
+msgctxt "../novel_38.html+html.body.div.div.div.div.div.div.div.ul.li:423-5"
+msgid "「あたしはそのために生み出されたのですよ。皇国に……！」"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:424-5
+msgctxt "../novel_38.html+html.body.div.div.div.div.div.div.div.ul.li:424-5"
+msgid "「あたしはそのために生み出されたのですよ。皇国に……！」"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div:428-1
+msgid "ぽろりと瞳から冷却液がこぼれるのが分かった。<br> 感情を制御できていない証だ。<br> <br> ナギ「鴉羽、落ち着いて」"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:440-5
+msgctxt "../novel_38.html+html.body.div.div.div.div.div.div.div.ul.li:440-5"
+msgid "「う、うっ………ううう～っ………」"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:441-5
+msgctxt "../novel_38.html+html.body.div.div.div.div.div.div.div.ul.li:441-5"
+msgid "「う、うっ………ううう～っ………」"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div:445-1
+msgid "必死に堪えようとするが、逆効果だった。"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:455-5
+msgctxt "../novel_38.html+html.body.div.div.div.div.div.div.div.ul.li:455-5"
+msgid "「皇国にっ……偉大な、勝利をっ……うううう～……っ！」"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:456-5
+msgctxt "../novel_38.html+html.body.div.div.div.div.div.div.div.ul.li:456-5"
+msgid "「皇国にっ……偉大な、勝利をっ……うううう～……っ！」"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div:460-1
+msgid ""
+"せめて情けない顔を見せたくないと、顔を伏せて、あたしは肩を震わせた。<br> <br> ナギ「………」<br> <br> "
+"マスターはそんなあたしの肩を、無言でじっと撫で続けてくれた。"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div.div.div:473-1
+msgid ""
+"<a href=\"novel_37.html\">＜＜前のエピソード</a> <a href=\"novel_39.html\">次のエピソード＞＞</"
+"a><br> <br><br> <a href=\"https://docs.google.com/forms/d/e/"
+"1FAIpQLSdhB2kW8Tk7HpuzAdeCxmOG858asuw3Gt5Bcillqu5u-iFf4A/viewform\""
+">こちらのフォームよりご意見・ご感想をお寄せください</a><br>もれなくデジタルコンテンツをプレゼント！"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div:484-1
+msgid "執筆：丘野塔也 挿絵：まろやか ＣＶ：楠木ともり（鴉羽）"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div:489-1
+msgid "目次へ戻る"
+msgstr ""
+
+#: ../novel_38.html%2Bhtml.body.div.div.div:490-1
+msgid "©VISUAL ARTS / Key"
+msgstr ""

@@ -1,0 +1,251 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-09 19:14+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.5.3\n"
+
+#: ../novel_04.html%2Bhtml[lang]:2-1
+msgid "ja"
+msgstr ""
+
+#: ../novel_04.html%2Bhtml.head.title:8-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】 | Key"
+msgstr ""
+
+#: ../novel_04.html%2Bhtml.head.meta[content]:9-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】"
+msgstr ""
+
+#: ../novel_04.html%2Bhtml.head.meta[content]:10-1
+msgid "Key,キー,kinetic,novel,キネティックノベル"
+msgstr ""
+
+#: ../novel_04.html%2Bhtml.body.div.div.div.div:44-1
+msgid "プリマドール・アンコール"
+msgstr ""
+
+#: ../novel_04.html%2Bhtml.body.div.div.div.div:48-1
+msgid "01-04 喫茶・黒猫亭（１）"
+msgstr ""
+
+#: ../novel_04.html%2Bhtml.body.div.div.div.div:52-1
+msgid ""
+"<a href=\"novel_03.html\">＜＜前のエピソード</a> <a href=\"novel.html\">目次</a> <a "
+"href=\"novel_05.html\">次のエピソード＞＞</a>"
+msgstr ""
+
+#: ../novel_04.html%2Bhtml.body.div.div.div.div:56-1
+msgid ""
+"皇都五区。<br /> 万国港へと向かう目抜き通りをすこし外れたところにその店はあった。<br /> "
+"もっとこぢんまりとした店構えを想像していたが、意外と大きい。<br /> "
+"土蔵造りの二階建てには、和洋の意匠が巧みに盛り込まれている。かつてのお大尽の商家を借り上げているのだろう。<br /> 軒先に提げられた看板には『喫茶 "
+"黒猫亭』の文字。"
+msgstr ""
+
+#: ../novel_04.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:72-5
+msgctxt "../novel_04.html+html.body.div.div.div.div.div.div.div.ul.li:72-5"
+msgid "「はーいーざーくーらー」"
+msgstr ""
+
+#: ../novel_04.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:73-5
+msgctxt "../novel_04.html+html.body.div.div.div.div.div.div.div.ul.li:73-5"
+msgid "「はーいーざーくーらー」"
+msgstr ""
+
+#: ../novel_04.html%2Bhtml.body.div.div.div.div:77-1
+msgid "その下で、むにゅむにゅと頬を摘ままれている少女人形。"
+msgstr ""
+
+#: ../novel_04.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:91-5
+msgctxt "../novel_04.html+html.body.div.div.div.div.div.div.div.ul.li:91-5"
+msgid "「買い出しにどれだけ時間をかけているの！？」"
+msgstr ""
+
+#: ../novel_04.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:92-5
+msgctxt "../novel_04.html+html.body.div.div.div.div.div.div.div.ul.li:92-5"
+msgid "「買い出しにどれだけ時間をかけているの！？」"
+msgstr ""
+
+#: ../novel_04.html%2Bhtml.body.div.div.div.div:96-1
+msgid ""
+"灰桜「ごべんなさぁぁぁい……！」<br /> <br /> 灰桜の頬をむにむにむにと揉んでいるのは、すこし年上の外装をした人形。<br /> "
+"ひとつに結んだ黒い髪が、塗れたような光沢を放っている。<br /> <br /> 「ま、まあまあ、その辺りで」<br /> "
+"力加減は心得ているようで、痛くは無さそうだが、一応間に入る。"
+msgstr ""
+
+#: ../novel_04.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:114-5
+msgctxt "../novel_04.html+html.body.div.div.div.div.div.div.div.ul.li:114-5"
+msgid "「ごめんなさい、えっと……」"
+msgstr ""
+
+#: ../novel_04.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:115-5
+msgctxt "../novel_04.html+html.body.div.div.div.div.div.div.div.ul.li:115-5"
+msgid "「ごめんなさい、えっと……」"
+msgstr ""
+
+#: ../novel_04.html%2Bhtml.body.div.div.div.div:119-1
+msgid ""
+"灰桜「こ、こちらご紹介します、宇佐美さんこと、うささんです！」<br /> 「逆だけど、まあいいや」<br /> "
+"灰桜「そして、こちらがわたしの先輩の……」"
+msgstr ""
+
+#: ../novel_04.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:131-5
+msgctxt "../novel_04.html+html.body.div.div.div.div.div.div.div.ul.li:131-5"
+msgid "「鴉羽よ」"
+msgstr ""
+
+#: ../novel_04.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:132-5
+msgctxt "../novel_04.html+html.body.div.div.div.div.div.div.div.ul.li:132-5"
+msgid "「鴉羽よ」"
+msgstr ""
+
+#: ../novel_04.html%2Bhtml.body.div.div.div.div:136-1
+msgid "灰桜が口を開く前に、にっこりと微笑みを向けてくれた。"
+msgstr ""
+
+#: ../novel_04.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:148-5
+msgctxt "../novel_04.html+html.body.div.div.div.div.div.div.div.ul.li:148-5"
+msgid "「それで、どうして２人は一緒なのかしら？」"
+msgstr ""
+
+#: ../novel_04.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:149-5
+msgctxt "../novel_04.html+html.body.div.div.div.div.div.div.div.ul.li:149-5"
+msgid "「それで、どうして２人は一緒なのかしら？」"
+msgstr ""
+
+#: ../novel_04.html%2Bhtml.body.div.div.div.div:153-1
+msgid ""
+"灰桜「それは話せば長くなるのですが……深い深い事情がありまして」<br /> <br /> もごもごしながら、指先をくるくる弄んでいる。<br /> "
+"<br /> 「灰桜、お金落としちゃったみたいで」<br /> 灰桜「みゅっ」<br /> 「だから、パン屋でバイトしていたんです」<br /> "
+"灰桜「みゅみゅっ」<br /> 「一生懸命働いて、この通りパンを入手したので、どうか怒らないでくださいっ」<br /> 灰桜「そ、そーです！ "
+"終わりよければすべて……うみゅっ！」"
+msgstr ""
+
+#: ../novel_04.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:173-5
+msgctxt "../novel_04.html+html.body.div.div.div.div.div.div.div.ul.li:173-5"
+msgid "「はーいーざーくーらー。今月何回目だと思ってるのっ」"
+msgstr ""
+
+#: ../novel_04.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:174-5
+msgctxt "../novel_04.html+html.body.div.div.div.div.div.div.div.ul.li:174-5"
+msgid "「はーいーざーくーらー。今月何回目だと思ってるのっ」"
+msgstr ""
+
+#: ../novel_04.html%2Bhtml.body.div.div.div.div:178-1
+msgid "灰桜「すびばせぇん……！」<br /> <br /> じっとり半目で呆れながら、また頬をむにむにむにむに。"
+msgstr ""
+
+#: ../novel_04.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:192-5
+msgctxt "../novel_04.html+html.body.div.div.div.div.div.div.div.ul.li:192-5"
+msgid "「どこで落としたの？」"
+msgstr ""
+
+#: ../novel_04.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:193-5
+msgctxt "../novel_04.html+html.body.div.div.div.div.div.div.div.ul.li:193-5"
+msgid "「どこで落としたの？」"
+msgstr ""
+
+#: ../novel_04.html%2Bhtml.body.div.div.div.div:197-1
+msgid "灰桜「わかりばせぇん……出発前にシャノちゃんと遊んだときはあったのですがぁぁ…！」"
+msgstr ""
+
+#: ../novel_04.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:207-5
+msgctxt "../novel_04.html+html.body.div.div.div.div.div.div.div.ul.li:207-5"
+msgid "「シャノ？」"
+msgstr ""
+
+#: ../novel_04.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:208-5
+msgctxt "../novel_04.html+html.body.div.div.div.div.div.div.div.ul.li:208-5"
+msgid "「シャノ？」"
+msgstr ""
+
+#: ../novel_04.html%2Bhtml.body.div.div.div.div:212-1
+msgid ""
+"鴉羽、ぱっと手を離して軒先を見る。<br /> ちょうど日向になっている場所に、一匹のずんぐりとした黒猫が丸まっている。<br /> "
+"どうやら、この猫がシャノちゃんらしい。"
+msgstr ""
+
+#: ../novel_04.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:227-5
+msgctxt "../novel_04.html+html.body.div.div.div.div.div.div.div.ul.li:227-5"
+msgid "「そういえば、この子ずっと寝てるわね……」"
+msgstr ""
+
+#: ../novel_04.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:228-5
+msgctxt "../novel_04.html+html.body.div.div.div.div.div.div.div.ul.li:228-5"
+msgid "「そういえば、この子ずっと寝てるわね……」"
+msgstr ""
+
+#: ../novel_04.html%2Bhtml.body.div.div.div.div:232-1
+msgid ""
+"脇の下に手を差し込む。<br /> そっと抱き上げると、だらしなく胴体が伸びた。まだふてぶてしく眠ったままだ。<br /> 灰桜「あーーーーっ！」<br "
+"/> <br /> さっきまで寝ていた場所を確認して、灰桜は声を上げる。<br /> 小さな封筒が、その下に敷かれていた。<br /> <br /> "
+"灰桜「お金ですっ」<br /> 「ははぁ……こんな所にあったとはね」"
+msgstr ""
+
+#: ../novel_04.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:253-5
+msgctxt "../novel_04.html+html.body.div.div.div.div.div.div.div.ul.li:253-5"
+msgid "「シャノはよく、お腹の下にものを隠すのよ。まったくもう…」"
+msgstr ""
+
+#: ../novel_04.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:254-5
+msgctxt "../novel_04.html+html.body.div.div.div.div.div.div.div.ul.li:254-5"
+msgid "「シャノはよく、お腹の下にものを隠すのよ。まったくもう…」"
+msgstr ""
+
+#: ../novel_04.html%2Bhtml.body.div.div.div.div:258-1
+msgid "灰桜「めっ、ですねー」<br /> <br /> ほのぼのと灰桜は微笑んでいる。"
+msgstr ""
+
+#: ../novel_04.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:271-5
+msgctxt "../novel_04.html+html.body.div.div.div.div.div.div.div.ul.li:271-5"
+msgid "「あなたのせいでしょ！」"
+msgstr ""
+
+#: ../novel_04.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:272-5
+msgctxt "../novel_04.html+html.body.div.div.div.div.div.div.div.ul.li:272-5"
+msgid "「あなたのせいでしょ！」"
+msgstr ""
+
+#: ../novel_04.html%2Bhtml.body.div.div.div.div:276-1
+msgid "灰桜「うみゅっ！」"
+msgstr ""
+
+#: ../novel_04.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:286-5
+msgctxt "../novel_04.html+html.body.div.div.div.div.div.div.div.ul.li:286-5"
+msgid "「次からはがま口を提げること！」」"
+msgstr ""
+
+#: ../novel_04.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:287-5
+msgctxt "../novel_04.html+html.body.div.div.div.div.div.div.div.ul.li:287-5"
+msgid "「次からはがま口を提げること！」」"
+msgstr ""
+
+#: ../novel_04.html%2Bhtml.body.div.div.div.div:291-1
+msgid "灰桜「すびばせぇん……！」<br /> <br /> またぐにぐにと、お餅みたいにほっぺたを揉まれていた。"
+msgstr ""
+
+#: ../novel_04.html%2Bhtml.body.div.div.div.div.div:297-1
+msgid ""
+"<a href=\"novel_03.html\">＜＜前のエピソード</a> <a href=\"novel_05.html\""
+">次のエピソード＞＞</a>"
+msgstr ""
+
+#: ../novel_04.html%2Bhtml.body.div.div:306-1
+msgid "執筆：丘野塔也 挿絵：まろやか ＣＶ：楠木ともり（鴉羽）"
+msgstr ""
+
+#: ../novel_04.html%2Bhtml.body.div.div:312-1
+msgid "目次へ戻る"
+msgstr ""
+
+#: ../novel_04.html%2Bhtml.body.div.div:313-1
+msgid "©VISUAL ARTS / Key"
+msgstr ""

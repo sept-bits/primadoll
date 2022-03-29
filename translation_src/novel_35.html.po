@@ -1,0 +1,521 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-09 19:14+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.5.3\n"
+
+#: ../novel_35.html%2Bhtml[lang]:2-1
+msgid "ja"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.head.title:8-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】 | Key"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.head.meta[content]:9-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.head.meta[content]:10-1
+msgid "Key,キー,kinetic,novel,キネティックノベル"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div:44-1
+msgid "プリマドール・アンコール"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div:48-1
+msgid "06-02 雪華文様(2)"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div:52-1
+msgid ""
+"<a href=\"novel_34.html\">＜＜前のエピソード</a> <a href=\"novel.html\">目次</a> <a "
+"href=\"novel_36.html\">次のエピソード＞＞</a>"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:68-5
+msgctxt "../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:68-5"
+"../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:68-5"
+"../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:68-5"
+msgid "「……はぁ」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:69-5
+msgctxt "../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:69-5"
+msgid "「……はぁ」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div:73-1
+msgid ""
+"今日何度目のため息だろうか。<br> ほうきを片手に、すっかり年季の入った木の床材を掃いている。大陸では室内でも靴を脱がない。東邦人の誰もが最初は面食らう"
+"風習だ。それはきっとこの寒さのせいなのだろうけれど、掃除婦の手間まで考えてほしいものだ。"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:84-5
+msgctxt "../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:84-5"
+msgid "「どうしてあたしがこんなことを……」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:85-5
+msgctxt "../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:85-5"
+msgid "「どうしてあたしがこんなことを……」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div:89-1
+msgid ""
+"自分の格好を見やる。髪色に合わせて新調したであろう濃紺の着物。糊の利いた純白の前掛け。かつて袖を通していた軍服とは似ても似つかない。<br> 窓の外には雪"
+"景色。遠くには遥かな水平線が望む。ここはかつて鴉羽がいたアルタリア西南部戦線より北へ百数十キロ。ヘレナ諸島と呼ばれる海沿いの小島だ。軍が空き家を借り上げて"
+"、保養所としているらしい。<br> <br> ナギ「いま帰ったよ」<br> <br> 軽快にドアが開くと、その人は涼しげな顔を見せた。<br> <br> "
+"ナギ「ただいま、鴉羽」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:105-5
+msgctxt "../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:105-5"
+msgid "「お、お帰りなさいませ……」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:106-5
+msgctxt "../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:106-5"
+msgid "「お、お帰りなさいませ……」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div:110-1
+msgid ""
+"呼ばれ方にまだ違和感がある。いや、違和感しかない。<br> しかし、あたしは<ruby>自律人形<rt>オートマタ</rt></ruby>だ。<br> "
+"内心どんなに不平不満があろうとも、命令には服従しなければいけない。"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:122-5
+msgctxt "../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:122-5"
+msgid "「……マスター」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:123-5
+msgctxt "../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:123-5"
+msgid "「……マスター」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div:127-1
+msgid ""
+"だから、そう呼んだ。<br> マスターとは人形の所有者のことだ。同時に、命令権を有するただ一人の人間でもある。自律人形はマスターの意に沿い、その命令を実行"
+"するのが役目だ……たとえ、それがどんな危険を伴うものであっても。<br> 人形とはそういうものだ。<br> <br> ナギ「ナギさん、でいいよ」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:140-5
+msgctxt "../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:140-5"
+msgid "「は？」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:141-5
+msgctxt "../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:141-5"
+msgid "「は？」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div:145-1
+msgid "ナギ「あまり好きじゃないんだよね、その呼び方」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:153-5
+msgctxt "../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:153-5"
+msgid "「そういうわけにはいきません。これは国際人形憲章で決まっていることです」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:154-5
+msgctxt "../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:154-5"
+msgid "「そういうわけにはいきません。これは国際人形憲章で決まっていることです」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div:158-1
+msgid "ナギ「なんだか堅苦しくてさ」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:166-5
+msgctxt "../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:166-5"
+msgid "「……それは、呼ぶなという命令ですか？」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:167-5
+msgctxt "../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:167-5"
+msgid "「……それは、呼ぶなという命令ですか？」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div:171-1
+msgid "ナギ「まさか」<br> <br> なんとも捕らえどころがない。肩をすくめると、コートを脱いでハンガーに掛けようとした。"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:182-5
+msgctxt "../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:182-5"
+msgid "「マスター、お手伝いしま……なぁあああ！？」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:183-5
+msgctxt "../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:183-5"
+msgid "「マスター、お手伝いしま……なぁあああ！？」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div:187-1
+msgid "追いかけようとして、はたと気がついた。"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:197-5
+msgctxt "../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:197-5"
+msgid "「靴、泥だらけじゃないですか！？」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:198-5
+msgctxt "../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:198-5"
+msgid "「靴、泥だらけじゃないですか！？」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div:202-1
+msgid ""
+"掃除したばかりの床に、転々と黒い足跡が続いている。<br> <br> "
+"ナギ「今日はあったかいからね、雪がすこし溶けてきているんだよ。鴉羽も外出してきたらどうだい？」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:213-5
+msgctxt "../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:213-5"
+msgid "「いま掃除したばっかりなんですけど？」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:214-5
+msgctxt "../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:214-5"
+msgid "「いま掃除したばっかりなんですけど？」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div:218-1
+msgid "ナギ「ああ、それはすまないね。確かこっちのほうにブラシがあったと思うんだけど……」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:226-5
+msgctxt "../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:226-5"
+msgid "「その靴で歩き回らないでください！」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:227-5
+msgctxt "../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:227-5"
+msgid "「その靴で歩き回らないでください！」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div:231-1
+msgid "ナギ「無いな……寝室かな？」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:239-5
+msgctxt "../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:239-5"
+msgid "「ですから、カーペットの部屋に行くのはやめてください！！！」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:240-5
+msgctxt "../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:240-5"
+msgid "「ですから、カーペットの部屋に行くのはやめてください！！！」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div.div:247-2
+msgid "＊ ＊ ＊"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:255-5
+msgctxt "../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:255-5"
+msgid "「……はぁ」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:256-5
+msgctxt "../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:256-5"
+msgid "「……はぁ」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div:260-1
+msgid ""
+"もう何度目かも分からないため息をつく。<br> 庭先にベンチを出して、あたしはブーツの汚れを落としていた。しっかりブラシをかけて、端切れ布で湿気を拭き取っ"
+"ていく。後で立てかけて乾かしておかなければいけない。<br> <br> ナギ「うまいじゃないか」<br> <br> 気がつくと、隣にマスターが立っていた。"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:275-5
+msgctxt "../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:275-5"
+msgid "「……どうも」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:276-5
+msgctxt "../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:276-5"
+msgid "「……どうも」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div:280-1
+msgid "ナギ「ひとつどうだい？」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:288-5
+msgctxt "../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:288-5"
+msgid "「これは？」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:289-5
+msgctxt "../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:289-5"
+msgid "「これは？」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div:293-1
+msgid ""
+"小さな革包みを解くと、そこには小さな赤い実が詰まっていた。<br> <br> "
+"ナギ「ローズヒップさ。農家の人から買い取ったんだ。こいつは雪の中でも実を付けるらしいよ。ハーブティーにしてもいいし、そのまま食べてもおいしいらしいよ」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:304-5
+msgctxt "../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:304-5"
+msgid "「あたしは人形なので、固形物を食べる必要はありません」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:305-5
+msgctxt "../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:305-5"
+msgid "「あたしは人形なので、固形物を食べる必要はありません」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div:309-1
+msgid "ナギ「油分も豊富だし、すこしなら大丈夫さ」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:317-5
+msgctxt "../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:317-5"
+msgid "「遠慮します」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:318-5
+msgctxt "../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:318-5"
+msgid "「遠慮します」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div:322-1
+msgid "ナギ「残念だなぁ。お肌にもいいらしいんだけどね……お、意外といける」<br> <br> 一人赤い実を頬張っては、もぐもぐと口元を動かしている。"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:333-5
+msgctxt "../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:333-5"
+msgid "「マスター。聞いてもよろしいですか？」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:334-5
+msgctxt "../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:334-5"
+msgid "「マスター。聞いてもよろしいですか？」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div:338-1
+msgid "ナギ「なんだい」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:346-5
+msgctxt "../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:346-5"
+msgid "「どうしてあたしの役目が、身の回りのお世話をすることなのですか？」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:347-5
+msgctxt "../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:347-5"
+msgid "「どうしてあたしの役目が、身の回りのお世話をすることなのですか？」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div:351-1
+msgid "ナギ「いい気分転換になるだろ？」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:359-5
+msgctxt "../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:359-5"
+msgid ""
+"「お言葉ですが、あたしの本来の役目は戦闘人形です。歩兵に随伴し、<ruby>機械人形<rt>メカニカ</rt></ruby>を駆って皇国に偉大な勝利を――"
+"！」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:360-5
+msgctxt "../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:360-5"
+msgid ""
+"「お言葉ですが、あたしの本来の役目は戦闘人形です。歩兵に随伴し、<ruby>機械人形<rt>メカニカ</rt></ruby>を駆って皇国に偉大な勝利を――"
+"！」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div:364-1
+msgid "ナギ「もたらす前に、木っ端微塵に壊れちゃったわけだけど」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:372-5
+msgctxt "../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:372-5"
+"../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:372-5"
+"../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:372-5"
+msgid "「それは……」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:373-5
+msgctxt "../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:373-5"
+msgid "「それは……」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div:377-1
+msgid "ナギ「だから、ボクに修理のおはちが回ってきたわけだ」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:385-5
+msgctxt "../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:385-5"
+msgid "「直してくれたことには感謝しています」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:386-5
+msgctxt "../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:386-5"
+msgid "「直してくれたことには感謝しています」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div:390-1
+msgid "ナギ「いいや、まだ全部は直っていないさ」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:398-5
+msgctxt "../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:398-5"
+msgid "「あたしはすっかり……」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:399-5
+msgctxt "../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:399-5"
+msgid "「あたしはすっかり……」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div:403-1
+msgid "ナギ「だいぶ、無理をしたらしいね」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:411-5
+msgctxt "../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:411-5"
+msgid "「それは……」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:412-5
+msgctxt "../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:412-5"
+msgid "「それは……」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div:416-1
+msgid ""
+"ナギ「カザの戦いはもともと無理がありすぎたんだ。機械人形１２００体に対して、 自律人形はたったの１人。しかもろくに人形師もいなかったんだろう？」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:426-5
+msgctxt "../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:426-5"
+msgid "「しかし、命令でしたので。あたしは役目を果たしました……カザ要塞攻略を１８日間遅延させ、その間に……」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:427-5
+msgctxt "../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:427-5"
+msgid "「しかし、命令でしたので。あたしは役目を果たしました……カザ要塞攻略を１８日間遅延させ、その間に……」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div:431-1
+msgid "ナギ「キミは……キミたちはよくやったよ」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:439-5
+msgctxt "../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:439-5"
+msgid "「あたしを戦線に復帰させてください」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:440-5
+msgctxt "../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:440-5"
+msgid "「あたしを戦線に復帰させてください」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div:444-1
+msgid "ナギ「ダメだ」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:452-5
+msgctxt "../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:452-5"
+msgid "「どうしてですか？」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:453-5
+msgctxt "../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:453-5"
+msgid "「どうしてですか？」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div:457-1
+msgid "ナギ「壊れているからさ」<br> <br> ナギは慈しむように、そっとこめかみを撫でた。細く長い指だった。"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:468-5
+msgctxt "../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:468-5"
+msgid "「論理機関はそんなところに入っていません……」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:469-5
+msgctxt "../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:469-5"
+msgid "「論理機関はそんなところに入っていません……」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div:473-1
+msgid "ナギ「キミを直すにはまだ時間がかかる。別に家事で奉仕をして欲しいわけじゃない。ボクはただ、少し休んで欲しいんだ。ボクと同じようにね」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:481-5
+msgctxt "../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:481-5"
+msgid "「同じ……？」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:482-5
+msgctxt "../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:482-5"
+msgid "「同じ……？」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div:486-1
+msgid "ナギ「休暇中なのさ。でも、のんびりしているのは性に合わないからね」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:494-5
+msgctxt "../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:494-5"
+msgid "「……だから、あたしを直したんですか？」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:495-5
+msgctxt "../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:495-5"
+msgid "「……だから、あたしを直したんですか？」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div:499-1
+msgid ""
+"ナギ「そういうことさ、でないと軍の倉庫に眠ったままだったからね」<br> <br> それは、手慰みに直したということだろか。<br> "
+"放っておくと、そのままスクラップとして眠り続けていたのかもしれない。相当状態が悪かったのだろう。<br> <br> "
+"ナギ「しばらく好きなことをするといいさ」<br> <br> ローズヒップの詰まった革包みをそっと握らせると、ナギは立ち去った。"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:515-5
+msgctxt "../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:515-5"
+msgid "「そんなこと、言われても……」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:516-5
+msgctxt "../novel_35.html+html.body.div.div.div.div.div.div.div.ul.li:516-5"
+msgid "「そんなこと、言われても……」"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div.div.div:525-1
+msgid ""
+"<a href=\"novel_34.html\">＜＜前のエピソード</a> <a href=\"novel_36.html\">次のエピソード＞＞</"
+"a><br> <br><br> <a href=\"https://docs.google.com/forms/d/e/"
+"1FAIpQLSdhB2kW8Tk7HpuzAdeCxmOG858asuw3Gt5Bcillqu5u-iFf4A/viewform\""
+">こちらのフォームよりご意見・ご感想をお寄せください</a><br>もれなくデジタルコンテンツをプレゼント！"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div:536-1
+msgid "執筆：丘野塔也 挿絵：まろやか ＣＶ：楠木ともり（鴉羽）"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div:541-1
+msgid "目次へ戻る"
+msgstr ""
+
+#: ../novel_35.html%2Bhtml.body.div.div.div:542-1
+msgid "©VISUAL ARTS / Key"
+msgstr ""

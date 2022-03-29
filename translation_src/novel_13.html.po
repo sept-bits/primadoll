@@ -1,0 +1,463 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-09 19:14+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.5.3\n"
+
+#: ../novel_13.html%2Bhtml[lang]:2-1
+msgid "ja"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.head.title:8-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】 | Key"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.head.meta[content]:9-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.head.meta[content]:10-1
+msgid "Key,キー,kinetic,novel,キネティックノベル"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div:44-1
+msgid "プリマドール・アンコール"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div:48-1
+msgid "02-2 きら星と焼き菓子（２）"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div:52-1
+msgid ""
+"<a href=\"novel_12.html\">＜＜前のエピソード</a> <a href=\"novel.html\">目次</a> <a "
+"href=\"novel_14.html\">次のエピソード＞＞</a>"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:64-5
+msgctxt "../novel_13.html+html.body.div.div.div.div.div.div.div.ul.li:64-5"
+msgid "「こんばんわぁ」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:65-5
+msgctxt "../novel_13.html+html.body.div.div.div.div.div.div.div.ul.li:65-5"
+msgid "「こんばんわぁ」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div:69-1
+msgid ""
+"ちょうどカウンターを拭いていたお姉さんと目が合った。夜空を思わせる着物をたすき掛けにしている。肩までの短い髪がさらりと揺れる。頭の上には三角巾。背中には鈍"
+"色の煙突が伸びている。<br /> <br /> ……煙突？"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:81-5
+msgctxt "../novel_13.html+html.body.div.div.div.div.div.div.div.ul.li:81-5"
+msgid "「今日は、お一人ですか？」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:82-5
+msgctxt "../novel_13.html+html.body.div.div.div.div.div.div.div.ul.li:82-5"
+msgid "「今日は、お一人ですか？」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div:86-1
+msgid "「あ、いえ、ボクはお酒は飲めないので……」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:93-5
+msgctxt "../novel_13.html+html.body.div.div.div.div.div.div.div.ul.li:93-5"
+msgid "「お料理だけでも大丈夫ですよおー。８厘から！」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:94-5
+msgctxt "../novel_13.html+html.body.div.div.div.div.div.div.div.ul.li:94-5"
+msgid "「お料理だけでも大丈夫ですよおー。８厘から！」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div:98-1
+msgid "「え、安い」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:105-5
+msgctxt "../novel_13.html+html.body.div.div.div.div.div.div.div.ul.li:105-5"
+msgid "「いらっしゃいませ☆」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:106-5
+msgctxt "../novel_13.html+html.body.div.div.div.div.div.div.div.ul.li:106-5"
+msgid "「いらっしゃいませ☆」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div:110-1
+msgid ""
+"にっこり笑って招き入れられる。<br /> なんとも場違いさを覚えつつも、まるで短冊か御札のように、壁にペタペタと貼られたメニューを眺める。<br /> "
+"お酒は飲めないので、ご飯代わりになりそうなものというと……。<br /> <br /> 『魚肉コロッケ』<br /> <br /> "
+"魚のすり身のコロッケだろう。牛肉の代用として広まったらしいが、いまでは定番だ。<br /> <br /> 『厚焼き卵』<br /> 『目玉焼き』<br /"
+"> <br /> "
+"まだまだ高級品の卵料理。お値段はかなり控えめで、これで利益が出ているか心配になる。目玉焼きは厚焼きに手が出ない人のためだろうか。気配りが行き届いている。"
+"<br /> <br /> 『たぬきうどん』<br /> <br /> "
+"麺類もある。店内に充満している出汁の香り。この出汁をひたひたにかけて啜れば、それはもう幸せだろう。<br /> <br /> 『本日の目玉！』<br /"
+"> <br /> これは、いったいなんだろう？<br /> <br /> 「あの」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:139-5
+msgctxt "../novel_13.html+html.body.div.div.div.div.div.div.div.ul.li:139-5"
+msgid "「はぁい、お決まりですか？」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:140-5
+msgctxt "../novel_13.html+html.body.div.div.div.div.div.div.div.ul.li:140-5"
+msgid "「はぁい、お決まりですか？」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div:144-1
+msgid "「本日の目玉ってなんですか？ お値段も手頃ですが」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:151-5
+msgctxt "../novel_13.html+html.body.div.div.div.div.div.div.div.ul.li:151-5"
+msgid "「ああ、これですか？」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:152-5
+msgctxt "../novel_13.html+html.body.div.div.div.div.div.div.div.ul.li:152-5"
+msgid "「ああ、これですか？」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div:156-1
+msgid "「ええ、どんなお勧めの料理なのかなと」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:163-5
+msgctxt "../novel_13.html+html.body.div.div.div.div.div.div.div.ul.li:163-5"
+msgid "「美味しいですよ。今朝は新鮮なまぐろが市場にあがりまして、その目玉を甘辛く煮付けに……」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:164-5
+msgctxt "../novel_13.html+html.body.div.div.div.div.div.div.div.ul.li:164-5"
+msgid "「美味しいですよ。今朝は新鮮なまぐろが市場にあがりまして、その目玉を甘辛く煮付けに……」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div:168-1
+msgid "「え」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:175-5
+msgctxt "../novel_13.html+html.body.div.div.div.div.div.div.div.ul.li:175-5"
+msgid "「なにか？」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:176-5
+msgctxt "../novel_13.html+html.body.div.div.div.div.div.div.div.ul.li:176-5"
+msgid "「なにか？」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div:180-1
+msgid "「名前通りの料理なんですか？」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:187-5
+msgctxt "../novel_13.html+html.body.div.div.div.div.div.div.div.ul.li:187-5"
+msgid "「本日の目玉ですから」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:188-5
+msgctxt "../novel_13.html+html.body.div.div.div.div.div.div.div.ul.li:188-5"
+msgid "「本日の目玉ですから」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div:192-1
+msgid "「もしかして、こっちの目玉焼きっていうのは……」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:199-5
+msgctxt "../novel_13.html+html.body.div.div.div.div.div.div.div.ul.li:199-5"
+msgid "「今朝は新鮮なまぐろが市場にあがりまして……」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:200-5
+msgctxt "../novel_13.html+html.body.div.div.div.div.div.div.div.ul.li:200-5"
+msgid "「今朝は新鮮なまぐろが市場にあがりまして……」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div:204-1
+msgid "「あ、いや、わかりました」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:211-5
+msgctxt "../novel_13.html+html.body.div.div.div.div.div.div.div.ul.li:211-5"
+msgid "「こちらもお勧めですよぉー」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:212-5
+msgctxt "../novel_13.html+html.body.div.div.div.div.div.div.div.ul.li:212-5"
+msgid "「こちらもお勧めですよぉー」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div:216-1
+msgid "「あの、じゃあもしかして、たぬきうどんっていうのは」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:223-5
+msgctxt "../novel_13.html+html.body.div.div.div.div.div.div.div.ul.li:223-5"
+msgid "「………」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:224-5
+msgctxt "../novel_13.html+html.body.div.div.div.div.div.div.div.ul.li:224-5"
+msgid "「………」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:234-5
+msgctxt "../novel_13.html+html.body.div.div.div.div.div.div.div.ul.li:234-5"
+msgid "「今朝は新鮮な……」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:235-5
+msgctxt "../novel_13.html+html.body.div.div.div.div.div.div.div.ul.li:235-5"
+msgid "「今朝は新鮮な……」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div:239-1
+msgid ""
+"「あっ、もういいです」<br /> <br /> 一気に不安が押し寄せてきたが、気を取り直してもういちどメニューを眺める。<br /> <br /> "
+"「じゃあ……ミンチ天ぷらと鰯バター焼きください。白ご飯も」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:250-5
+msgctxt "../novel_13.html+html.body.div.div.div.div.div.div.div.ul.li:250-5"
+msgid "「わかりましたぁ！」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:251-5
+msgctxt "../novel_13.html+html.body.div.div.div.div.div.div.div.ul.li:251-5"
+msgid "「わかりましたぁ！」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div:255-1
+msgid ""
+"てきぱきと準備して、ほとんど待つ暇も無く料理が並べられる。ご飯と一緒に、お新香とお味噌汁も一緒に出てきた。手を合わせて口に運ぶ。<br /> <br /"
+"> 「……おいしい」<br /> <br /> 見た目はなんてことない料理だけど、しみじみおいしい。どれも食べ慣れた味だけど、なんとも新鮮な驚きだ。"
+"<br /> <br /> 男性客「人形が作ったとは思えないだろ」<br /> <br /> "
+"よっぽど驚いていたのだろう、横にいた赤ら顔の男が、にっこりと笑顔を浮かべる。<br /> <br /> 「……人形」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:273-5
+msgctxt "../novel_13.html+html.body.div.div.div.div.div.div.div.ul.li:273-5"
+msgid "「……はい？」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:274-5
+msgctxt "../novel_13.html+html.body.div.div.div.div.div.div.div.ul.li:274-5"
+msgid "「……はい？」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div:278-1
+msgid "「そうだ！ あの、あなたはっ……」<br /> <br /> ボクは改めて、確認の声を上げた。"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:288-5
+msgctxt "../novel_13.html+html.body.div.div.div.div.div.div.div.ul.li:288-5"
+msgid "「はいっ、箒星です。もちろん人形ですよー」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:289-5
+msgctxt "../novel_13.html+html.body.div.div.div.div.div.div.div.ul.li:289-5"
+msgid "「はいっ、箒星です。もちろん人形ですよー」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div:293-1
+msgid ""
+"くるりと背中を見せてくれる。<br /> 鈍色の背嚢。わずかにたなびく蒸気は、<ruby>自律人形<rt>オートマタ</rt></ruby>の証だ。"
+"<br /> <br /> 「……人形って味がわかるんですか？」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:304-5
+msgctxt "../novel_13.html+html.body.div.div.div.div.div.div.div.ul.li:304-5"
+msgid "「分かりますよ。あ、もちろん人間と同じではないでしょうけど……」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:305-5
+msgctxt "../novel_13.html+html.body.div.div.div.div.div.div.div.ul.li:305-5"
+msgid "「分かりますよ。あ、もちろん人間と同じではないでしょうけど……」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div:309-1
+msgid "「ですよね。それなのにこんなにおいしい……」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:316-5
+msgctxt "../novel_13.html+html.body.div.div.div.div.div.div.div.ul.li:316-5"
+msgid "「それはですねぇー」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:317-5
+msgctxt "../novel_13.html+html.body.div.div.div.div.div.div.div.ul.li:317-5"
+msgid "「それはですねぇー」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div:321-1
+msgid "にっこりと微笑みを浮かべる。<br /> そして、きら星のような瞳を向けて、ぱちりとウィンクした。"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:331-5
+msgctxt "../novel_13.html+html.body.div.div.div.div.div.div.div.ul.li:331-5"
+msgid "「練習あるのみです」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:332-5
+msgctxt "../novel_13.html+html.body.div.div.div.div.div.div.div.ul.li:332-5"
+msgid "「練習あるのみです」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div:336-1
+msgid "「……普通ですね」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:343-5
+msgctxt "../novel_13.html+html.body.div.div.div.div.div.div.div.ul.li:343-5"
+msgid "「それしかありませんよー」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:344-5
+msgctxt "../novel_13.html+html.body.div.div.div.div.div.div.div.ul.li:344-5"
+msgid "「それしかありませんよー」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div:348-1
+msgid "くすくす笑っている。その間も注文が入って、てきぱきと料理を準備していた。"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:357-5
+msgctxt "../novel_13.html+html.body.div.div.div.div.div.div.div.ul.li:357-5"
+msgid "「黒猫亭のお仕事はいかかがですか？」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:358-5
+msgctxt "../novel_13.html+html.body.div.div.div.div.div.div.div.ul.li:358-5"
+msgid "「黒猫亭のお仕事はいかかがですか？」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div:362-1
+msgid "「えっ……なぜそれを？」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:369-5
+msgctxt "../novel_13.html+html.body.div.div.div.div.div.div.div.ul.li:369-5"
+msgid "「その帽子に描いてますよー」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:370-5
+msgctxt "../novel_13.html+html.body.div.div.div.div.div.div.div.ul.li:370-5"
+msgid "「その帽子に描いてますよー」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div:374-1
+msgid "「……あ」<br /> <br /> カウンターの傍らに置いた帽子。<br /> そこには黒猫亭の刺繍が入っている。"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:385-5
+msgctxt "../novel_13.html+html.body.div.div.div.div.div.div.div.ul.li:385-5"
+msgid "「おいしい珈琲と料理、そして人形たちの給仕が自慢……喫茶黒猫亭、です」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:386-5
+msgctxt "../novel_13.html+html.body.div.div.div.div.div.div.div.ul.li:386-5"
+msgid "「おいしい珈琲と料理、そして人形たちの給仕が自慢……喫茶黒猫亭、です」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div:390-1
+msgid "「そうなんです、黒猫亭で厨房係として働き始めて……」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:397-5
+msgctxt "../novel_13.html+html.body.div.div.div.div.div.div.div.ul.li:397-5"
+msgid "「まあまあ、それは大変でしょう」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:398-5
+msgctxt "../novel_13.html+html.body.div.div.div.div.div.div.div.ul.li:398-5"
+msgid "「まあまあ、それは大変でしょう」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div:402-1
+msgid "「やりがいはあるんですが、厨房係として壁にぶつかってしまったところもあって……」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:409-5
+msgctxt "../novel_13.html+html.body.div.div.div.div.div.div.div.ul.li:409-5"
+msgid "「壁、ですか？」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:410-5
+msgctxt "../novel_13.html+html.body.div.div.div.div.div.div.div.ul.li:410-5"
+msgid "「壁、ですか？」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div:414-1
+msgid "箒星は人形ながら、おっとりとした空気感を持っていて、ついつい弱音をこぼしてしまう。<br /> <br /> 「あの、箒星さん」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:424-5
+msgctxt "../novel_13.html+html.body.div.div.div.div.div.div.div.ul.li:424-5"
+msgid "「はい」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:425-5
+msgctxt "../novel_13.html+html.body.div.div.div.div.div.div.div.ul.li:425-5"
+msgid "「はい」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div:429-1
+msgid "「もっと料理が美味くなるには、どうすればいいでしょうか？」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:436-5
+msgctxt "../novel_13.html+html.body.div.div.div.div.div.div.div.ul.li:436-5"
+msgid "「それはもちろん……」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:437-5
+msgctxt "../novel_13.html+html.body.div.div.div.div.div.div.div.ul.li:437-5"
+msgid "「それはもちろん……」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div:441-1
+msgid "わかりきったことと言いたげに、箒星さんは笑顔を覗かせた。"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:450-5
+msgctxt "../novel_13.html+html.body.div.div.div.div.div.div.div.ul.li:450-5"
+msgid "「練習あるのみですっ」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:451-5
+msgctxt "../novel_13.html+html.body.div.div.div.div.div.div.div.ul.li:451-5"
+msgid "「練習あるのみですっ」"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div.div.div.div:461-1
+msgid ""
+"<a href=\"novel_12.html\">＜＜前のエピソード</a> <a href=\"novel_14.html\""
+">次のエピソード＞＞</a>"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div:470-1
+msgid "執筆：丘野塔也 挿絵：まろやか ＣＶ：中島由貴（箒星）"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div:475-1
+msgid "目次へ戻る"
+msgstr ""
+
+#: ../novel_13.html%2Bhtml.body.div.div:476-1
+msgid "©VISUAL ARTS / Key"
+msgstr ""
