@@ -1567,4 +1567,16 @@ color:#f39c12;
 
 
 
+p {
+	font-size: 18px;
+	line-height: 38px;
+	text-indent: 2em;
+}
 
+.novel_top_right a {
+	font-size: inherit;
+}
+
+.novel_index_style1 {
+	text-indent: 0;
+}
