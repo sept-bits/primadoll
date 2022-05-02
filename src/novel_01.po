@@ -18,11 +18,11 @@ msgstr "ja"
 
 #: ../novel_01.html%2Bhtml.head.title:8-1
 msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】 | Key"
-msgstr "Prima Doll Fan Site 【A doll and a song. The curtain of a new story rises.】 | Key"
+msgstr "Prima Doll Unofficial 【A doll and a song. The curtain of a new story rises.】 | Key"
 
 #: ../novel_01.html%2Bhtml.head.meta[content]:9-1
 msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】"
-msgstr "Prima Doll Fan Site 【A doll and a song. The curtain of a new story rises.】"
+msgstr "Prima Doll Unofficial 【A doll and a song. The curtain of a new story rises.】"
 
 #: ../novel_01.html%2Bhtml.head.meta[content]:10-1
 msgid "Key,キー,kinetic,novel,キネティックノベル"
