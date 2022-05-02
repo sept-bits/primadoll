@@ -1,0 +1,517 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-02 21:10+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.2\n"
+
+#: ../test/novel_39.html%2Bhtml[lang]:2-1
+msgid "ja"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.head.title:8-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】 | Key"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.head.meta[content]:9-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.head.meta[content]:10-1
+msgid "Key,キー,kinetic,novel,キネティックノベル"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div:44-1
+msgid "プリマドール・アンコール"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div:48-1
+msgid "06-06 雪華文様(6)"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div:52-1
+msgid ""
+"<a href=\"novel_38.html\">＜＜前のエピソード</a> <a href=\"novel.html\">目次</a> <a "
+"href=\"novel_40.html\">次のエピソード＞＞</a>"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:67-102
+msgctxt "../test/novel_39.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:67-102"
+msgid "「……みっともないところを見せてしまったわ……」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:68-103
+msgctxt "../test/novel_39.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:68-103"
+msgid "「……みっともないところを見せてしまったわ……」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.p:75-1
+msgid "一昼夜が経って。"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.p:76-1
+msgid ""
+"ぐるぐると鍋をかき混ぜながら、あたしはひとりごちた。中身は干し鱈と玉葱、じゃがいもだ。ヘレナ島の冬では定番料理……というよりも、これ以外食材がないというほ"
+"うが正しい。皇国風の味付けにしたかったところだが、醤油の一瓶も手に入らないので諦めざるを得なかった。"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:83-102
+msgctxt "../test/novel_39.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:83-102"
+msgid "「あんなに感情的になるなんて……」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:84-103
+msgctxt "../test/novel_39.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:84-103"
+msgid "「あんなに感情的になるなんて……」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.p:91-1
+msgid ""
+"戦闘人形失格と言わざるを得ない。故障することはいままでも多々あったが、直るかどうか分からない不具合を抱えるのは初めてだ。もしかすると、だから論理機関が不安"
+"定になったのかもしれない……。"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:98-102
+msgctxt "../test/novel_39.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:98-102"
+"../test/novel_39.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:98-102"
+"../test/novel_39.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:98-102"
+msgid "「……あら？」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:99-103
+msgctxt "../test/novel_39.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:99-103"
+msgid "「……あら？」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.p:106-1
+msgid "不意に、控えめなノックの音が響いた。"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:113-102
+msgctxt "../test/novel_39.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:113-102"
+msgid "「どうしました、マスター？」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:114-103
+msgctxt "../test/novel_39.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:114-103"
+msgid "「どうしました、マスター？」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.p:121-1
+msgid ""
+"確か、朝方いつもの調子で起きだしてきて、身支度もそこそこにどこかへ出かけたはずだ。いつもそんな調子で、どこでなにをしているのか、鴉羽も分からないことが多い"
+"。"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.p:122-1
+msgid "いつもは帰宅してもノックなんてしないくせに、今日はなにやら遠慮がちだ。どうしてだろうと考えて、はたと気がついた。"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:129-102
+msgctxt "../test/novel_39.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:129-102"
+msgid "「もしかして……また軍服を汚したのですか！？」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:130-103
+msgctxt "../test/novel_39.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:130-103"
+msgid "「もしかして……また軍服を汚したのですか！？」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.p:137-1
+msgid "あり得る。今夜は皇軍のお客様がいらっしゃるというのに、また機械いじりでもしていたのだろうか。慌ててエプロンで手を拭うと、玄関に駆けだした。"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:144-102
+msgctxt "../test/novel_39.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:144-102"
+msgid "「マスター……！！」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:145-103
+msgctxt "../test/novel_39.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:145-103"
+msgid "「マスター……！！」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.p:151-1
+msgid "女の子「きゃっ！？」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:157-102
+msgctxt "../test/novel_39.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:157-102"
+msgid "「……あら？」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:158-103
+msgctxt "../test/novel_39.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:158-103"
+msgid "「……あら？」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.p:164-1
+msgid "ローサ「あ、あの……こんにちは」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:170-102
+msgctxt "../test/novel_39.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:170-102"
+msgid "「ローサちゃん……！」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:171-103
+msgctxt "../test/novel_39.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:171-103"
+msgid "「ローサちゃん……！」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.p:178-1
+msgid "どうやら、勘違いだったようだ。"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:185-102
+msgctxt "../test/novel_39.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:185-102"
+msgid "「ご、ごめんなさい、あたし勘違いして……」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:186-103
+msgctxt "../test/novel_39.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:186-103"
+msgid "「ご、ごめんなさい、あたし勘違いして……」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.p:192-1
+msgid "ローサ「あははは……いいの。あの、これ、お爺ちゃんが持っていってって…」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.p:194-1
+msgid "そういって、胸に抱えている麻袋を差し出してくれる。"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.p:195-1
+msgid "中を見ると、丁寧に凧糸で縛られた、鮭の切り身の燻製が入っている。"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.p:197-1
+msgid "ローサ「昨日はお手伝いしてくれて、ありがとう」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:203-102
+msgctxt "../test/novel_39.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:203-102"
+msgid "「そんな、悪いわ」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:204-103
+msgctxt "../test/novel_39.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:204-103"
+msgid "「そんな、悪いわ」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.p:210-1
+msgid "ローサ「ううん、お礼だから」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:216-102
+msgctxt "../test/novel_39.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:216-102"
+msgid "「そう……」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:217-103
+msgctxt "../test/novel_39.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:217-103"
+msgid "「そう……」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.p:224-1
+msgid "燻製を受け取る。春が近いとは言え、まだまだ外は寒い。少女の鼻先はすっかり赤くなっていた。"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:231-102
+msgctxt "../test/novel_39.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:231-102"
+msgid "「その……お茶でも飲んでいく？」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:232-103
+msgctxt "../test/novel_39.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:232-103"
+msgid "「その……お茶でも飲んでいく？」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.p:238-1
+msgid "ローサ「え？」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:244-102
+msgctxt "../test/novel_39.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:244-102"
+msgid "「少し休んでいって。簡単なものだけど、お菓子もあるから」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:245-103
+msgctxt "../test/novel_39.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:245-103"
+msgid "「少し休んでいって。簡単なものだけど、お菓子もあるから」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.div:252-2
+msgid "＊ ＊ ＊"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.p:255-1
+msgid "ローサを暖炉の前に座らせる。"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:262-102
+msgctxt "../test/novel_39.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:262-102"
+msgid "「紅茶とビスケット……それに、ローズヒップのジャムよ」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:263-103
+msgctxt "../test/novel_39.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:263-103"
+msgid "「紅茶とビスケット……それに、ローズヒップのジャムよ」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.p:269-1
+msgid "ローサ「わ、おいしそう」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.p:271-1
+msgid "以前マスターからもらったローズヒップの実。持てあましていたので、蜂蜜で煮てジャムにしておいたのだ。"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:278-102
+msgctxt "../test/novel_39.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:278-102"
+msgid "「作ったはいいものの、マスターはほとんど朝食を摂らないから……」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:279-103
+msgctxt "../test/novel_39.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:279-103"
+msgid "「作ったはいいものの、マスターはほとんど朝食を摂らないから……」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.p:285-1
+msgid "ローサ「じゃあ、一緒に食べよう？」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:291-102
+msgctxt "../test/novel_39.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:291-102"
+msgid "「え……あたしは人形よ。燃料があれば十分よ」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:292-103
+msgctxt "../test/novel_39.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:292-103"
+msgid "「え……あたしは人形よ。燃料があれば十分よ」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.p:298-1
+msgid "ローサ「食べられないの？」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:304-102
+msgctxt "../test/novel_39.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:304-102"
+msgid "「全然駄目ってわけじゃないけど……そうね、じゃあ少しだけ」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:305-103
+msgctxt "../test/novel_39.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:305-103"
+msgid "「全然駄目ってわけじゃないけど……そうね、じゃあ少しだけ」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.p:312-1
+msgid "ビスケット一枚にジャムをのせて、それぞれ頬張る。"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.p:314-1
+msgid "ローサ「甘酸っぱくておいしー……」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.p:316-1
+msgid "真っ赤なほっぺを膨らませて、嬉しそうに笑っていた。"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.p:318-1
+msgid "ローサ「鴉羽さんは、このお家でメイドしているんだ」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:324-102
+msgctxt "../test/novel_39.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:324-102"
+msgid "「そ、そう……ね、そんなところ」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:325-103
+msgctxt "../test/novel_39.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:325-103"
+msgid "「そ、そう……ね、そんなところ」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.p:331-1
+msgid "ローサ「ごめんなさい」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:337-102
+msgctxt "../test/novel_39.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:337-102"
+msgid "「どうして謝るの？」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:338-103
+msgctxt "../test/novel_39.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:338-103"
+msgid "「どうして謝るの？」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.p:344-1
+msgid "ローサ「最初会ったとき、ひどいことを言って。てっきり皇国の戦闘人形かと思って……」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:350-102
+msgctxt "../test/novel_39.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:350-102"
+msgid "「それは……仕方がないと思うわ。あたしだって……」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:351-103
+msgctxt "../test/novel_39.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:351-103"
+msgid "「それは……仕方がないと思うわ。あたしだって……」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.p:357-1
+msgid "ローサ「わたし、戦闘人形が嫌いだから」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.p:359-1
+msgid "不意に漏らしたのは、冷たい言葉だった。"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:366-102
+msgctxt "../test/novel_39.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:366-102"
+msgid "「それは……怖い、から？」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:367-103
+msgctxt "../test/novel_39.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:367-103"
+msgid "「それは……怖い、から？」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.p:373-1
+msgid "ローサ「ううん、わたしたちを守ってくれないから」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.p:375-1
+msgid "カップの水面を眺めながら言葉を濁す。なにか話したくない記憶があるのかもしれない。"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:382-102
+msgctxt "../test/novel_39.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:382-102"
+msgid "「でも……この辺りは平和なんでしょう？」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:383-103
+msgctxt "../test/novel_39.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:383-103"
+msgid "「でも……この辺りは平和なんでしょう？」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.p:389-1
+msgid "ローサ「お爺ちゃんちに疎開しにきたの。もう何年も前に」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:395-102
+msgctxt "../test/novel_39.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:395-102"
+msgid "「あ……」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:396-103
+msgctxt "../test/novel_39.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:396-103"
+msgid "「あ……」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.p:402-1
+msgid ""
+"ローサ「皇軍の人形たちがやってきて……わたしの街を占領して……でもそれなのに、ローベリア軍が攻めてきたとき……あの人たちはわたしたちを守ってなんてくれなか"
+"った。それどころか……」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.p:404-1
+msgid "ぽたりと水面が揺らぐ。"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.p:405-1
+msgid "ローサの涙だった。"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.p:407-1
+msgid "ローサ「う……うっ……」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.p:409-1
+msgid "感情を堪えきれない様子で、ぽろぽろと涙を流している。"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.p:410-1
+msgid "いったいどうすればいいのかと、鴉羽は迷った。こんな時人間ならば……マスターなら、どうしただろうと。"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:417-102
+msgctxt "../test/novel_39.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:417-102"
+msgid "「よ……よしよし……」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:418-103
+msgctxt "../test/novel_39.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:418-103"
+msgid "「よ……よしよし……」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.p:425-1
+msgid "そっと、その肩を撫でた。"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.p:427-1
+msgid "ローサ「鴉羽さんっ……」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.p:429-1
+msgid "その反応は意外なものだった。"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.p:430-1
+msgid "少女は鴉羽の胸元に顔を埋めて、さめざめと泣き始めていた。"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:437-102
+msgctxt "../test/novel_39.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:437-102"
+msgid "「だ、大丈夫……大丈夫よ……」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:438-103
+msgctxt "../test/novel_39.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:438-103"
+msgid "「だ、大丈夫……大丈夫よ……」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.p:445-1
+msgid "なにが大丈夫なのか、分からない。"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:452-102
+msgctxt "../test/novel_39.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:452-102"
+msgid "「大丈夫……」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:453-103
+msgctxt "../test/novel_39.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:453-103"
+msgid "「大丈夫……」"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.p:460-1
+msgid "それでも、鴉羽はそうし続けていた。"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div.div.div:466-1
+msgid ""
+"<a href=\"novel_38.html\">＜＜前のエピソード</a> <a href=\"novel_40.html\">次のエピソード＞＞</"
+"a><br> <br><br> <a href=\"https://docs.google.com/forms/d/e/"
+"1FAIpQLSdhB2kW8Tk7HpuzAdeCxmOG858asuw3Gt5Bcillqu5u-iFf4A/viewform\""
+">こちらのフォームよりご意見・ご感想をお寄せください</a><br>もれなくデジタルコンテンツをプレゼント！"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.p:478-1
+msgid "執筆：丘野塔也 挿絵：まろやか ＣＶ：楠木ともり（鴉羽）"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div:482-1
+msgid "目次へ戻る"
+msgstr ""
+
+#: ../test/novel_39.html%2Bhtml.body.div.div.div:483-1
+msgid "©VISUAL ARTS / Key"
+msgstr ""

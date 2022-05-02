@@ -1,0 +1,381 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-02 21:10+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.2\n"
+
+#: ../test/novel_34.html%2Bhtml[lang]:2-1
+msgid "ja"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.head.title:8-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】 | Key"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.head.meta[content]:9-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.head.meta[content]:10-1
+msgid "Key,キー,kinetic,novel,キネティックノベル"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div:44-1
+msgid "プリマドール・アンコール"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div:48-1
+msgid "06-01 雪華文様(1)"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div:52-1
+msgid ""
+"<a href=\"novel_33.html\">＜＜前のエピソード</a> <a href=\"novel.html\">目次</a> <a "
+"href=\"novel_35.html\">次のエピソード＞＞</a>"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.p:61-1
+msgid "それは、黒猫亭が開店するより、すこし前のこと。"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.p:62-1
+msgid "鴉羽が、はじめてその名を与えられた物語――。"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.div:64-2
+msgctxt "../test/novel_34.html+html.body.div.div.div.div.div:64-2"
+msgid "＊ ＊ ＊"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.p:68-1
+msgid "星の落ちる音がする。"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.p:69-1
+msgid ""
+"それはパラパラと儚い音色だ。まるで麻紙で金平糖を受け止めたかのような、寂しげな風情。終わりの瞬間というのはこんなものかと思った。空一面を埋め尽くした流星群"
+"。いや、あれは誘導弾だ。十字翼が不吉に手を広げ、液体燃料が悲鳴と共に煙を上げている。やがて全てが白い光に包まれる。そこはなんの音も、色もない世界――。"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.div:71-2
+msgctxt "../test/novel_34.html+html.body.div.div.div.div.div:71-2"
+msgid "＊ ＊ ＊"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.p:74-1
+msgid "どさりという音と共に、あたしは目覚めた。"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.p:75-1
+msgid "辺りは白く輝いていた。瞳に閃光が灼きついたままなのだと思った。それが雪明かりが反射しているせいなのだと知ったのは、しばらくしてからだった。"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.p:76-1
+msgid "作業台の上に寝かされていた。ご丁寧に毛布までかけられている。"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:86-102
+msgctxt "../test/novel_34.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:86-102"
+msgid "（……人形に、こんな気遣いはいらないのに）"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:87-103
+msgctxt "../test/novel_34.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:87-103"
+msgid "（……人形に、こんな気遣いはいらないのに）"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.p:93-1
+msgid "ゆっくりと各部の動作を確認しながら体を起こす。起き上がろうとして、手足が脆く砕け散ったとしても不思議ではない。"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:100-102
+msgctxt "../test/novel_34.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:100-102"
+msgid "（……立てた）"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:101-103
+msgctxt "../test/novel_34.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:101-103"
+msgid "（……立てた）"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.p:107-1
+msgid "しかし、警戒心に反して、あっさりとブーツは床を踏んだ。木の床材が微かに軋んだ音を立てる。耳の方も正常に動作しているようだ。"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.p:108-1
+msgid ""
+"そっと窓辺に立つ。夜明けだろうか、白銀が暁光を煌めかせている。時折、もみの木に積もった雪がパラパラと落ちてきたかと思うと、大きく枝が跳ねて、どさどさと滑り"
+"落ちてくる。先程聞いた音はこれだったのかと合点した。"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.p:110-1
+msgid "？？「おはよう、鴉羽」"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.p:112-1
+msgid "声が響いた。違和感を抱えながらも、ゆっくりとそちらを向く。"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.p:117-1
+msgid "士官「調子はどうだい」"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.p:119-1
+msgid "端正な顔立ちの士官が、茶目っ気のある微笑みを浮かべていた。目蓋にかかる長い髪。華奢な体を覆った、薄墨色の軍服。手にはメッキが施されたビーカー。"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:126-102
+msgctxt "../test/novel_34.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:126-102"
+msgid "「あなたは……」"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:127-103
+msgctxt "../test/novel_34.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:127-103"
+msgid "「あなたは……」"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.p:134-1
+msgid "士官「まあまあ、目覚めのピーナッツ油でも飲みなよ。とびきり濃厚なやつにしておいたからね」"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:141-102
+msgctxt "../test/novel_34.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:141-102"
+msgid "「はぁ」"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:142-103
+msgctxt "../test/novel_34.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:142-103"
+msgid "「はぁ」"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.p:149-1
+msgid "半ば押しつけられた燃料を、差し込まれたストローでゆっくりと飲み込む。"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.p:151-1
+msgid "士官「大丈夫、キミの体はすっかり直ったよ。３８３連隊は大変だったね……いまはゆっくりと休むといい」"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:157-102
+msgctxt "../test/novel_34.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:157-102"
+msgid "「あの」"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:158-103
+msgctxt "../test/novel_34.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:158-103"
+msgid "「あの」"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.p:165-1
+msgid "士官「なんだい、鴉羽」"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:171-102
+msgctxt "../test/novel_34.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:171-102"
+msgid "「……あたし、そんな名前じゃありません」"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:172-103
+msgctxt "../test/novel_34.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:172-103"
+msgid "「……あたし、そんな名前じゃありません」"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.p:179-1
+msgid "低い声を上げた。ずっと抱えていた違和感を口にせざるを得ない。"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:186-102
+msgctxt "../test/novel_34.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:186-102"
+msgid "「あたしは歩兵第３８３連隊所属、白羽型<ruby>自律人形<rt>オートマタ</rt></ruby>で――」"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:187-103
+msgctxt "../test/novel_34.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:187-103"
+msgid "「あたしは歩兵第３８３連隊所属、白羽型<ruby>自律人形<rt>オートマタ</rt></ruby>で――」"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.p:194-1
+msgid "士官「うん、それがだね」"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.p:196-1
+msgid "あたしの指摘に、肩をすくめてみせる。"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.p:198-1
+msgid "士官「出来るだけキミの体にあう部品を探したんだが、どうしても復元しきれなくてね。まあ、見てくれよ」"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.p:200-1
+msgid "胸元から小さな手鏡を取り出すと、そっと向けてくる。"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:207-102
+msgctxt "../test/novel_34.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:207-102"
+msgid "「……へ？」"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:208-103
+msgctxt "../test/novel_34.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:208-103"
+msgid "「……へ？」"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.p:215-1
+msgid "黒い。まるでカラスのように。わずかに青みがかった艶やかな黒髪。かつての姿とは似ても似つかない……。"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.p:218-1
+msgid "士官「言うならば、キミは生まれ変わったのさ。だから名前も変えたほうがいいかと思って。ずいぶん悩んだんだけど、やっと思いついたんだ」"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.p:220-1
+msgid "あたしの気持ちにはまったく気付いていない様子で、なにやらうんうん頷いている。"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.p:222-1
+msgid "士官「鴉羽って名前はどうかな？」"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.p:224-1
+msgid "心から満足した様子で……あたしが、心から満足するとでも言いたげに、自信満々に微笑んだ。"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:231-102
+msgctxt "../test/novel_34.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:231-102"
+msgid "「……嫌です」"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:232-103
+msgctxt "../test/novel_34.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:232-103"
+msgid "「……嫌です」"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.p:239-1
+msgid "士官「えっ」"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:245-102
+msgctxt "../test/novel_34.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:245-102"
+msgid "「人の名前を勝手に変えないでください！ あと見た目も！」"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:246-103
+msgctxt "../test/novel_34.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:246-103"
+msgid "「人の名前を勝手に変えないでください！ あと見た目も！」"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.p:253-1
+msgid ""
+"士官「いや、でも我ながらよく出来たと思うんだよ！？ この物資の乏しい中、よくぞこんな美しい人形を作り上げられたと……！ "
+"前はガリガリだったけど、胸だって結構ふくよかになったし……！」"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:259-102
+msgctxt "../test/novel_34.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:259-102"
+msgid "「だから勝手なことをしないでください！」"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:260-103
+msgctxt "../test/novel_34.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:260-103"
+msgid "「だから勝手なことをしないでください！」"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.p:267-1
+msgid "士官「このバストサイズならローベリアに遅れを取ることはあるまい」"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:273-102
+msgctxt "../test/novel_34.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:273-102"
+msgid "「どこで張り合っているんですか？」"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:274-103
+msgctxt "../test/novel_34.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:274-103"
+msgid "「どこで張り合っているんですか？」"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.p:281-1
+msgid "士官「足もこう、非常に健康的なラインになった」"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:287-102
+msgctxt "../test/novel_34.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:287-102"
+msgid "「あたしは次世代省燃料機だったんです！」"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:288-103
+msgctxt "../test/novel_34.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:288-103"
+msgid "「あたしは次世代省燃料機だったんです！」"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.p:295-1
+msgid "士官「いつの時代も、女性らしさは素敵なものさ」"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:301-102
+msgctxt "../test/novel_34.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:301-102"
+msgid "「聞いてます！？」"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:302-103
+msgctxt "../test/novel_34.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:302-103"
+msgid "「聞いてます！？」"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.p:309-1
+msgid "士官「ああ、そういえば言ってなかったね」"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.p:311-1
+msgid "ぽんぽん、とあたし……鴉羽の肩を叩いて、その人は微笑んだ。"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.p:313-1
+msgid "士官「ボクは遠間ナギ。人形師さ。いまは軍属だから……まあ、技術士官ってところかな。この保養所にいる間は、キミのマスターになるわけだ」"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:320-102
+msgctxt "../test/novel_34.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:320-102"
+msgid "「……え」"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:321-103
+msgctxt "../test/novel_34.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:321-103"
+msgid "「……え」"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.p:328-1
+msgid "士官「キミを修理するのがボクの役目さ。よろしく頼むよ、鴉羽」"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.p:330-1
+msgid "どこか悪戯っぽい笑みを浮かべて、ぱちりと片目をつぶった。"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div.div.div:333-1
+msgid ""
+"<a href=\"novel_33.html\">＜＜前のエピソード</a> <a href=\"novel_35.html\">次のエピソード＞＞</"
+"a><br> <br><br> <a href=\"https://docs.google.com/forms/d/e/"
+"1FAIpQLSdhB2kW8Tk7HpuzAdeCxmOG858asuw3Gt5Bcillqu5u-iFf4A/viewform\""
+">【こちらのフォームよりご意見・ご感想をお寄せください】</a><br>もれなくデジタルコンテンツをプレゼント！"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.p:345-1
+msgid "執筆：丘野塔也 挿絵：まろやか ＣＶ：楠木ともり（鴉羽）"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div:349-1
+msgid "目次へ戻る"
+msgstr ""
+
+#: ../test/novel_34.html%2Bhtml.body.div.div.div:350-1
+msgid "©VISUAL ARTS / Key"
+msgstr ""

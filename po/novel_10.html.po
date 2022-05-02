@@ -1,0 +1,473 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-02 21:10+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.2\n"
+
+#: ../test/novel_10.html%2Bhtml[lang]:2-1
+msgid "ja"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.head.title:8-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】 | Key"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.head.meta[content]:9-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.head.meta[content]:10-1
+msgid "Key,キー,kinetic,novel,キネティックノベル"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div:44-1
+msgid "プリマドール・アンコール"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div:48-1
+msgid "01-10 桜とカフェ（２）"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div:52-1
+msgid ""
+"<a href=\"novel_09.html\">＜＜前のエピソード</a> <a href=\"novel.html\">目次</a> <a "
+"href=\"novel_11.html\">次のエピソード＞＞</a>"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:66-5
+msgctxt "../test/novel_10.html+html.body.div.div.div.div.div.div.div.ul.li:66-5"
+msgid "「ごめんなさい、わたしの勘違いで……」"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:67-5
+msgctxt "../test/novel_10.html+html.body.div.div.div.div.div.div.div.ul.li:67-5"
+msgid "「ごめんなさい、わたしの勘違いで……」"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.p:75-1
+msgid "厨房にやってきた灰桜。"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.p:76-1
+msgid "しゅんとなって申し訳なさそうにしている。"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.p:78-1
+msgid "「いや、ボクがちゃんと説明していなかったのが悪かったんだよ」"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.p:80-1
+msgid "調理台の上にはバット。"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.p:81-1
+msgid "しっとりと濡れた、桜の葉と花房が並べられている。"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:88-5
+msgctxt "../test/novel_10.html+html.body.div.div.div.div.div.div.div.ul.li:88-5"
+msgid "「みゅっ、これがそうですか？」"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:89-5
+msgctxt "../test/novel_10.html+html.body.div.div.div.div.div.div.div.ul.li:89-5"
+msgid "「みゅっ、これがそうですか？」"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.p:95-1
+msgid "「うん、一昨日から塩漬けにしておいたんだ。こうすれば毒もなく食べられるし……」"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.p:97-1
+msgid "顔を近づけて、爽やかな香りを嗅ぐ。"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.p:99-1
+msgid "「ほら、春の匂いがするだろ？」"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:105-5
+msgctxt "../test/novel_10.html+html.body.div.div.div.div.div.div.div.ul.li:105-5"
+msgid "「ほんとうですっ！」"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:106-5
+msgctxt "../test/novel_10.html+html.body.div.div.div.div.div.div.div.ul.li:106-5"
+msgid "「ほんとうですっ！」"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.p:112-1
+msgid "「こうやって紅茶にいれてもおいしいし、お菓子を作っても……」"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:118-5
+msgctxt "../test/novel_10.html+html.body.div.div.div.div.div.div.div.ul.li:118-5"
+msgid "「わー、わー！」"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:119-5
+msgctxt "../test/novel_10.html+html.body.div.div.div.div.div.div.div.ul.li:119-5"
+msgid "「わー、わー！」"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.p:126-1
+msgid "紅茶を試しに入れて、桜ティーを作る。"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.p:127-1
+msgid "そうやって盛り上がっていると、鴉羽さんがやってきた。"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:136-5
+msgctxt "../test/novel_10.html+html.body.div.div.div.div.div.div.div.ul.li:136-5"
+msgid "「お客様、帰られたわ」"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:137-5
+msgctxt "../test/novel_10.html+html.body.div.div.div.div.div.div.div.ul.li:137-5"
+msgid "「お客様、帰られたわ」"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:149-5
+msgctxt "../test/novel_10.html+html.body.div.div.div.div.div.div.div.ul.li:149-5"
+msgid "「お怒りではなかったでしょーか……？」"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:150-5
+msgctxt "../test/novel_10.html+html.body.div.div.div.div.div.div.div.ul.li:150-5"
+msgid "「お怒りではなかったでしょーか……？」"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:164-5
+msgctxt "../test/novel_10.html+html.body.div.div.div.div.div.div.div.ul.li:164-5"
+msgid "「ちゃんと謝っておいたから大丈夫。気にしてないって言ってたわ」"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:165-5
+msgctxt "../test/novel_10.html+html.body.div.div.div.div.div.div.div.ul.li:165-5"
+msgid "「ちゃんと謝っておいたから大丈夫。気にしてないって言ってたわ」"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:176-5
+msgctxt "../test/novel_10.html+html.body.div.div.div.div.div.div.div.ul.li:176-5"
+msgid "「よかったです！」"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:177-5
+msgctxt "../test/novel_10.html+html.body.div.div.div.div.div.div.div.ul.li:177-5"
+msgid "「よかったです！」"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:188-5
+msgctxt "../test/novel_10.html+html.body.div.div.div.div.div.div.div.ul.li:188-5"
+msgid "「でも、後でお説教ね」"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:189-5
+msgctxt "../test/novel_10.html+html.body.div.div.div.div.div.div.div.ul.li:189-5"
+msgid "「でも、後でお説教ね」"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:202-5
+msgctxt "../test/novel_10.html+html.body.div.div.div.div.div.div.div.ul.li:202-5"
+msgid "「みゅっ」"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:203-5
+msgctxt "../test/novel_10.html+html.body.div.div.div.div.div.div.div.ul.li:203-5"
+msgid "「みゅっ」"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:215-5
+msgctxt "../test/novel_10.html+html.body.div.div.div.div.div.div.div.ul.li:215-5"
+msgid "「フロア、お願い」"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:216-5
+msgctxt "../test/novel_10.html+html.body.div.div.div.div.div.div.div.ul.li:216-5"
+msgid "「フロア、お願い」"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:228-5
+msgctxt "../test/novel_10.html+html.body.div.div.div.div.div.div.div.ul.li:228-5"
+msgid "「はぁい～……」"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:229-5
+msgctxt "../test/novel_10.html+html.body.div.div.div.div.div.div.div.ul.li:229-5"
+msgid "「はぁい～……」"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.p:236-1
+msgid "お盆を手にとって、すごすごと厨房を出て行く。"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.p:237-1
+msgid "「あの、すみません、余計なことしたみたいで……」"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:250-5
+msgctxt "../test/novel_10.html+html.body.div.div.div.div.div.div.div.ul.li:250-5"
+msgid "「………」"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:251-5
+msgctxt "../test/novel_10.html+html.body.div.div.div.div.div.div.div.ul.li:251-5"
+msgid "「………」"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.p:259-1
+msgid "鴉羽さんは腕を組んだまま、じっと押し黙っている。"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.p:260-1
+msgid "なんだか考え込んでいる様子だ。"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.p:262-1
+msgid ""
+"「違うんです、少しでも新しい名物になればと……話題になれば、お客さんも増えるかもしれないですし。黒猫亭はみんな一生懸命だし、雰囲気もいいし……もっと流行っ"
+"てもいいと思ったんです」"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.p:264-1
+msgid "じっとボクの言葉に耳を傾けている。"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.p:265-1
+msgid "そして、小さく長い息を吐いた。"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:272-5
+msgctxt "../test/novel_10.html+html.body.div.div.div.div.div.div.div.ul.li:272-5"
+msgid "「ちゃんと言っておいてね。融通の利く子じゃ無いから」"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:273-5
+msgctxt "../test/novel_10.html+html.body.div.div.div.div.div.div.div.ul.li:273-5"
+msgid "「ちゃんと言っておいてね。融通の利く子じゃ無いから」"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.p:280-1
+msgid "「は、はい……」"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.p:282-1
+msgid "もっと怒られると思ったので、意外だ。"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.p:283-1
+msgid "取りあえず、桜の塩漬けが乗ったバットは冷蔵庫に戻しておく。"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.p:284-1
+msgid "鴉羽さんも仕事に戻って、カトラリーをナプキンで磨いている。"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:291-5
+msgctxt "../test/novel_10.html+html.body.div.div.div.div.div.div.div.ul.li:291-5"
+msgid "「流行ると思う？」"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:292-5
+msgctxt "../test/novel_10.html+html.body.div.div.div.div.div.div.div.ul.li:292-5"
+msgid "「流行ると思う？」"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.p:299-1
+msgid "不意に声が上がる。"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.p:300-1
+msgid "それはボクに対する質問と言うよりも、ふと浮かんだ疑問といった雰囲気だった。"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.p:302-1
+msgid "「流行りますよ、絶対！」"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:308-5
+msgctxt "../test/novel_10.html+html.body.div.div.div.div.div.div.div.ul.li:308-5"
+msgid "「でも、人形に好意的な人ばかりじゃないから」"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:309-5
+msgctxt "../test/novel_10.html+html.body.div.div.div.div.div.div.div.ul.li:309-5"
+msgid "「でも、人形に好意的な人ばかりじゃないから」"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.p:315-1
+msgid "「<ruby>自律人形<rt>オートマタ</rt></ruby>が戦争で使われていたのは事実ですけど……」"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:321-5
+msgctxt "../test/novel_10.html+html.body.div.div.div.div.div.div.div.ul.li:321-5"
+msgid "「その後も、事故だっていくつもあったから」"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:322-5
+msgctxt "../test/novel_10.html+html.body.div.div.div.div.div.div.div.ul.li:322-5"
+msgid "「その後も、事故だっていくつもあったから」"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.p:328-1
+msgid "「ですけど、黒猫亭のみんなは違います！」"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.p:330-1
+msgid "強く主張する。"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.p:331-1
+msgid "それは、彼女たちに接してきた上での本心だった。"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.p:333-1
+msgid ""
+"「だから、いろんなメニューを展開して、お店も広くして……そうだ、あのピアノも活用しましょう。ピアニストを呼んで弾いて貰うとか……あっ、そうか。いっそ伴奏に"
+"合わせて歌えばいいんです。六区でも少女歌劇が再開したようですし、自律人形が歌えば話題になりますよ。みんな聞きたいと思うんです」"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:339-5
+msgctxt "../test/novel_10.html+html.body.div.div.div.div.div.div.div.ul.li:339-5"
+msgid "「素敵ね」"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:340-5
+msgctxt "../test/novel_10.html+html.body.div.div.div.div.div.div.div.ul.li:340-5"
+msgid "「素敵ね」"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.p:347-1
+msgid "にっこりと鴉羽さんは微笑む。"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.p:348-1
+msgid "なんだか、懐かしさを感じているように。"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:355-5
+msgctxt "../test/novel_10.html+html.body.div.div.div.div.div.div.div.ul.li:355-5"
+msgid "「そう言ってくれてありがとう。でもね……いいの」"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:356-5
+msgctxt "../test/novel_10.html+html.body.div.div.div.div.div.div.div.ul.li:356-5"
+msgid "「そう言ってくれてありがとう。でもね……いいの」"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.p:362-1
+msgid "「いい、というと……」"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:368-5
+msgctxt "../test/novel_10.html+html.body.div.div.div.div.div.div.div.ul.li:368-5"
+msgid "「分かってくれる人もいるし、そういう人を相手にみんなでお店を守れればそれでいいの。あの子にあまり無理をさせたくないし……」"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:369-5
+msgctxt "../test/novel_10.html+html.body.div.div.div.div.div.div.div.ul.li:369-5"
+msgid "「分かってくれる人もいるし、そういう人を相手にみんなでお店を守れればそれでいいの。あの子にあまり無理をさせたくないし……」"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.p:375-1
+msgid "「灰桜のことですか？」"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:381-5
+msgctxt "../test/novel_10.html+html.body.div.div.div.div.div.div.div.ul.li:381-5"
+msgid "「ええ、そうよ」"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:382-5
+msgctxt "../test/novel_10.html+html.body.div.div.div.div.div.div.div.ul.li:382-5"
+msgid "「ええ、そうよ」"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.p:389-1
+msgid "磨いていたフォークを、そっとバスケットに収めている。"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:396-5
+msgctxt "../test/novel_10.html+html.body.div.div.div.div.div.div.div.ul.li:396-5"
+msgid "「あの子、壊れているから」"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:397-5
+msgctxt "../test/novel_10.html+html.body.div.div.div.div.div.div.div.ul.li:397-5"
+msgid "「あの子、壊れているから」"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.p:403-1
+msgid "「あ……」"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.p:405-1
+msgid "すこし哀しそうに、鴉羽さんは微笑む。"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.p:407-1
+msgid "「……直るんですか？」"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:413-5
+msgctxt "../test/novel_10.html+html.body.div.div.div.div.div.div.div.ul.li:413-5"
+msgid "「どうでしょうね、直って欲しいけど」"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:414-5
+msgctxt "../test/novel_10.html+html.body.div.div.div.div.div.div.div.ul.li:414-5"
+msgid "「どうでしょうね、直って欲しいけど」"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.p:421-1
+msgid "手際よくバスケットを揃えると、丁寧に上から真新しいナプキンをかけている。"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:428-5
+msgctxt "../test/novel_10.html+html.body.div.div.div.div.div.div.div.ul.li:428-5"
+msgid "「でも、灰桜は灰桜だから」"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:429-5
+msgctxt "../test/novel_10.html+html.body.div.div.div.div.div.div.div.ul.li:429-5"
+msgid "「でも、灰桜は灰桜だから」"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.p:436-1
+msgid "一仕事終えたようで、ポニーテールを揺らして厨房を去っていく。"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.p:437-1
+msgid "冷めた紅茶の上に、ふわふわと桜が漂っていた。"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.div.div.div:441-1
+msgid ""
+"<a href=\"novel_09.html\">＜＜前のエピソード</a> <a href=\"novel_11.html\""
+">次のエピソード＞＞</a>"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.p:451-1
+msgid "執筆：丘野塔也 挿絵：まろやか"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div.p:451-46
+msgid "ＣＶ：和氣あず未（灰桜） 楠木ともり（鴉羽）"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div:455-1
+msgid "目次へ戻る"
+msgstr ""
+
+#: ../test/novel_10.html%2Bhtml.body.div.div:456-1
+msgid "©VISUAL ARTS / Key"
+msgstr ""

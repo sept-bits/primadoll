@@ -1,0 +1,351 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-02 21:10+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.2\n"
+
+#: ../test/novel_05.html%2Bhtml[lang]:2-1
+msgid "ja"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.head.title:8-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】 | Key"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.head.meta[content]:9-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.head.meta[content]:10-1
+msgid "Key,キー,kinetic,novel,キネティックノベル"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div:44-1
+msgid "プリマドール・アンコール"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div:48-1
+msgid "01-05 喫茶・黒猫亭（２）"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div:52-1
+msgid ""
+"<a href=\"novel_04.html\">＜＜前のエピソード</a> <a href=\"novel.html\">目次</a> <a "
+"href=\"novel_06.html\">次のエピソード＞＞</a>"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.p:58-1
+msgid "開店前の黒猫亭は広々としていて、静寂が漂っている。"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.p:59-1
+msgid "広々としたカウンターと、規則正しく並べられたテーブル。"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.p:60-1
+msgid "天板はぴかぴかに磨き上げられており、壁に掲げられたフィラメント電球の明かりを反射している。"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.p:61-1
+msgid "奥には可愛らしいアップライトピアノが一台。"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.p:62-1
+msgid "ベルベットのカバーから、ちらりとチェリーブラウンの鏡面が覗いている。"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:72-5
+msgctxt "../test/novel_05.html+html.body.div.div.div.div.div.div.div.ul.li:72-5"
+msgid "「おまちどおさま」"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:73-5
+msgctxt "../test/novel_05.html+html.body.div.div.div.div.div.div.div.ul.li:73-5"
+msgid "「おまちどおさま」"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.p:79-1
+msgid "カップとソーサーが、かちりと鳴る。"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.p:80-1
+msgid "鴉羽さんが淹れ立ての紅茶を、ポットから注いでくれた。"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.p:81-1
+msgid "ふわりと、林檎のような爽やかな香りが鼻をくすぐる。"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.p:83-1
+msgid "「すみません、ご馳走になっちゃって……」"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:89-5
+msgctxt "../test/novel_05.html+html.body.div.div.div.div.div.div.div.ul.li:89-5"
+msgid "「いいの、あの子のお手伝いしてくれたんでしょ？」"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:90-5
+msgctxt "../test/novel_05.html+html.body.div.div.div.div.div.div.div.ul.li:90-5"
+msgid "「いいの、あの子のお手伝いしてくれたんでしょ？」"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.p:96-1
+msgid "ちらりと厨房のほうに視線を向ける。"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.p:97-1
+msgid "入り口からわずかに灰桜の姿が覗いていて、ブレッドナイフを手に、せっせと食パンを切り分けていた。"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:104-5
+msgctxt "../test/novel_05.html+html.body.div.div.div.div.div.div.div.ul.li:104-5"
+msgid "「それどころか、あんぱん半分貰ったとか」"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:105-5
+msgctxt "../test/novel_05.html+html.body.div.div.div.div.div.div.div.ul.li:105-5"
+msgid "「それどころか、あんぱん半分貰ったとか」"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.p:111-1
+msgid "「ははは……聞きました？」"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:117-5
+msgctxt "../test/novel_05.html+html.body.div.div.div.div.div.div.div.ul.li:117-5"
+msgid "「灰桜、甘い物には目が無いから」"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:118-5
+msgctxt "../test/novel_05.html+html.body.div.div.div.div.div.div.div.ul.li:118-5"
+msgid "「灰桜、甘い物には目が無いから」"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.p:124-1
+msgid "「ボクと一緒です」"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.p:126-1
+msgid "ティースプーンにきっちり３杯の砂糖を注いで、おいしい紅茶を味わった。"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:133-5
+msgctxt "../test/novel_05.html+html.body.div.div.div.div.div.div.div.ul.li:133-5"
+msgid "「あ、いま音楽かけるわ」"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:134-5
+msgctxt "../test/novel_05.html+html.body.div.div.div.div.div.div.div.ul.li:134-5"
+msgid "「あ、いま音楽かけるわ」"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.p:140-1
+msgid "「そんな、お構いなく」"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:146-5
+msgctxt "../test/novel_05.html+html.body.div.div.div.div.div.div.div.ul.li:146-5"
+msgid "「ダメよ、お客様だもの」"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:147-5
+msgctxt "../test/novel_05.html+html.body.div.div.div.div.div.div.div.ul.li:147-5"
+msgid "「ダメよ、お客様だもの」"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.p:154-1
+msgid "くすりと笑って、エプロンのリボンを揺らす。"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.p:155-1
+msgid ""
+"アップライトピアノの前を通り過ぎて、その奥にある蓄音機の前に立つ。レコードに針を落とすと、ややあってから、ちょっともの哀しいような、ゆったりしたフルートの"
+"音色が響いていた。"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.p:157-1
+msgid "「……このピアノ、誰か弾くんですか？」"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:163-5
+msgctxt "../test/novel_05.html+html.body.div.div.div.div.div.div.div.ul.li:163-5"
+msgid "「ああ、これは……オーナーがこの建物を借りたときにね、大家さんが譲ってくれたらしいの。お嬢様が昔使っていたらしいわ」"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:164-5
+msgctxt "../test/novel_05.html+html.body.div.div.div.div.div.div.div.ul.li:164-5"
+msgid "「ああ、これは……オーナーがこの建物を借りたときにね、大家さんが譲ってくれたらしいの。お嬢様が昔使っていたらしいわ」"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.p:170-1
+msgid "「生の伴奏で、歌でも歌うとさぞかし楽しいでしょうねえ」"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:176-5
+msgctxt "../test/novel_05.html+html.body.div.div.div.div.div.div.div.ul.li:176-5"
+msgid "「まあ……弾けなくもないけれど」"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:177-5
+msgctxt "../test/novel_05.html+html.body.div.div.div.div.div.div.div.ul.li:177-5"
+msgid "「まあ……弾けなくもないけれど」"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.p:184-1
+msgid "そうやって水を向けるが、鴉羽はなんとも微妙な表情。"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.p:185-1
+msgid "じっとピアノを見つめて、懐かしむような、哀しむような、そんな顔を浮かべている。"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:191-5
+msgctxt "../test/novel_05.html+html.body.div.div.div.div.div.div.div.ul.li:191-5"
+msgid "「いまは黒猫亭の人形も３体しかいないから。あまりそんな余裕もないのよ」"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:192-5
+msgctxt "../test/novel_05.html+html.body.div.div.div.div.div.div.div.ul.li:192-5"
+msgid "「いまは黒猫亭の人形も３体しかいないから。あまりそんな余裕もないのよ」"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.p:198-1
+msgid "「いまは？」"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:204-5
+msgctxt "../test/novel_05.html+html.body.div.div.div.div.div.div.div.ul.li:204-5"
+msgid "「色々と理由があってね、いま人手が足りないの。特に厨房。募集の貼り紙もしているんだけど……」"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:205-5
+msgctxt "../test/novel_05.html+html.body.div.div.div.div.div.div.div.ul.li:205-5"
+msgid "「色々と理由があってね、いま人手が足りないの。特に厨房。募集の貼り紙もしているんだけど……」"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.p:212-1
+msgid "そういえば店内に入るとき、視界の端に貼り紙が写ったような気がする。あれが厨房係募集の求人だったのか。"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.p:214-1
+msgid "灰桜「うささーーーーーん！」"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.p:216-1
+msgid "ぴょこぴょこと厨房から、灰桜が跳ね出てくる。"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.p:218-1
+msgid "灰桜「サンドイッチも召し上がってくださいっ」"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.p:219-1
+msgid "「いやいや、そこまでは頼んでないよ」"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:225-5
+msgctxt "../test/novel_05.html+html.body.div.div.div.div.div.div.div.ul.li:225-5"
+msgid "「試食品よ、食べていって」"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:226-5
+msgctxt "../test/novel_05.html+html.body.div.div.div.div.div.div.div.ul.li:226-5"
+msgid "「試食品よ、食べていって」"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.p:233-1
+msgid "ハムとチーズが挟まれたシンプルなサンドイッチが盛り付けられている。"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.p:234-1
+msgid "その隣では、にこにこと笑う灰桜。"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.p:236-1
+msgid "「じゃあ……いただきます」"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.p:238-1
+msgid "小さく口を開けて、ぱくりと頬張る。"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.p:240-1
+msgid "「………っ」"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.p:241-1
+msgid "灰桜「みゅっ、泣いてますっ」"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:247-5
+msgctxt "../test/novel_05.html+html.body.div.div.div.div.div.div.div.ul.li:247-5"
+msgid "「ごめんね、辛子が利いててて」"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:248-5
+msgctxt "../test/novel_05.html+html.body.div.div.div.div.div.div.div.ul.li:248-5"
+msgid "「ごめんね、辛子が利いててて」"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.p:255-1
+msgid "甘いものには目が無いが、ツンと来る辛さはすこし苦手だ。"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.p:256-1
+msgid "でも涙がにじむのは、それだけが理由じゃ無い。"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.p:258-1
+msgid "「でも、おいしいよ。とっても」"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.p:260-1
+msgid "華やかな紅茶の香りと、ちょっぴり香辛料の利いた料理。"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.p:261-1
+msgid "穏やかな音楽と、胸に沈み込むような笑顔。"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.p:262-1
+msgid "この空間が、なんとも居心地がよかった。"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.p:264-1
+msgid "「あの、鴉羽さん」"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.p:266-1
+msgid "だからボクは、灰桜の先輩人形に改めて声をかけた。"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.p:268-1
+msgid "「ボクをここで雇ってもらえませんか？」"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.div.div.div:271-1
+msgid ""
+"<a href=\"novel_04.html\">＜＜前のエピソード</a> <a href=\"novel_06.html\""
+">次のエピソード＞＞</a>"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div.p:281-1
+msgid "執筆：丘野塔也 挿絵：まろやか ＣＶ：楠木ともり（鴉羽）"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div:286-1
+msgid "目次へ戻る"
+msgstr ""
+
+#: ../test/novel_05.html%2Bhtml.body.div.div:287-1
+msgid "©VISUAL ARTS / Key"
+msgstr ""

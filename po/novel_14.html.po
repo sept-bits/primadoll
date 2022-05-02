@@ -1,0 +1,570 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-02 21:10+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.2\n"
+
+#: ../test/novel_14.html%2Bhtml[lang]:2-1
+msgid "ja"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.head.title:8-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】 | Key"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.head.meta[content]:9-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.head.meta[content]:10-1
+msgid "Key,キー,kinetic,novel,キネティックノベル"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div:44-1
+msgid "プリマドール・アンコール"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div:48-1
+msgid "02-3 きら星と焼き菓子（３）"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div:52-1
+msgid ""
+"<a href=\"novel_13.html\">＜＜前のエピソード</a> <a href=\"novel.html\">目次</a> <a "
+"href=\"novel_15.html\">次のエピソード＞＞</a>"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:64-5
+msgctxt "../test/novel_14.html+html.body.div.div.div.div.div.div.div.ul.li:64-5"
+msgid "「のれん、しまっちゃいますねぇ」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:65-5
+msgctxt "../test/novel_14.html+html.body.div.div.div.div.div.div.div.ul.li:65-5"
+msgid "「のれん、しまっちゃいますねぇ」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.p:72-1
+msgid "とっぷりと夜も暮れた頃。"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.p:73-1
+msgid "箒星さんはがらんとした店内で、てきぱきと閉店作業を進めていた。"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.p:75-1
+msgctxt "../test/novel_14.html+html.body.div.div.div.div.p:75-1"
+msgid "「あの、箒星さん」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.p:77-1
+msgid "ボクはといえば、ぽつんと厨房に立っている。"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.p:78-1
+msgid "酒屋の前掛けがエプロン代わりだ。"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.p:80-1
+msgid "「本当にいいんですしょうか？」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:86-5
+msgctxt "../test/novel_14.html+html.body.div.div.div.div.div.div.div.ul.li:86-5"
+msgid "「はい、お店の方にお話はしておきましたので☆」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:87-5
+msgctxt "../test/novel_14.html+html.body.div.div.div.div.div.div.div.ul.li:87-5"
+msgid "「はい、お店の方にお話はしておきましたので☆」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.p:93-1
+msgid "そういって、ぱちりと片目をつぶる。"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:100-5
+msgctxt "../test/novel_14.html+html.body.div.div.div.div.div.div.div.ul.li:100-5"
+msgid "「練習あるのみ、深夜の特訓しましょうっ」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:101-5
+msgctxt "../test/novel_14.html+html.body.div.div.div.div.div.div.div.ul.li:101-5"
+msgid "「練習あるのみ、深夜の特訓しましょうっ」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.p:107-1
+msgid "「す、すみません……」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:113-5
+msgctxt "../test/novel_14.html+html.body.div.div.div.div.div.div.div.ul.li:113-5"
+msgid "「いえいえ。ここは立ち呑み居酒屋なので、すこし勝手は違うと思いますが」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:114-5
+msgctxt "../test/novel_14.html+html.body.div.div.div.div.div.div.div.ul.li:114-5"
+msgid "「いえいえ。ここは立ち呑み居酒屋なので、すこし勝手は違うと思いますが」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.p:120-1
+msgid "厨房の中に戻ってくる箒星さん。"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.p:121-1
+msgid "再び手を洗うと、小麦粉やら卵やらを次々取り出す。"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:128-5
+msgctxt "../test/novel_14.html+html.body.div.div.div.div.div.div.div.ul.li:128-5"
+msgid "「簡単なお菓子ぐらいだったら作れちゃいますので。シュー生地を作りたいんですよね？」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:129-5
+msgctxt "../test/novel_14.html+html.body.div.div.div.div.div.div.div.ul.li:129-5"
+msgid "「簡単なお菓子ぐらいだったら作れちゃいますので。シュー生地を作りたいんですよね？」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.p:135-1
+msgid "「はい、そうなんです。何度か挑戦したんですけど、うまく膨らまなかったり、焦げちゃったり……」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:141-5
+msgctxt "../test/novel_14.html+html.body.div.div.div.div.div.div.div.ul.li:141-5"
+msgid "「私が思うに、ダマになっていると思うんですよね」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:142-5
+msgctxt "../test/novel_14.html+html.body.div.div.div.div.div.div.div.ul.li:142-5"
+msgid "「私が思うに、ダマになっていると思うんですよね」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.p:148-1
+msgid "「いやでも、すっごく混ぜてますよ」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:154-5
+msgctxt "../test/novel_14.html+html.body.div.div.div.div.div.div.div.ul.li:154-5"
+msgid "「小麦粉や砂糖、何回ぐらいふるってますか？」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:155-5
+msgctxt "../test/novel_14.html+html.body.div.div.div.div.div.div.div.ul.li:155-5"
+msgid "「小麦粉や砂糖、何回ぐらいふるってますか？」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.p:161-1
+msgid "「それは……１回ですね。砂糖はそのまま」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:167-5
+msgctxt "../test/novel_14.html+html.body.div.div.div.div.div.div.div.ul.li:167-5"
+msgid "「そのあたりに原因があるかもしれませんねぇ。しつこく何回もふるってみましょう」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:168-5
+msgctxt "../test/novel_14.html+html.body.div.div.div.div.div.div.div.ul.li:168-5"
+msgid "「そのあたりに原因があるかもしれませんねぇ。しつこく何回もふるってみましょう」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.p:173-1
+msgid "「そこが問題なんですか？」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:179-5
+msgctxt "../test/novel_14.html+html.body.div.div.div.div.div.div.div.ul.li:179-5"
+msgid "「一見混ざっているようでも、実は固まりになっていることもあるんですよ。だからこうやってー」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:180-5
+msgctxt "../test/novel_14.html+html.body.div.div.div.div.div.div.div.ul.li:180-5"
+msgid "「一見混ざっているようでも、実は固まりになっていることもあるんですよ。だからこうやってー」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.p:186-1
+msgid "ボウルの上に、何度も粉ふるいを動かす。"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.p:187-1
+msgid "まるで雪景色のような、乳白色の光景が広がっていく。"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:194-5
+msgctxt "../test/novel_14.html+html.body.div.div.div.div.div.div.div.ul.li:194-5"
+msgid "「お湯と溶かしバターを混ぜ合わせて、これでもかとしっかり捏ねるんですよー」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:195-5
+msgctxt "../test/novel_14.html+html.body.div.div.div.div.div.div.div.ul.li:195-5"
+msgid "「お湯と溶かしバターを混ぜ合わせて、これでもかとしっかり捏ねるんですよー」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.p:200-1
+msgid "「ふむふむ、なるほど」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.p:202-1
+msgid "これは、レシピ帳だけではわからなかった部分だ。"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.p:203-1
+msgid "箒星さんの何気ない一挙手一投足が参考になる。"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.p:204-1
+msgid "ボクはまるで餌の前にした鳩のように、コクコクと頷くことしかできなかった。"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:211-5
+msgctxt "../test/novel_14.html+html.body.div.div.div.div.div.div.div.ul.li:211-5"
+msgid "「こんなのも入れちゃいましょう」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:212-5
+msgctxt "../test/novel_14.html+html.body.div.div.div.div.div.div.div.ul.li:212-5"
+msgid "「こんなのも入れちゃいましょう」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.p:218-1
+msgid "そういって、棚からごそごそとなにやらブリキ缶を取り出す。"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.p:220-1
+msgid "「それは？」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:226-5
+msgctxt "../test/novel_14.html+html.body.div.div.div.div.div.div.div.ul.li:226-5"
+msgid "「ちょっとした遊び心ですよ☆」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:227-5
+msgctxt "../test/novel_14.html+html.body.div.div.div.div.div.div.div.ul.li:227-5"
+msgid "「ちょっとした遊び心ですよ☆」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.p:233-1
+msgid "缶を傾けて、ざらざらと生地に混ぜ合わせている。"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.p:234-1
+msgid "やがて、スプーンで生地をすくって、天板の上に乗せていた。"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.p:236-1
+msgid "「生地の艶が段違いだ……」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.p:238-1
+msgid "これは期待できそうだ。"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.div:240-2
+msgid "＊ ＊ ＊"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:248-5
+msgctxt "../test/novel_14.html+html.body.div.div.div.div.div.div.div.ul.li:248-5"
+msgid "「完成ですっ」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:249-5
+msgctxt "../test/novel_14.html+html.body.div.div.div.div.div.div.div.ul.li:249-5"
+msgid "「完成ですっ」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.p:255-1
+msgid "ぱちぱちぱちぱち。思わず拍手してしまう。"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.p:257-1
+msgid "「すごい、完璧ですねっ」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.p:259-1
+msgid ""
+"ぷくりと見事に膨らんだシュー生地。きつね色の焼き目が香ばしい香りを漂わせている。大きさは子供の手にちょうど収まるほどで、なにもかもが申し分ない。"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:266-5
+msgctxt "../test/novel_14.html+html.body.div.div.div.div.div.div.div.ul.li:266-5"
+msgid "「味見してみてくださいっ」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:267-5
+msgctxt "../test/novel_14.html+html.body.div.div.div.div.div.div.div.ul.li:267-5"
+msgid "「味見してみてくださいっ」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.p:272-1
+msgid "「いただきまーす！」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.p:274-1
+msgid "ぱくりとかぶりつく。表面のさくさくした食感の後に、ふわりと柔らかさが伝わってくる。しかも……。"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.p:276-1
+msgid "「あれ、これは？」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.p:278-1
+msgid "カリカリとした食感。続いて、なんとも香ばしい旨味が広がった。"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:285-5
+msgctxt "../test/novel_14.html+html.body.div.div.div.div.div.div.div.ul.li:285-5"
+msgid "「その秘密は……ピーナッツです！」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:286-5
+msgctxt "../test/novel_14.html+html.body.div.div.div.div.div.div.div.ul.li:286-5"
+msgid "「その秘密は……ピーナッツです！」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.p:291-1
+msgid "「ピーナッツ！？ なるほど、さっき入れていたのは……」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:297-5
+msgctxt "../test/novel_14.html+html.body.div.div.div.div.div.div.div.ul.li:297-5"
+msgid "「食感が面白いですよね。西邦では、お祝いのお菓子には豆を練り込むみたいなんです」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:298-5
+msgctxt "../test/novel_14.html+html.body.div.div.div.div.div.div.div.ul.li:298-5"
+msgid "「食感が面白いですよね。西邦では、お祝いのお菓子には豆を練り込むみたいなんです」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.p:303-1
+msgid "「なるほど、確かに美味しいですね」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:309-5
+msgctxt "../test/novel_14.html+html.body.div.div.div.div.div.div.div.ul.li:309-5"
+msgid "「ふふっ……それに、こんな言い伝えもあります」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:310-5
+msgctxt "../test/novel_14.html+html.body.div.div.div.div.div.div.div.ul.li:310-5"
+msgid "「ふふっ……それに、こんな言い伝えもあります」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.p:316-1
+msgid "はぐはぐとピーナッツ入りシューを頬張るボクの隣で、またぱちりと片目をつぶる。"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:323-5
+msgctxt "../test/novel_14.html+html.body.div.div.div.div.div.div.div.ul.li:323-5"
+msgid "「豆を食べると、幸運が訪れるそうです☆ だからたとえ失敗したとしても……次は絶対うまくいくと思いますよ」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:324-5
+msgctxt "../test/novel_14.html+html.body.div.div.div.div.div.div.div.ul.li:324-5"
+msgid "「豆を食べると、幸運が訪れるそうです☆ だからたとえ失敗したとしても……次は絶対うまくいくと思いますよ」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.p:329-1
+msgid "「箒星さん……」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.p:331-1
+msgid "その味はなんとも優しい甘さで、時々しっかりした歯ごたえがあって……なんとも味わい深いお菓子だった。"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:338-5
+msgctxt "../test/novel_14.html+html.body.div.div.div.div.div.div.div.ul.li:338-5"
+msgid "「私も、ひとついただきます」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:339-5
+msgctxt "../test/novel_14.html+html.body.div.div.div.div.div.div.div.ul.li:339-5"
+msgid "「私も、ひとついただきます」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.p:344-1
+msgid "「大丈夫なんですか？」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:350-5
+msgctxt "../test/novel_14.html+html.body.div.div.div.div.div.div.div.ul.li:350-5"
+msgid "「ひとつぐらいなら平気です。あーん……」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:351-5
+msgctxt "../test/novel_14.html+html.body.div.div.div.div.div.div.div.ul.li:351-5"
+msgid "「ひとつぐらいなら平気です。あーん……」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.p:357-1
+msgid "小さな口で、ぱくぱくと味わっている。"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.p:358-1
+msgid "人間と同じ味覚ではないとはいえ、きっとおいしく感じていることだろう。"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:368-5
+msgctxt "../test/novel_14.html+html.body.div.div.div.div.div.div.div.ul.li:368-5"
+msgid "「………」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:369-5
+msgctxt "../test/novel_14.html+html.body.div.div.div.div.div.div.div.ul.li:369-5"
+msgid "「………」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.p:374-1
+msgid "「あれ？」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.p:376-1
+msgid "明らかに気落ちしている。"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:383-5
+msgctxt "../test/novel_14.html+html.body.div.div.div.div.div.div.div.ul.li:383-5"
+msgid "「ピーナッツ」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:384-5
+msgctxt "../test/novel_14.html+html.body.div.div.div.div.div.div.div.ul.li:384-5"
+msgid "「ピーナッツ」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.p:390-1
+msgid "大半を食べ終え、ほとんど欠片になったシュー生地を恨めしそうに眺めている。"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:397-5
+msgctxt "../test/novel_14.html+html.body.div.div.div.div.div.div.div.ul.li:397-5"
+msgid "「入ってませんでした」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:398-5
+msgctxt "../test/novel_14.html+html.body.div.div.div.div.div.div.div.ul.li:398-5"
+msgid "「入ってませんでした」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.p:403-1
+msgid "「えっ、それは不運ですね。ボクは二、三個入ってましたけど……」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:409-5
+msgctxt "../test/novel_14.html+html.body.div.div.div.div.div.div.div.ul.li:409-5"
+msgid "「もう一個」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:410-5
+msgctxt "../test/novel_14.html+html.body.div.div.div.div.div.div.div.ul.li:410-5"
+msgid "「もう一個」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.p:415-1
+msgctxt "../test/novel_14.html+html.body.div.div.div.div.p:415-1"
+msgid "「あの、箒星さん」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:421-5
+msgctxt "../test/novel_14.html+html.body.div.div.div.div.div.div.div.ul.li:421-5"
+msgid "「にゃんですか」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:422-5
+msgctxt "../test/novel_14.html+html.body.div.div.div.div.div.div.div.ul.li:422-5"
+msgid "「にゃんですか」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.p:428-1
+msgid "はぐはぐとまた生地を頬張りながら答える。"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.p:430-1
+msgid "「あんまり食べると良くないんじゃ？」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:436-5
+msgctxt "../test/novel_14.html+html.body.div.div.div.div.div.div.div.ul.li:436-5"
+msgid "「ですが、なんだか私の運がとっても悪いみたいじゃないですか」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:437-5
+msgctxt "../test/novel_14.html+html.body.div.div.div.div.div.div.div.ul.li:437-5"
+msgid "「ですが、なんだか私の運がとっても悪いみたいじゃないですか」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.p:443-1
+msgid "あっという間に食べきってしまう。"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.p:445-1
+msgid "「今度は入ってましたよね、あれだけ生地に練り込んでたら……」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:451-5
+msgctxt "../test/novel_14.html+html.body.div.div.div.div.div.div.div.ul.li:451-5"
+msgid "「また入ってませんでした！」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:452-5
+msgctxt "../test/novel_14.html+html.body.div.div.div.div.div.div.div.ul.li:452-5"
+msgid "「また入ってませんでした！」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.p:457-1
+msgid "「あっ……ボクが探してあげますよ！ ほらこれなんてどうですか？ ほら中身いっぱい」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.p:459-1
+msgid "適当に一個割ると、ぎっしりピーナッツが詰まっている。"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:466-5
+msgctxt "../test/novel_14.html+html.body.div.div.div.div.div.div.div.ul.li:466-5"
+msgid "「自分で当てないと意味がないんです。もう一個！」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:467-5
+msgctxt "../test/novel_14.html+html.body.div.div.div.div.div.div.div.ul.li:467-5"
+msgid "「自分で当てないと意味がないんです。もう一個！」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.p:472-1
+msgid "「煙突から焦げ臭い匂いしてますよ？」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:478-5
+msgctxt "../test/novel_14.html+html.body.div.div.div.div.div.div.div.ul.li:478-5"
+msgid "「また入ってませんーーー！」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:479-5
+msgctxt "../test/novel_14.html+html.body.div.div.div.div.div.div.div.ul.li:479-5"
+msgid "「また入ってませんーーー！」"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.div.div.div:495-1
+msgid ""
+"<a href=\"novel_13.html\">＜＜前のエピソード</a> <a href=\"novel_15.html\""
+">次のエピソード＞＞</a>"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div.p:505-1
+msgid "執筆：丘野塔也 挿絵：まろやか ＣＶ：中島由貴（箒星）"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div:509-1
+msgid "目次へ戻る"
+msgstr ""
+
+#: ../test/novel_14.html%2Bhtml.body.div.div:510-1
+msgid "©VISUAL ARTS / Key"
+msgstr ""

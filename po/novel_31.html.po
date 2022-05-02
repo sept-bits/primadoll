@@ -1,0 +1,696 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-02 21:10+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.2\n"
+
+#: ../test/novel_31.html%2Bhtml[lang]:2-1
+msgid "ja"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.head.title:8-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】 | Key"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.head.meta[content]:9-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.head.meta[content]:10-1
+msgid "Key,キー,kinetic,novel,キネティックノベル"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div:44-1
+msgid "プリマドール・アンコール"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div:48-1
+msgid "05-2 異邦人形（2）"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div:52-1
+msgid ""
+"<a href=\"novel_30.html\">＜＜前のエピソード</a> <a href=\"novel.html\">目次</a> <a "
+"href=\"novel_32.html\">次のエピソード＞＞</a>"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:65-100
+msgctxt "../test/novel_31.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:65-100"
+msgid "「お姉様がいくら可愛いからといって、寝込みを襲うとは……八つ裂きにしても飽き足りませんわ」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:66-101
+msgctxt "../test/novel_31.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:66-101"
+msgid "「お姉様がいくら可愛いからといって、寝込みを襲うとは……八つ裂きにしても飽き足りませんわ」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:72-1
+msgid "宇佐美「ややや、やめてくださいっ……ボクはっ……」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:78-100
+msgctxt "../test/novel_31.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:78-100"
+msgid "「あら、弁明がありますの？」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:79-101
+msgctxt "../test/novel_31.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:79-101"
+msgid "「あら、弁明がありますの？」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:85-1
+msgid "宇佐美「黒猫亭の厨房係なんです！ おいしいケーキが出来たから持ってきただけでっ……他意は、他意はないんですっ……！」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:91-100
+msgctxt "../test/novel_31.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:91-100"
+"../test/novel_31.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:91-100"
+"../test/novel_31.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:91-100"
+msgid "「………」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:92-101
+msgctxt "../test/novel_31.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:92-101"
+msgid "「………」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:98-1
+msgid "宇佐美「……あれ？」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div:98-14
+msgid ""
+"必死になって弁明する。 しばし沈黙があったかと思うと、背中の殺意は消えていた。 <br> 宇佐美「どこに……」 <br> "
+"再び、煙のように無くなってしまった。"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:112-100
+msgctxt "../test/novel_31.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:112-100"
+msgid "「まあまあのお味ですわね」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:113-101
+msgctxt "../test/novel_31.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:113-101"
+msgid "「まあまあのお味ですわね」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:119-1
+msgid "宇佐美「ひっ」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div:119-11
+msgid "と思ったら、部屋の隅にちゃっかりいた。"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:122-1
+msgid "手にはパウンドケーキの乗ったお皿を持っており、器用にナイフで刺して口に運んでいる。"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:129-100
+msgctxt "../test/novel_31.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:129-100"
+msgid "「厨房係というの、嘘ではなさそうですわね」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:130-101
+msgctxt "../test/novel_31.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:130-101"
+msgid "「厨房係というの、嘘ではなさそうですわね」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:136-1
+msgid "宇佐美「ぼ、ボクは宇佐美です！ あの、あなたは……？」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:142-100
+msgctxt "../test/novel_31.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:142-100"
+msgid "「レーツェル。お姉様の可愛い妹、ですの」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:143-101
+msgctxt "../test/novel_31.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:143-101"
+msgid "「レーツェル。お姉様の可愛い妹、ですの」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:150-1
+msgid "灰桜よりずいぶん大人びた表情で、悪戯な笑顔を見せる。ぽっと煙突から、甘い香りの蒸気が噴き出していた。"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.div:153-2
+msgctxt "../test/novel_31.html+html.body.div.div.div.div.div:153-2"
+"../test/novel_31.html+html.body.div.div.div.div.div:153-2"
+msgid "＊ ＊ ＊"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:163-100
+msgctxt "../test/novel_31.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:163-100"
+msgid "「危うく早とちりするところでしたわ」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:164-101
+msgctxt "../test/novel_31.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:164-101"
+msgid "「危うく早とちりするところでしたわ」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:172-1
+msgid "灰桜を気遣って、ボクの部屋に移動する。"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:173-1
+msgid "銀髪の人形は、すらりとした足を組んで椅子に腰かけていた。"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:174-1
+msgid "優雅に紅茶まで飲んでいる。ボクが用意したものだけど。"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:181-100
+msgctxt "../test/novel_31.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:181-100"
+msgid "「いつから働いていらっしゃるんですの？」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:182-101
+msgctxt "../test/novel_31.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:182-101"
+msgid "「いつから働いていらっしゃるんですの？」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div:186-1
+msgid "宇佐美「もう、三ヶ月になるでしょうか。ようやく慣れてきました」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:194-100
+msgctxt "../test/novel_31.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:194-100"
+msgid "「それで」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:195-101
+msgctxt "../test/novel_31.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:195-101"
+msgid "「それで」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:201-1
+msgid "じろりと真紅の視線を向けられる。"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:208-100
+msgctxt "../test/novel_31.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:208-100"
+msgid "「ちょっかいはかけていないのでしょうね」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:209-101
+msgctxt "../test/novel_31.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:209-101"
+msgid "「ちょっかいはかけていないのでしょうね」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:215-1
+msgid "宇佐美「ちょっかいって……」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:221-100
+msgctxt "../test/novel_31.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:221-100"
+msgid "「側にいることをいいことに、お姉様の柔らかい頬を撫でたり、桜色の髪を嗅いだり、あまつさえ……！」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:222-101
+msgctxt "../test/novel_31.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:222-101"
+msgid "「側にいることをいいことに、お姉様の柔らかい頬を撫でたり、桜色の髪を嗅いだり、あまつさえ……！」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:228-1
+msgid "宇佐美「し、してません！」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:234-100
+msgctxt "../test/novel_31.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:234-100"
+msgid "「……本当ですの？」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:235-101
+msgctxt "../test/novel_31.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:235-101"
+msgid "「……本当ですの？」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:241-1
+msgid "宇佐美「まあ、灰桜は可愛いですけど」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:247-100
+msgctxt "../test/novel_31.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:247-100"
+msgid "「ほれ見たことかでありますわ！」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:248-101
+msgctxt "../test/novel_31.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:248-101"
+msgid "「ほれ見たことかでありますわ！」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:254-1
+msgid "宇佐美「そう言う意味ではなくてですね……！」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:256-1
+msgid "感情的なレーツェルさんに、なんとか言葉を尽くして説明する。"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:258-1
+msgid "宇佐美「それにしても……レーツェルさんと灰桜は、どういう関係なんですか？」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:260-1
+msgid "ボクは、以前から抱いていた疑問を口にする。"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:267-100
+msgctxt "../test/novel_31.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:267-100"
+msgid "「関係……そうですわね」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:268-101
+msgctxt "../test/novel_31.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:268-101"
+msgid "「関係……そうですわね」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:274-1
+msgid "レーツェルさんは一瞬懐かしそうに目を細めて、思い出を語り始めた。"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:281-100
+msgctxt "../test/novel_31.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:281-100"
+msgid "「わたくしは捨て子なんですの」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:282-101
+msgctxt "../test/novel_31.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:282-101"
+msgid "「わたくしは捨て子なんですの」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:288-1
+msgid "宇佐美「捨て子？」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:294-100
+msgctxt "../test/novel_31.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:294-100"
+msgid "「ご覧の通りは、わたくしはこの国で作られた人形ではありません」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:295-101
+msgctxt "../test/novel_31.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:295-101"
+msgid "「ご覧の通りは、わたくしはこの国で作られた人形ではありません」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:301-1
+msgid "宇佐美「それは……聞きました。ローベリアで作られたとか。その、捕虜になったとか……そういうのですか？」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:307-100
+msgctxt "../test/novel_31.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:307-100"
+msgid "「そんないいものではありませんわ。わたくしは破棄された失敗作ですの」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:308-101
+msgctxt "../test/novel_31.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:308-101"
+msgid "「そんないいものではありませんわ。わたくしは破棄された失敗作ですの」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:314-1
+msgid "宇佐美「失敗作……」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:320-100
+msgctxt "../test/novel_31.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:320-100"
+msgid "「潜入工作用に作られた特殊人形……それが本来の役目ですわ」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:321-101
+msgctxt "../test/novel_31.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:321-101"
+msgid "「潜入工作用に作られた特殊人形……それが本来の役目ですわ」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:327-1
+msgid "宇佐美「実験用の人形だったってことですか」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:333-100
+msgctxt "../test/novel_31.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:333-100"
+msgid "「でも計画は中止。独りぼっちで打ち捨てられてしまったんですの」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:334-101
+msgctxt "../test/novel_31.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:334-101"
+msgid "「でも計画は中止。独りぼっちで打ち捨てられてしまったんですの」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:340-1
+msgid "しくしくと、大げさに哀しそうな仕草をする。半分おどけているけれど。"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:347-100
+msgctxt "../test/novel_31.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:347-100"
+msgid "「でも、そんなわたしに灰桜お姉様は居場所を与えてくれた……わたくしに、新しい役目を与えてくれた……だから義姉妹の契りを勝手に結んだんですの」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:348-101
+msgctxt "../test/novel_31.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:348-101"
+msgid "「でも、そんなわたしに灰桜お姉様は居場所を与えてくれた……わたくしに、新しい役目を与えてくれた……だから義姉妹の契りを勝手に結んだんですの」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:354-1
+msgid "宇佐美「勝手に？」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:360-100
+msgctxt "../test/novel_31.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:360-100"
+msgid "「まあ、些事はいいではありませんか。だからお姉様に悪い虫が付くのは許せませんの。黒猫亭を離れている間、本当に心配でしたわ……」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:361-101
+msgctxt "../test/novel_31.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:361-101"
+msgid "「まあ、些事はいいではありませんか。だからお姉様に悪い虫が付くのは許せませんの。黒猫亭を離れている間、本当に心配でしたわ……」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:367-1
+msgid "宇佐美「ローベリアに里帰りしていたんですよね」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:373-100
+msgctxt "../test/novel_31.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:373-100"
+msgid "「ええ、先代オーナーのお付き兼警護で。皇国製の人形は目立ってしまいますから」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:374-101
+msgctxt "../test/novel_31.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:374-101"
+msgid "「ええ、先代オーナーのお付き兼警護で。皇国製の人形は目立ってしまいますから」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:380-1
+msgid "宇佐美「なるほど、なるほど。事情は飲み込めました」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:382-1
+msgid "冷たいナイフを突きつけられたときは何が起こったのかと思ったけれど。"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:383-1
+msgid "彼女なりに、そうする動機と想いがしっかりあるみたいだ。"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:385-1
+msgid "宇佐美「だったら、今日は一泊していきますか」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:391-100
+msgctxt "../test/novel_31.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:391-100"
+msgid "「……え？」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:392-101
+msgctxt "../test/novel_31.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:392-101"
+msgid "「……え？」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:398-1
+msgid "宇佐美「灰桜が目覚めたら会いたいでしょう。他の皆さんにも……」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:404-100
+msgctxt "../test/novel_31.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:404-100"
+msgid "「おあいにく様」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:405-101
+msgctxt "../test/novel_31.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:405-101"
+msgid "「おあいにく様」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:411-1
+msgctxt "../test/novel_31.html+html.body.div.div.div.div.p:411-1"
+msgid "宇佐美「え？」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:417-100
+msgctxt "../test/novel_31.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:417-100"
+msgid "「警護のお役目はまだ終わっていませんの。今日は様子を見ただけ……そろそろお暇しますわ」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:418-101
+msgctxt "../test/novel_31.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:418-101"
+msgid "「警護のお役目はまだ終わっていませんの。今日は様子を見ただけ……そろそろお暇しますわ」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:424-1
+msgid "宇佐美「じゃあ、明日改めて？」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:430-100
+msgctxt "../test/novel_31.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:430-100"
+msgid "「………」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:431-101
+msgctxt "../test/novel_31.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:431-101"
+msgid "「………」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:437-1
+msgid "宇佐美「レーツェルさん？」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:443-100
+msgctxt "../test/novel_31.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:443-100"
+msgid "「失礼いたしますわ」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:444-101
+msgctxt "../test/novel_31.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:444-101"
+msgid "「失礼いたしますわ」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:450-1
+msgid "くるりときびすを返すと、窓を開け放つ。"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:451-1
+msgid "そして出会った時と同じように、猫のようなしなやかさで、物音一つ立てずに部屋を出て行った。"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:453-1
+msgid "宇佐美「……なにも、窓から出入りしなくていいのに」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.div:455-2
+msgctxt "../test/novel_31.html+html.body.div.div.div.div.div:455-2"
+msgid "＊ ＊ ＊"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:458-1
+msgid "灰桜『うささん、うささん、大変ですっ！』"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:460-1
+msgid "翌朝の黒猫亭。"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:461-1
+msgid "自分の部屋で仕度を整えていると、どんどんとドアをノックする音が響いた。"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:463-1
+msgid "宇佐美「どうしたの、灰桜？」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:465-1
+msgid "調理服の襟を止めると、出迎える。"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:466-1
+msgid "そこには小さな姿で、ぴょんぴょん跳ね回っている姿がある。"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:468-1
+msgid "灰桜「これをご覧ください！」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:470-1
+msgid "その手には真っ白なお皿。"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:472-1
+msgid "宇佐美「お皿だね」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:473-1
+msgid "灰桜「お皿です！ いえ、いまはお皿なのですが～！」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:475-1
+msgid "ほっぺたにケーキくずを付けたまま熱弁している。"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:477-1
+msgid "灰桜「わたしが目覚めると、枕元にパウンドケーキがおいてあったのです！ 黒豆入りでもっちりふわふわで、とってもおいしくてですね……！」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:478-1
+msgid "宇佐美「もう食べちゃったわけだ」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:479-1
+msgid "灰桜「そうなのです！ あの、うささんの所にもおいてありましたか？」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:480-1
+msgid "宇佐美「置いてはないけど、でもおいしく味わったよ。喜んでくれてよかった」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:481-1
+msgid "灰桜「みゅ？」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.div:483-2
+msgctxt "../test/novel_31.html+html.body.div.div.div.div.div:483-2"
+msgid "＊ ＊ ＊"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:486-1
+msgid "灰桜「パウンドケーキ、うささんが作られたんですね」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:488-1
+msgid "二人で厨房にやってくる。"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:489-1
+msgid "灰桜はお皿を丁寧に拭きながら、合点した表情を浮かべている。"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:491-1
+msgid "宇佐美「そういうこと。おいしく出来たから持っていったんだけど、寝てたからさ」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:492-1
+msgid "灰桜「すみません、お相手出来なくて……」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:493-1
+msgid "宇佐美「いいんだよ、面白い出会いもあったし」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:494-1
+msgid "灰桜「出会い？」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:495-1
+msgid "宇佐美「実はさ、レーツェルに会ったんだ」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:496-1
+msgid "灰桜「レーツェルさん……」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:498-1
+msgid "その言葉を聞いて、一瞬考え込んで、小首を傾げる。"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:500-1
+msgid ""
+"宇佐美「最初は怖かったけれど、ちゃんと話すと分かってくれる人だったよ。パウンドケーキも食べてもらったんだ。おいしいって言ってくれたし、それに……」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:501-1
+msgid "灰桜「なるほど、なるほど」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:503-1
+msgid "ボクの語る言葉を、灰桜はニコニコと聞いている。"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:505-1
+msgid "灰桜「レーツェルさんはうささんのお友達ですか？」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:506-1
+msgctxt "../test/novel_31.html+html.body.div.div.div.div.p:506-1"
+msgid "宇佐美「え？」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:507-1
+msgid "灰桜「あ、違いましたか。では、お仕事仲間とか……」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:508-1
+msgid "宇佐美「いやいや、そうじゃなくて……レーツェルだよ。憶えてない？」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:509-1
+msgid "灰桜「みゅみゅみゅ、どこかでお会いしたことがあるのでしょうか……申し訳ありません、物覚えが良くなくて～……」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:511-1
+msgid "恐縮した様子で、困った顔をしている。"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:513-1
+msgid "鴉羽「灰桜、フロアを手伝ってくれる？」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:514-1
+msgid "灰桜「はい、りょーかいしました！」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:516-1
+msgid "鴉羽に呼ばれて、厨房を出て行く。"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:518-1
+msgid "鴉羽「うささん、パウンドケーキおいしかったわ。あれならお店に出しても………うささん？」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:520-1
+msgid "ボクは灰桜の一言に、固まったままだった。"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:521-1
+msgid "怪訝そうな瞳を向けてくる。"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:523-1
+msgid "宇佐美「……あの、鴉羽さん」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:524-1
+msgid "鴉羽「どうしたの？」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:526-1
+msgid "不思議そうにしている鴉羽さんに、ボクは思い切って尋ねてみる。"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.p:528-1
+msgid "宇佐美「レーツェルさんと連絡って……取れますか？」"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div.div.div:532-1
+msgid ""
+"<a href=\"novel_30.html\">＜＜前のエピソード</a> <a href=\"novel_32.html\">次のエピソード＞＞</"
+"a><br> <br><br> <a href=\"https://docs.google.com/forms/d/e/"
+"1FAIpQLSdhB2kW8Tk7HpuzAdeCxmOG858asuw3Gt5Bcillqu5u-iFf4A/viewform\""
+">【こちらのフォームよりご意見・ご感想をお寄せください】</a><br>もれなくデジタルコンテンツをプレゼント！"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.p:544-1
+msgid "執筆：丘野塔也 挿絵：まろやか ＣＶ：鬼頭明里（レーツェル）"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div:548-1
+msgid "目次へ戻る"
+msgstr ""
+
+#: ../test/novel_31.html%2Bhtml.body.div.div.div:549-1
+msgid "©VISUAL ARTS / Key"
+msgstr ""

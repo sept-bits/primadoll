@@ -1,0 +1,571 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-02 21:10+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.2\n"
+
+#: ../test/novel_24.html%2Bhtml[lang]:2-1
+msgid "ja"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.head.title:8-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】 | Key"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.head.meta[content]:9-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.head.meta[content]:10-1
+msgid "Key,キー,kinetic,novel,キネティックノベル"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div:44-1
+msgid "プリマドール・アンコール"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div:48-1
+msgid "03-09 冬の花火（９）"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div:52-1
+msgid ""
+"<a href=\"novel_23.html\">＜＜前のエピソード</a> <a href=\"novel.html\">目次</a> <a "
+"href=\"novel_25.html\">次のエピソード＞＞</a>"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:61-1
+msgid "ゆっくりと近づいてくる姿がある。"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:62-1
+msgid ""
+"いかにも心細い懐中電灯の灯りが、辺りを照らしている。リリアが持っていたものとおそらく同型。払い下げられる前の軍需品だ。人影の背後には、ひときわ大きな異形の"
+"姿。背中の煙突からとめどなく水蒸気を吹き出している。"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:69-5
+msgctxt "../test/novel_24.html+html.body.div.div.div.div.div.div.div.ul.li:69-5"
+msgid "「あの方々は……？」"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:70-5
+msgctxt "../test/novel_24.html+html.body.div.div.div.div.div.div.div.ul.li:70-5"
+msgid "「あの方々は……？」"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:76-1
+msgid "「皇軍よ」"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:85-5
+msgctxt "../test/novel_24.html+html.body.div.div.div.div.div.div.div.ul.li:85-5"
+msgid "「え……？」"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:86-5
+msgctxt "../test/novel_24.html+html.body.div.div.div.div.div.div.div.ul.li:86-5"
+msgid "「え……？」"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:93-1
+msgid "「見つかっちゃったみたいね。それも当然だけど……」"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:95-1
+msgid "こちらを警戒した様子で、じりじりと近づいてくる。"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:96-1
+msgid "時折月灯りを反射するのは、おそらく小銃だろう。"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:98-1
+msgid "「灰桜、あなた皇軍の所属でしょう？」"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:104-5
+msgctxt "../test/novel_24.html+html.body.div.div.div.div.div.div.div.ul.li:104-5"
+msgid "「皇軍……？」"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:105-5
+msgctxt "../test/novel_24.html+html.body.div.div.div.div.div.div.div.ul.li:105-5"
+msgid "「皇軍……？」"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:112-1
+msgid "「部屋で見つけたの、あなたのマスターのコート……襟元の徽章を。軍属の人なんでしょう？ それも当然だけど」"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:114-1
+msgid "いまや<ruby>自律人形<rt>オートマタ</rt></ruby>は戦争の必需品だ。そのマスターといえば大方検討がつく。"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:116-1
+msgid "「皇軍に保護してもらって、それが一番安全よ」"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:122-5
+msgctxt "../test/novel_24.html+html.body.div.div.div.div.div.div.div.ul.li:122-5"
+msgid "「ですが、リリアさんは……！」"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:123-5
+msgctxt "../test/novel_24.html+html.body.div.div.div.div.div.div.div.ul.li:123-5"
+msgid "「ですが、リリアさんは……！」"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:130-1
+msgid "「安心して、灰桜。私は行くわ……どこまでも走り続けるから」"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:132-1
+msgid "実際のところ、リリアにはそれしか選択肢が無かった。"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:133-1
+msgid "皇軍に捕らえられたところで、収容所送りになるだけだろう。人形を盗み出した罪を考えると、もっと重い罰が待っているのかもしれない。"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:135-1
+msgid "「さよなら、灰桜。……ありがとう」"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:137-1
+msgid "ストールを翻して、その場を去ろうとする。"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:144-5
+msgctxt "../test/novel_24.html+html.body.div.div.div.div.div.div.div.ul.li:144-5"
+msgid "「ま、待ってください、リリアさん！」"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:145-5
+msgctxt "../test/novel_24.html+html.body.div.div.div.div.div.div.div.ul.li:145-5"
+msgid "「ま、待ってください、リリアさん！」"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:152-1
+msgid "「来ないで！」"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:154-1
+msgid "慌てて追いすがって来ようとする灰桜を、厳しく押し留めた。"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:156-1
+msgid "「ここまででいいの……あとは一人で行けるわ。あなたを危険な目に合わせたくない……」"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:162-5
+msgctxt "../test/novel_24.html+html.body.div.div.div.div.div.div.div.ul.li:162-5"
+msgid "「ですが、わたしは……！」"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:163-5
+msgctxt "../test/novel_24.html+html.body.div.div.div.div.div.div.div.ul.li:163-5"
+msgid "「ですが、わたしは……！」"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:170-1
+msgid "「いいの。十分役に立った……私にとって最高の<ruby>自律人形<rt>オートマタ</rt></ruby>だったわ」"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:172-1
+msgid "滲み出した涙が、凍りついた睫毛を溶かす。"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:173-1
+msgid "心配をかけまいと、にっこりとリリアは笑いかけた。"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:175-1
+msgid "「大好きよ、灰桜」"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:181-5
+msgctxt "../test/novel_24.html+html.body.div.div.div.div.div.div.div.ul.li:181-5"
+"../test/novel_24.html+html.body.div.div.div.div.div.div.div.ul.li:181-5"
+"../test/novel_24.html+html.body.div.div.div.div.div.div.div.ul.li:181-5"
+msgid "「リリアさん……！」"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:182-5
+msgctxt "../test/novel_24.html+html.body.div.div.div.div.div.div.div.ul.li:182-5"
+msgid "「リリアさん……！」"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:190-1
+msgid "そして、後ろを見ることなくリリアは走り始めた。"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:191-1
+msgid "獣道をまっすぐ、つんのめりそうになりながらも駆けていく。"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:192-1
+msgid "どこに？ 目的地はもうリリアには分かってもいなかった。ただがむしゃらに、体が動きを止めるその瞬間まで走り続けようと思った。"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:194-1
+msgid "森の中に、一発の銃声がこだました。"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.div:197-2
+msgid "＊ ＊ ＊"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:201-1
+msgid "気がつけば、リリアは雪原の中に倒れ込んでいた。"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:202-1
+msgid "冷え切った体にはなんの感覚もない。ただ静寂を切り裂いた轟音だけははっきりと覚えており、いまも耳鳴りが止まないでいる。"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:203-1
+msgid ""
+"急な発砲音に驚いて、へたり込んでしまったのだと察した。早くこの場を離れないといけない。そう思って立ち上がろうとするが、体はぴくりとも動かない。どうやって二"
+"つの足で歩いていたのか、そのやり方をそっくり忘れてしまったかのような気すらする。"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:204-1
+msgid "かろうじて動く手を伸ばして、太もものあたりを撫でる。"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:205-1
+msgid "ぬるりと生暖かい感触がした。"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:207-1
+msgid "「あぁ……」"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:209-1
+msgid "眼前に持ってくると、濃密な鉄の匂いがする。出血している。やはり撃たれたのだ。もしかして足を？ だから体が動かないのだろうか……。"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:216-5
+msgctxt "../test/novel_24.html+html.body.div.div.div.div.div.div.div.ul.li:216-5"
+msgid "「リリアさん、リリアさーーーーんっ！」"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:217-5
+msgctxt "../test/novel_24.html+html.body.div.div.div.div.div.div.div.ul.li:217-5"
+msgid "「リリアさん、リリアさーーーーんっ！」"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:225-1
+msgid "遠くで灰桜の声がする。"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:226-1
+msgid "必死に雪を踏みしめて、近づいてくる様子も。"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:228-1
+msgid "「お願い、来ないで……灰桜」"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:230-1
+msgid "こんな姿を見られたくなかった。"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:231-1
+msgid "きっとあの子のことだから、ひどく心配して心を痛めるだろう。早く皇軍に保護されて、安全な場所へ連れて行って欲しいと願った。"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:232-1
+msgid "ここでお別れなのだから、どうあっても。"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:240-5
+msgctxt "../test/novel_24.html+html.body.div.div.div.div.div.div.div.ul.li:240-5"
+msgid "「リリアさん……！」"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:241-5
+msgctxt "../test/novel_24.html+html.body.div.div.div.div.div.div.div.ul.li:241-5"
+msgid "「リリアさん……！」"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:249-1
+msgid "しかしそんな願いは断ち切られた。"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:250-1
+msgid "その幼さが混じった声。すぐ側で、涙混じりに響いている。"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:252-1
+msgid "「お別れだって……いったのに……」"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:254-1
+msgid "どこかで怒号が響いている。"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:255-1
+msgid "皇軍の兵士だろうか？ なにかひどく言い争っている。トラブルでもあったのかもしれないが、もはやリリアには関係がなかった。"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:262-5
+msgctxt "../test/novel_24.html+html.body.div.div.div.div.div.div.div.ul.li:262-5"
+msgid "「怪我が……いま、いま治しますから……」"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:263-5
+msgctxt "../test/novel_24.html+html.body.div.div.div.div.div.div.div.ul.li:263-5"
+msgid "「怪我が……いま、いま治しますから……」"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:270-1
+msgid "「いいの、灰桜……やめて」"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:276-5
+msgctxt "../test/novel_24.html+html.body.div.div.div.div.div.div.div.ul.li:276-5"
+msgid "「ですが……！」"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:277-5
+msgctxt "../test/novel_24.html+html.body.div.div.div.div.div.div.div.ul.li:277-5"
+msgid "「ですが……！」"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:284-1
+msgid "「当然の報いなのよ。私はいろんな人を裏切って……嘘をついてきた。だから罰があたったのね」"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:290-5
+msgctxt "../test/novel_24.html+html.body.div.div.div.div.div.div.div.ul.li:290-5"
+msgid "「ご両親に会いに行くといったじゃないですか、わたしがお供をしますから……！」"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:291-5
+msgctxt "../test/novel_24.html+html.body.div.div.div.div.div.div.div.ul.li:291-5"
+msgid "「ご両親に会いに行くといったじゃないですか、わたしがお供をしますから……！」"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:298-1
+msgid "「あなたは不思議な人形ね……」"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:304-5
+msgctxt "../test/novel_24.html+html.body.div.div.div.div.div.div.div.ul.li:304-5"
+msgid "「みゅみゅみゅ……？」"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:305-5
+msgctxt "../test/novel_24.html+html.body.div.div.div.div.div.div.div.ul.li:305-5"
+msgid "「みゅみゅみゅ……？」"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:313-1
+msgid "とめどなく瞳から冷却液……涙が溢れ出している。"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:315-1
+msgid "「灰桜……嬉しかったわ。こんなひどい私を信じてくれて……なんの疑いもなく、受け入れてくれて……」"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:321-5
+msgctxt "../test/novel_24.html+html.body.div.div.div.div.div.div.div.ul.li:321-5"
+msgid "「リリアさんはひどい人ではありません！」"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:322-5
+msgctxt "../test/novel_24.html+html.body.div.div.div.div.div.div.div.ul.li:322-5"
+msgid "「リリアさんはひどい人ではありません！」"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:329-1
+msgid "「あなたと一緒にいられて、私は……ほっとした。居場所が出来たって……そう思えた。そんな感覚、もう何年も味わったことがなかった……」"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:335-5
+msgctxt "../test/novel_24.html+html.body.div.div.div.div.div.div.div.ul.li:335-5"
+msgid "「ローベリアに行きましょう！ そうすれば、本当の居場所が……！」"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:336-5
+msgctxt "../test/novel_24.html+html.body.div.div.div.div.div.div.div.ul.li:336-5"
+msgid "「ローベリアに行きましょう！ そうすれば、本当の居場所が……！」"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:343-1
+msgid "「……そんなものきっと、初めから無かったのよ」"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:345-1
+msgid "そう、分かっていた。"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:346-1
+msgid "そうでなければ、リリアを少女劇団に厄介払いして……手紙のひとつも寄越さないはずがない。"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:348-1
+msgid "「もうすこし早く、出会えていれば……ううん」"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:350-1
+msgid "そっと首を横にふる。"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:351-1
+msgid "いまさら、そんなことを言っても仕方がない。"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:353-1
+msgid "「私と出会ってくれてありがとう……灰桜」"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:359-5
+msgctxt "../test/novel_24.html+html.body.div.div.div.div.div.div.div.ul.li:359-5"
+msgid "「リリアさぁん……」"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:360-5
+msgctxt "../test/novel_24.html+html.body.div.div.div.div.div.div.div.ul.li:360-5"
+msgid "「リリアさぁん……」"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:368-1
+msgid "ぎゅっと手を握ってくれる。"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:369-1
+msgid "ぽかぽかと温かく、柔らかな手のひら。ひどくうら寂しい世界にあって、それだけが生命を感じさせた。"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:371-1
+msgid "「ね……私のお友達で……いてくれる？」"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:377-5
+msgctxt "../test/novel_24.html+html.body.div.div.div.div.div.div.div.ul.li:377-5"
+msgid "「リリアさんは私のお友達です！ ずっとずっと、その気持ちは忘れません……！」"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:378-5
+msgctxt "../test/novel_24.html+html.body.div.div.div.div.div.div.div.ul.li:378-5"
+msgid "「リリアさんは私のお友達です！ ずっとずっと、その気持ちは忘れません……！」"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:385-1
+msgid "「よかったぁ………」"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:387-1
+msgid "ふう、と息を吐く。"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:388-1
+msgid "なんだか体が軽くなったような、そんな気がした。"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:389-1
+msgid "微かに大地が揺れている。"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:390-1
+msgid "機械の駆動音が近づいてくる。"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:391-1
+msgid "見上げるような体躯。赤く発光するカメラレンズ。手には機関銃……。"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:392-1
+msgid "異形の兵士。"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:393-1
+msgid "皇軍の機械人形だ。"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:400-5
+msgctxt "../test/novel_24.html+html.body.div.div.div.div.div.div.div.ul.li:400-5"
+msgid "「お願いです、皆さん……！ リリアさんを……！」"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:401-5
+msgctxt "../test/novel_24.html+html.body.div.div.div.div.div.div.div.ul.li:401-5"
+msgid "「お願いです、皆さん……！ リリアさんを……！」"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:409-1
+msgid "灰桜は必死に訴える。"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:410-1
+msgid "その瞳が赤く明滅しているのは、なにか人形にしか伝わらない暗号なのだろうか。"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:411-1
+msgid "だが、その願いが伝わるはずもない。"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:412-1
+msgid "リリアは逃亡者で、敵性国民で、罪人なのだ。"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:413-1
+msgid "この国の誰かが救いの手をさしのべてくれるはずもない。"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:414-1
+msgid "雪原に沈み込むような心地で、ゆっくりと目蓋を落とした。"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:415-1
+msgid "人形たちの瞳の発光が、ぼやけた滲みとなって残る。"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:416-1
+msgid "昔々、新年の日を思い出した。"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:417-1
+msgid "雪の降る夜、家族みんなで食卓を囲んだっけ。"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:418-1
+msgid "お父さん、お母さん、お兄ちゃん……"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.p:419-1
+msgid ""
+"真っ赤な蝋燭を灯して、王冠型ケーキを食べて……はちみつの入った、甘いハーブティーを飲んだ。みんなで歌をうたったんだ。冬の花火……窓の外に光がまたたいて……"
+"その色も赤だったような気がする……幸せな日……私の居場所……そうだ…………あったんだよね…………愛しているって…………そう、言ってくれたんだよね………？"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.div.div.div:423-1
+msgid ""
+"<a href=\"novel_23.html\">＜＜前のエピソード</a> <a href=\"novel_25.html\">次のエピソード＞＞</"
+"a><br> <br><br> <a href=\"https://docs.google.com/forms/d/e/"
+"1FAIpQLSdhB2kW8Tk7HpuzAdeCxmOG858asuw3Gt5Bcillqu5u-iFf4A/viewform\""
+">【こちらのフォームよりご意見・ご感想をお寄せください】</a><br>もれなくデジタルコンテンツをプレゼント！"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div.p:435-1
+msgid "執筆：丘野塔也 挿絵：まろやか ＣＶ：和氣あず未（灰桜）"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div:443-1
+msgid "目次へ戻る"
+msgstr ""
+
+#: ../test/novel_24.html%2Bhtml.body.div.div:444-1
+msgid "©VISUAL ARTS / Key"
+msgstr ""

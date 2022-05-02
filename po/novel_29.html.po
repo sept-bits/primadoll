@@ -1,0 +1,609 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-02 21:10+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.2\n"
+
+#: ../test/novel_29.html%2Bhtml[lang]:2-1
+msgid "ja"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.head.title:8-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】 | Key"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.head.meta[content]:9-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.head.meta[content]:10-1
+msgid "Key,キー,kinetic,novel,キネティックノベル"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div:44-1
+msgid "プリマドール・アンコール"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div:48-1
+msgid "04-4 黒猫亭のうさぎ（4）－終－"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div:52-1
+msgid ""
+"<a href=\"novel_28.html\">＜＜前のエピソード</a> <a href=\"novel.html\">目次</a> <a "
+"href=\"novel_30.html\">次のエピソード＞＞</a>"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:63-5
+msgctxt "../test/novel_29.html+html.body.div.div.div.div.div.div.div.ul.li:63-5"
+msgid "「どどどどどどうしてあなたたちがここにいるのよ！？！？」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:64-5
+msgctxt "../test/novel_29.html+html.body.div.div.div.div.div.div.div.ul.li:64-5"
+msgid "「どどどどどどうしてあなたたちがここにいるのよ！？！？」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:70-1
+msgid "宇佐美「ですから……鴉羽さんが鍵を忘れていたので、届けに来たんです」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:72-1
+msgid "鴉羽さんの笑顔をまっすぐ見ることが出来ず、俯きながら答える。"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:79-5
+msgctxt "../test/novel_29.html+html.body.div.div.div.div.div.div.div.ul.li:79-5"
+msgid "「だったら、鍵を預けてすぐに帰ればいいでしょ！」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:80-5
+msgctxt "../test/novel_29.html+html.body.div.div.div.div.div.div.div.ul.li:80-5"
+msgid "「だったら、鍵を預けてすぐに帰ればいいでしょ！」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:86-1
+msgid "支配人「あたしが店に入れたんだよ」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:92-5
+msgctxt "../test/novel_29.html+html.body.div.div.div.div.div.div.div.ul.li:92-5"
+msgid "「支配人！」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:93-5
+msgctxt "../test/novel_29.html+html.body.div.div.div.div.div.div.div.ul.li:93-5"
+msgid "「支配人！」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:99-1
+msgid "支配人「店の中ではママと呼びな！」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:105-5
+msgctxt "../test/novel_29.html+html.body.div.div.div.div.div.div.div.ul.li:105-5"
+msgid "「う……マ、ママ……」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:106-5
+msgctxt "../test/novel_29.html+html.body.div.div.div.div.div.div.div.ul.li:106-5"
+msgid "「う……マ、ママ……」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:113-1
+msgid "いつも黒猫亭でリーダーとして凛としている鴉羽さんが、押されている。"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:114-1
+msgid "とても珍しいことだけど、見ちゃいけない光景にも思えた。"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:116-1
+msgid "灰桜「あの、鴉羽さん！ さっきのショー、とても素敵でした！」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:117-1
+msgid "支配人「ああ、なにせ一番弟子だからね。当時は状況が状況だったから店には出せなかったけど……本当なら看板を任せたかったぐらいさ」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:118-1
+msgid "灰桜「凄いです！」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:124-5
+msgctxt "../test/novel_29.html+html.body.div.div.div.div.div.div.div.ul.li:124-5"
+msgid "「やめて、灰桜っ」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:125-5
+msgctxt "../test/novel_29.html+html.body.div.div.div.div.div.div.div.ul.li:125-5"
+msgid "「やめて、灰桜っ」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:131-1
+msgid "支配人「鴉羽。飲み物をお出しして」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:133-1
+msgid "支配人さんがボクのグラスを指差す。"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:140-5
+msgctxt "../test/novel_29.html+html.body.div.div.div.div.div.div.div.ul.li:140-5"
+msgid "「失礼しました。すぐにお注ぎしますね……って、なにをやらせるんですか！」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:141-5
+msgctxt "../test/novel_29.html+html.body.div.div.div.div.div.div.div.ul.li:141-5"
+msgid "「失礼しました。すぐにお注ぎしますね……って、なにをやらせるんですか！」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:147-1
+msgid "支配人「いいじゃないか、あたしの客さ」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:153-5
+msgctxt "../test/novel_29.html+html.body.div.div.div.div.div.div.div.ul.li:153-5"
+msgid "「う……ううぅ～……」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:154-5
+msgctxt "../test/novel_29.html+html.body.div.div.div.div.div.div.div.ul.li:154-5"
+msgid "「う……ううぅ～……」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:161-1
+msgid "鴉羽さんは恨めしそうな顔でボクを睨みながら、空いたグラスに氷を入れてオレンジジュースを注ぐ。"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:163-1
+msgid "支配人「最初はこの子も融通が利かないというか、不器用でね」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:169-5
+msgctxt "../test/novel_29.html+html.body.div.div.div.div.div.div.div.ul.li:169-5"
+msgid "「う……」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:170-5
+msgctxt "../test/novel_29.html+html.body.div.div.div.div.div.div.div.ul.li:170-5"
+msgid "「う……」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:176-1
+msgid "支配人「でも、健気だったわ。黒猫亭のために出来ることを何でも学びたいって言ってね……だから私も本気になったってわけさ」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:182-5
+msgctxt "../test/novel_29.html+html.body.div.div.div.div.div.div.div.ul.li:182-5"
+msgid "「ま、ママ……」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:183-5
+msgctxt "../test/novel_29.html+html.body.div.div.div.div.div.div.div.ul.li:183-5"
+msgid "「ま、ママ……」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:189-1
+msgid "支配人「だけど、素直じゃ無いのは変わらないだろ？ だからあんたたちに言っておいてやるよ」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:191-1
+msgid "支配人さんはボクと灰桜の方を真っ直ぐ見る。"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:193-1
+msgid "支配人「今、黒猫亭があるのは、鴉羽がそうやって頑張って居場所を守ろうとしたからさ」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:199-5
+msgctxt "../test/novel_29.html+html.body.div.div.div.div.div.div.div.ul.li:199-5"
+msgid "「や、やめてください。あたしはただ……！」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:200-5
+msgctxt "../test/novel_29.html+html.body.div.div.div.div.div.div.div.ul.li:200-5"
+msgid "「や、やめてください。あたしはただ……！」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:206-1
+msgid "支配人「練習に付き合ってくれてありがとうね。本当は開店のステージに上がって欲しいぐらいなんだけど……」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:212-5
+msgctxt "../test/novel_29.html+html.body.div.div.div.div.div.div.div.ul.li:212-5"
+msgid "「そ、それは……遠慮しておきます。まだ人形を怖がる人は多いし……それに、あたしは黒猫亭の人形なので……」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:213-5
+msgctxt "../test/novel_29.html+html.body.div.div.div.div.div.div.div.ul.li:213-5"
+msgid "「そ、それは……遠慮しておきます。まだ人形を怖がる人は多いし……それに、あたしは黒猫亭の人形なので……」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:219-1
+msgid "支配人「つれないねぇ」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:225-5
+msgctxt "../test/novel_29.html+html.body.div.div.div.div.div.div.div.ul.li:225-5"
+msgid "「こんなうさ耳でダンスをするのも……本当は恥ずかしいんです」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:226-5
+msgctxt "../test/novel_29.html+html.body.div.div.div.div.div.div.div.ul.li:226-5"
+msgid "「こんなうさ耳でダンスをするのも……本当は恥ずかしいんです」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:232-1
+msgid "支配人「可愛いじゃないか」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:238-5
+msgctxt "../test/novel_29.html+html.body.div.div.div.div.div.div.div.ul.li:238-5"
+msgid "「どうしてもというから引き受けたんです！ 楽しまないでくださいっ！」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:239-5
+msgctxt "../test/novel_29.html+html.body.div.div.div.div.div.div.div.ul.li:239-5"
+msgid "「どうしてもというから引き受けたんです！ 楽しまないでくださいっ！」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:246-1
+msgid "鴉羽さんは顔を真っ赤にしながら、背嚢の煙突から蒸気を噴き出させた。"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:247-1
+msgid "こんな鴉羽さんを見るのも初めてだけど、この光景はなんだか温かな物に見えた。"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:249-1
+msgid "バニー「皆さん、こちら召し上がって下さぁい」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:251-1
+msgid "甘酸っぱい香りが広がる。"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:252-1
+msgid "ショーガールのお姉さんが、フルーツの盛られたガラスのお皿を届けてくれた。"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:254-1
+msgid "宇佐美「あれ？」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:255-1
+msgid "支配人「うちのフルーツは新鮮だろう？」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:256-1
+msgid "宇佐美「いえ、このカッティングの仕方、黒猫亭のメニューと同じだと思って」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:257-1
+msgid "支配人「そうなのかい？」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:263-5
+msgctxt "../test/novel_29.html+html.body.div.div.div.div.div.div.div.ul.li:263-5"
+msgid "「……っ！！」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:264-5
+msgctxt "../test/novel_29.html+html.body.div.div.div.div.div.div.div.ul.li:264-5"
+msgid "「……っ！！」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:270-1
+msgid "宇佐美「黒猫亭のフルーツの盛り合わせは、鴉羽さんが提案したメニュー……」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:271-1
+msgid "支配人「ほお。そういえば、フルーツの切り方もみっちり仕込んであげたねぇ」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:272-1
+msgid "宇佐美「確か、思い出に残しておきたいから……ですよね？」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:278-5
+msgctxt "../test/novel_29.html+html.body.div.div.div.div.div.div.div.ul.li:278-5"
+msgid "「うううう、うささん！？ うささん！！？」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:279-5
+msgctxt "../test/novel_29.html+html.body.div.div.div.div.div.div.div.ul.li:279-5"
+msgid "「うううう、うささん！？ うささん！！？」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:285-1
+msgid "支配人「まったく……この子は素直じゃ無いよ」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:291-5
+msgctxt "../test/novel_29.html+html.body.div.div.div.div.div.div.div.ul.li:291-5"
+msgid "「うう～～」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:292-5
+msgctxt "../test/novel_29.html+html.body.div.div.div.div.div.div.div.ul.li:292-5"
+msgid "「うう～～」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:298-1
+msgid "宇佐美「その頃の鴉羽さんは愛くるしかったって月下が言ってましたけど、どういうことでしょうか？」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:299-1
+msgid "支配人「ん？ ああ、たぶんこの格好のことだろうね」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:301-1
+msgid "支配人さんがポーチの中から、おもむろに１枚の写真を取りだしてこちらに見せた。"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:308-5
+msgctxt "../test/novel_29.html+html.body.div.div.div.div.div.div.div.ul.li:308-5"
+msgid "「な、ななな、なんでそんなもの持ち歩いてるんですかーーー！」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:309-5
+msgctxt "../test/novel_29.html+html.body.div.div.div.div.div.div.div.ul.li:309-5"
+msgid "「な、ななな、なんでそんなもの持ち歩いてるんですかーーー！」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:316-1
+msgid "鴉羽さんがその写真を取り上げようと飛びつくより先に、支配人さんはボクと灰桜に手渡す。"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:318-1
+msgid "支配人「それはダンスを練習中の一枚さ。私は形から入る方だからね」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:319-1
+msgid "灰桜「おおー、これが鴉羽さんですかー」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:320-1
+msgid "宇佐美「なるほど、愛くるしいですね」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:322-1
+msgid "写真には、バニースーツを身に纏った鴉羽さんが支配人さんと写っていた。"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:323-1
+msgid "照れたような、でも自然な笑みを浮かべて。"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:325-1
+msgid "灰桜「黒猫亭は、この兎羽（うさぎば）さんに守られてきたんですね」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:331-5
+msgctxt "../test/novel_29.html+html.body.div.div.div.div.div.div.div.ul.li:331-5"
+msgid "「誰よそれ！」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:332-5
+msgctxt "../test/novel_29.html+html.body.div.div.div.div.div.div.div.ul.li:332-5"
+msgid "「誰よそれ！」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:338-1
+msgid "宇佐美「でも、とても似合ってますよ。ボクは好きだなぁ……」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:344-5
+msgctxt "../test/novel_29.html+html.body.div.div.div.div.div.div.div.ul.li:344-5"
+msgid "「その爽やかに笑うの止めて！ 今日のことは、もう忘れて……！」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:345-5
+msgctxt "../test/novel_29.html+html.body.div.div.div.div.div.div.div.ul.li:345-5"
+msgid "「その爽やかに笑うの止めて！ 今日のことは、もう忘れて……！」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:352-1
+msgid "鴉羽さんが力なくさめざめと泣いていた。"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:353-1
+msgid "人に歴史あり。人形にも歴史ありだと、思った。"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.div:355-2
+msgid "＊ ＊ ＊"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:359-1
+msgid "翌日──"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:361-1
+msgid "宇佐美「できた。これでどう？ 灰桜」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:363-1
+msgid "お皿の上にのせた、一口サイズの桜餅を灰桜に見せる。"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:364-1
+msgid "桜餅だけど、桜の葉っぱでお餅を巻いてはいない。"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:365-1
+msgid "桜の葉っぱは、楕円にカットして『耳』に見立ててお餅にさしている。"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:366-1
+msgid "さらに、桜の花びらを丸くカットしたものを『目』に見立ててある。"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:368-1
+msgid "灰桜「これはとても愛くるしいウサギさんです！ 食べるのがかわいそうなくらい可愛いできばえです」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:370-1
+msgid "発案者の灰桜も満足してくれたようだ。"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:377-5
+msgctxt "../test/novel_29.html+html.body.div.div.div.div.div.div.div.ul.li:377-5"
+msgid "「灰桜、どうしたの？」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:378-5
+msgctxt "../test/novel_29.html+html.body.div.div.div.div.div.div.div.ul.li:378-5"
+msgid "「灰桜、どうしたの？」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:385-1
+msgid "灰桜の声に、鴉羽さんが厨房へやってくる。"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:386-1
+msgid "昨夜のことはまるで忘れたかのように、いつも通りの鴉羽さんだ。"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:388-1
+msgid "灰桜「鴉羽さん！ 見てください、新メニューです」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:402-5
+msgctxt "../test/novel_29.html+html.body.div.div.div.div.div.div.div.ul.li:402-5"
+msgid "「これはうさぎの……桜餅？」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:403-5
+msgctxt "../test/novel_29.html+html.body.div.div.div.div.div.div.div.ul.li:403-5"
+msgid "「これはうさぎの……桜餅？」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:409-1
+msgid "灰桜「はい！ 黒猫亭のこれまでに欠かせないうさぎさんです」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:415-5
+msgctxt "../test/novel_29.html+html.body.div.div.div.div.div.div.div.ul.li:415-5"
+msgid "「……ちょっと待って。それってまさか……」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:416-5
+msgctxt "../test/novel_29.html+html.body.div.div.div.div.div.div.div.ul.li:416-5"
+msgid "「……ちょっと待って。それってまさか……」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:422-1
+msgid "灰桜「はい！ 鴉羽さんをイメージした新メニューの甘味です」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:428-5
+msgctxt "../test/novel_29.html+html.body.div.div.div.div.div.div.div.ul.li:428-5"
+msgid "「……却下」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:429-5
+msgctxt "../test/novel_29.html+html.body.div.div.div.div.div.div.div.ul.li:429-5"
+msgid "「……却下」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:435-1
+msgid "月下「採用に１票であります」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:437-1
+msgid "いつの間にか厨房に来ていた月下が冷静に賛成票をくれた。"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:439-1
+msgid "おとめ「可愛いじゃないか。これまでの黒猫亭にはないまさに新メニューだ。採用しよう」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:441-1
+msgid "奥宮さんも、厨房の横を通り過ぎざまに桜餅をみて、声をかけてくれた。"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:443-1
+msgid "宇佐美「ボクも一票。あ、箒星さんにも見せたんですけど「素敵ですねぇ」と言ってました」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:449-5
+msgctxt "../test/novel_29.html+html.body.div.div.div.div.div.div.div.ul.li:449-5"
+msgid "「で、でも……」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:450-5
+msgctxt "../test/novel_29.html+html.body.div.div.div.div.div.div.div.ul.li:450-5"
+msgid "「で、でも……」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:457-1
+msgid "鴉羽さんは泣きそうな顔で、ボクを見る。"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:458-1
+msgid "たぶん、無駄だろうと分かっていても、すがるようにボクを見ている。"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:459-1
+msgid "うん、それはやっぱり無駄なんだよと、ボクは静かに頷く。"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:461-1
+msgid "宇佐美「じゃあ、新メニューはこれで決まりということで」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:462-1
+msgid "灰桜「はい！ わたし、お役にたてました！」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:468-5
+msgctxt "../test/novel_29.html+html.body.div.div.div.div.div.div.div.ul.li:468-5"
+msgid "「あああ、忘れてって言ったでしょう！！！」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:469-5
+msgctxt "../test/novel_29.html+html.body.div.div.div.div.div.div.div.ul.li:469-5"
+msgid "「あああ、忘れてって言ったでしょう！！！」"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:476-1
+msgid "鴉羽さんの叫び声が黒猫亭に響く中。"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:477-1
+msgid "月下は早速メニュー表に、新メニューを書き込んでいた。"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.p:478-1
+msgid "『黒猫亭のうさぎ』と。"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div.div.div:481-1
+msgid ""
+"<a href=\"novel_28.html\">＜＜前のエピソード</a> <a href=\"novel_30.html\">次のエピソード＞＞</"
+"a><br> <br><br> <a href=\"https://docs.google.com/forms/d/e/"
+"1FAIpQLSdhB2kW8Tk7HpuzAdeCxmOG858asuw3Gt5Bcillqu5u-iFf4A/viewform\""
+">【こちらのフォームよりご意見・ご感想をお寄せください】</a><br>もれなくデジタルコンテンツをプレゼント！"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.p:493-1
+msgid "執筆：魁 挿絵：まろやか ＣＶ：楠木ともり（鴉羽）"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div:497-1
+msgid "目次へ戻る"
+msgstr ""
+
+#: ../test/novel_29.html%2Bhtml.body.div.div.div:498-1
+msgid "©VISUAL ARTS / Key"
+msgstr ""

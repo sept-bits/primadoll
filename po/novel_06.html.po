@@ -1,0 +1,259 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-02 21:10+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.2\n"
+
+#: ../test/novel_06.html%2Bhtml[lang]:2-1
+msgid "ja"
+msgstr ""
+
+#: ../test/novel_06.html%2Bhtml.head.title:8-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】 | Key"
+msgstr ""
+
+#: ../test/novel_06.html%2Bhtml.head.meta[content]:9-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】"
+msgstr ""
+
+#: ../test/novel_06.html%2Bhtml.head.meta[content]:10-1
+msgid "Key,キー,kinetic,novel,キネティックノベル"
+msgstr ""
+
+#: ../test/novel_06.html%2Bhtml.body.div.div.div.div:44-1
+msgid "プリマドール・アンコール"
+msgstr ""
+
+#: ../test/novel_06.html%2Bhtml.body.div.div.div.div:48-1
+msgid "01-06 喫茶・黒猫亭（３）"
+msgstr ""
+
+#: ../test/novel_06.html%2Bhtml.body.div.div.div.div:52-1
+msgid ""
+"<a href=\"novel_05.html\">＜＜前のエピソード</a> <a href=\"novel.html\">目次</a> <a "
+"href=\"novel_07.html\">次のエピソード＞＞</a>"
+msgstr ""
+
+#: ../test/novel_06.html%2Bhtml.body.div.div.div.div.p:60-1
+msgid "「そうか、一年ほど奉公にね」"
+msgstr ""
+
+#: ../test/novel_06.html%2Bhtml.body.div.div.div.div.p:62-1
+msgid "黒猫亭の二階。そこにダイヤガラスの衝立で仕切られた応接室がある。"
+msgstr ""
+
+#: ../test/novel_06.html%2Bhtml.body.div.div.div.div.p:63-1
+msgid "ぴんと背筋を伸ばして、向かい合う先。"
+msgstr ""
+
+#: ../test/novel_06.html%2Bhtml.body.div.div.div.div.p:64-1
+msgid "すらりとした足を組んで、机の上の書類に目を通している姿がある。とっておきの薄葉紙に、ボクなりに丁寧に筆書きした履歴書だ。"
+msgstr ""
+
+#: ../test/novel_06.html%2Bhtml.body.div.div.div.div.p:65-1
+msgid ""
+"ゆるくウェーブした髪は、後ろにひとつに括られている。右手には万年筆。涼しげな目元がちらりと向けられた。上目遣いに見られると、三白眼気味になってすこし怖い。"
+msgstr ""
+
+#: ../test/novel_06.html%2Bhtml.body.div.div.div.div.p:67-1
+msgid "「角屋町といえば、神倉製鉄の社長さんといったところか」"
+msgstr ""
+
+#: ../test/novel_06.html%2Bhtml.body.div.div.div.div.p:68-1
+msgid "「よくご存じですね」"
+msgstr ""
+
+#: ../test/novel_06.html%2Bhtml.body.div.div.div.div.p:69-1
+msgid "「昔、足を運んだことがある。軍のお得意さんだったからな」"
+msgstr ""
+
+#: ../test/novel_06.html%2Bhtml.body.div.div.div.div.p:71-1
+msgid "椅子を鳴らして立ち上がる。"
+msgstr ""
+
+#: ../test/novel_06.html%2Bhtml.body.div.div.div.div.p:72-1
+msgid "思わず見上げてしまう。女性としてはかなりの身長だ。ヒールの革靴をはいているせいもあるだろうけど。"
+msgstr ""
+
+#: ../test/novel_06.html%2Bhtml.body.div.div.div.div.p:74-1
+msgid "「奥宮さんは、いつ退役なさったんですか？」"
+msgstr ""
+
+#: ../test/novel_06.html%2Bhtml.body.div.div.div.div.p:75-1
+msgid "「もう３年になるかな」"
+msgstr ""
+
+#: ../test/novel_06.html%2Bhtml.body.div.div.div.div.p:77-1
+msgid "奥宮おとめ。元軍人で、ここ黒猫亭のオーナーだ。"
+msgstr ""
+
+#: ../test/novel_06.html%2Bhtml.body.div.div.div.div.p:78-1
+msgid ""
+"窓辺に佇むその姿は、どこか重みのある上品さをたたえている。ボクの知っている軍人さんはどちらかというと粗野な人が多かったけれど、まったく正反対だ。"
+msgstr ""
+
+#: ../test/novel_06.html%2Bhtml.body.div.div.div.div.p:80-1
+msgid "「けっこう……その、偉かったのですよね」"
+msgstr ""
+
+#: ../test/novel_06.html%2Bhtml.body.div.div.div.div.p:82-1
+msgid "もっとうまい聞き方があると思うのだけど、どうしても間の抜けた質問になってしまう。"
+msgstr ""
+
+#: ../test/novel_06.html%2Bhtml.body.div.div.div.div.p:84-1
+msgid "おとめ「最終軍歴は少佐だよ」"
+msgstr ""
+
+#: ../test/novel_06.html%2Bhtml.body.div.div.div.div.p:85-1
+msgid "「ははぁ……なんとなく、もったいない気がしますね」"
+msgstr ""
+
+#: ../test/novel_06.html%2Bhtml.body.div.div.div.div.p:86-1
+msgid "おとめ「なに、今どき軍人は流行らんよ」"
+msgstr ""
+
+#: ../test/novel_06.html%2Bhtml.body.div.div.div.div.p:88-1
+msgid "すこしだけ目尻を下げて笑う。落ち着いた、安心感のある声だ。"
+msgstr ""
+
+#: ../test/novel_06.html%2Bhtml.body.div.div.div.div.p:90-1
+msgid "「それで黒猫亭を？」"
+msgstr ""
+
+#: ../test/novel_06.html%2Bhtml.body.div.div.div.div.p:91-1
+msgid "おとめ「いまはいくつか事業をやっていてね。"
+msgstr ""
+
+#: ../test/novel_06.html%2Bhtml.body.div.div.div.div.p:92-1
+msgid "黒猫亭は友人から譲り受けたんだ」"
+msgstr ""
+
+#: ../test/novel_06.html%2Bhtml.body.div.div.div.div.p:94-1
+msgid "ちらりと目配せする。"
+msgstr ""
+
+#: ../test/novel_06.html%2Bhtml.body.div.div.div.div.p:95-1
+msgid "壁には何体もの人形たちと一緒に、先代オーナーの姿を写した写真がある。"
+msgstr ""
+
+#: ../test/novel_06.html%2Bhtml.body.div.div.div.div.p:97-1
+msgid "おとめ「気苦労ばかりで、儲かる商売ではないがね」"
+msgstr ""
+
+#: ../test/novel_06.html%2Bhtml.body.div.div.div.div.p:98-1
+msgid "「いえ、きっと流行りますよ」"
+msgstr ""
+
+#: ../test/novel_06.html%2Bhtml.body.div.div.div.div.p:99-1
+msgid "おとめ「そうかな？」"
+msgstr ""
+
+#: ../test/novel_06.html%2Bhtml.body.div.div.div.div.p:100-1
+msgid "「ええ、絶対」"
+msgstr ""
+
+#: ../test/novel_06.html%2Bhtml.body.div.div.div.div.p:101-1
+msgid "おとめ「料理のほうは？」"
+msgstr ""
+
+#: ../test/novel_06.html%2Bhtml.body.div.div.div.div.p:102-1
+msgid "「生業にしていた訳じゃ無いですが、飯炊きはさんざんやりました。"
+msgstr ""
+
+#: ../test/novel_06.html%2Bhtml.body.div.div.div.div.p:103-1
+msgid "賄いも評判でしたよ。接客も出来ます。"
+msgstr ""
+
+#: ../test/novel_06.html%2Bhtml.body.div.div.div.div.p:104-1
+msgid "子供の頃から一通り、最初にやったのは駅の弁当売りでしたが……」"
+msgstr ""
+
+#: ../test/novel_06.html%2Bhtml.body.div.div.div.div.p:105-1
+msgid "おとめ「採用だ」"
+msgstr ""
+
+#: ../test/novel_06.html%2Bhtml.body.div.div.div.div.p:107-1
+msgid "奥宮さんは、その見た目通り決断が早かった。"
+msgstr ""
+
+#: ../test/novel_06.html%2Bhtml.body.div.div.div.div.p:109-1
+msgid "おとめ「君なら人柄も問題あるまい。よろしく頼むよ」"
+msgstr ""
+
+#: ../test/novel_06.html%2Bhtml.body.div.div.div.div.p:111-1
+msgid "そういって、右手を差し出してくる。"
+msgstr ""
+
+#: ../test/novel_06.html%2Bhtml.body.div.div.div.div.p:112-1
+msgid "それが、いわゆる握手を求めているのだと気付くのに、一拍の時間を要した。"
+msgstr ""
+
+#: ../test/novel_06.html%2Bhtml.body.div.div.div.div.p:114-1
+msgid "「は、はい、頑張って働きます！」"
+msgstr ""
+
+#: ../test/novel_06.html%2Bhtml.body.div.div.div.div.p:115-1
+msgid "すこし遅れて、両手でぎゅっと握りしめる。"
+msgstr ""
+
+#: ../test/novel_06.html%2Bhtml.body.div.div.div.div.p:116-1
+msgid "軍人さんとは思えないほど、細くて繊細な指先だった。"
+msgstr ""
+
+#: ../test/novel_06.html%2Bhtml.body.div.div.div.div.div:118-2
+msgid "＊ ＊ ＊"
+msgstr ""
+
+#: ../test/novel_06.html%2Bhtml.body.div.div.div.div.p:121-1
+msgid ""
+"石鹸で入念に手を洗うと、真新しいシャツとエプロンに袖を通す。髪を抑えて帽子をかぶり、姿見の前でチェックする。なかなか様になっている。白くて高いコック帽でも"
+"あればなお良かったけれど、それは贅沢だろう。"
+msgstr ""
+
+#: ../test/novel_06.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:129-5
+msgctxt "../test/novel_06.html+html.body.div.div.div.div.div.div.div.ul.li:129-5"
+msgid "「準備、出来ましたか」"
+msgstr ""
+
+#: ../test/novel_06.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:130-5
+msgctxt "../test/novel_06.html+html.body.div.div.div.div.div.div.div.ul.li:130-5"
+msgid "「準備、出来ましたか」"
+msgstr ""
+
+#: ../test/novel_06.html%2Bhtml.body.div.div.div.div.p:138-1
+msgid "上機嫌でいると、背後から声をかけられた。"
+msgstr ""
+
+#: ../test/novel_06.html%2Bhtml.body.div.div.div.div.p:140-1
+msgid "「あれ……？」"
+msgstr ""
+
+#: ../test/novel_06.html%2Bhtml.body.div.div.div.div.p:142-1
+msgid "ちらりと後ろを見つめるが、誰の姿も見えない。おかしい、いま確かに聞こえたのに……。"
+msgstr ""
+
+#: ../test/novel_06.html%2Bhtml.body.div.div.div.div.div:145-1
+msgid ""
+"<a href=\"novel_05.html\">＜＜前のエピソード</a> <a href=\"novel_07.html\""
+">次のエピソード＞＞</a>"
+msgstr ""
+
+#: ../test/novel_06.html%2Bhtml.body.div.div.p:155-1
+msgid "執筆：丘野塔也 挿絵：まろやか ＣＶ：富田美憂（月下）"
+msgstr ""
+
+#: ../test/novel_06.html%2Bhtml.body.div.div:159-1
+msgid "目次へ戻る"
+msgstr ""
+
+#: ../test/novel_06.html%2Bhtml.body.div.div:160-1
+msgid "©VISUAL ARTS / Key"
+msgstr ""

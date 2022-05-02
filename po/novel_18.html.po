@@ -1,0 +1,585 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-02 21:10+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.2\n"
+
+#: ../test/novel_18.html%2Bhtml[lang]:2-1
+msgid "ja"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.head.title:8-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】 | Key"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.head.meta[content]:9-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.head.meta[content]:10-1
+msgid "Key,キー,kinetic,novel,キネティックノベル"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div:44-1
+msgid "プリマドール・アンコール"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div:48-1
+msgid "03-03 冬の花火（３）"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div:52-1
+msgid ""
+"<a href=\"novel_17.html\">＜＜前のエピソード</a> <a href=\"novel.html\">目次</a> <a "
+"href=\"novel_19.html\">次のエピソード＞＞</a>"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:64-5
+msgctxt "../test/novel_18.html+html.body.div.div.div.div.div.div.div.ul.li:64-5"
+msgid "「いらっしゃいませ～」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:65-5
+msgctxt "../test/novel_18.html+html.body.div.div.div.div.div.div.div.ul.li:65-5"
+msgid "「いらっしゃいませ～」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:71-1
+msgid "一夜明けて、からりと晴れた青空がどこまでも広がっている。"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:72-1
+msgid "雪はすっかり止んで、辺りは一面の銀世界。"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:73-1
+msgid "灰桜の煙突からは、白い蒸気がぽっぽっと吹き出していた。"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:81-5
+msgctxt "../test/novel_18.html+html.body.div.div.div.div.div.div.div.ul.li:81-5"
+msgid "「おいしいはちみつハーブティーはいかがでしょうかっ！？」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:82-5
+msgctxt "../test/novel_18.html+html.body.div.div.div.div.div.div.div.ul.li:82-5"
+msgid "「おいしいはちみつハーブティーはいかがでしょうかっ！？」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:88-1
+msgid "「い、いかがでしょうか……」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:90-1
+msgid "リリアの前には、部屋から持ち出した小机がひとつ。"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:91-1
+msgid "伏せて重ねられたティーカップに、大きなシュガーポットがひとつ。"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:92-1
+msgid "地図の裏に書いた宣伝ポスターが、いかにも即席で作りましたという雰囲気で貼られている。"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:94-1
+msgid "「……あのね、灰桜」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:100-5
+msgctxt "../test/novel_18.html+html.body.div.div.div.div.div.div.div.ul.li:100-5"
+msgid "「みゅ？」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:101-5
+msgctxt "../test/novel_18.html+html.body.div.div.div.div.div.div.div.ul.li:101-5"
+msgid "「みゅ？」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:107-1
+msgid "いい考えがある、一緒にお仕事しに行きましょう……そう彼女は言った。"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:108-1
+msgid "その言葉を、一瞬でも信じてしまったのが間違いだったのかもしれない。"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:109-1
+msgid "朝からホーロー鍋を持ち出して、厨房でなにやらコトコト煮ていたので、何事かとは思っていたのだ。"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:116-5
+msgctxt "../test/novel_18.html+html.body.div.div.div.div.div.div.div.ul.li:116-5"
+msgid "「ご安心ください、わたしマスターから聞いたことがあります」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:117-5
+msgctxt "../test/novel_18.html+html.body.div.div.div.div.div.div.div.ul.li:117-5"
+msgid "「ご安心ください、わたしマスターから聞いたことがあります」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:123-1
+msgid "「な……なにを？」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:129-5
+msgctxt "../test/novel_18.html+html.body.div.div.div.div.div.div.div.ul.li:129-5"
+msgid "「アルタリアの幼い子どもは、冬のお小遣い稼ぎにはちみつハーブティーを売るそうですね。寒い季節にはぴったり、身も心もあたたまるお味だとか」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:130-5
+msgctxt "../test/novel_18.html+html.body.div.div.div.div.div.div.div.ul.li:130-5"
+msgid "「アルタリアの幼い子どもは、冬のお小遣い稼ぎにはちみつハーブティーを売るそうですね。寒い季節にはぴったり、身も心もあたたまるお味だとか」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:136-1
+msgid "「それは知っているけど、一杯売っていくらの儲けになると思うの？」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:142-5
+msgctxt "../test/novel_18.html+html.body.div.div.div.div.div.div.div.ul.li:142-5"
+msgid "「それは～……一杯８シリングなので、今日持ってきたハーブティーが２０杯分で……」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:143-5
+msgctxt "../test/novel_18.html+html.body.div.div.div.div.div.div.div.ul.li:143-5"
+msgid "「それは～……一杯８シリングなので、今日持ってきたハーブティーが２０杯分で……」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:148-1
+msgid "「それにね、言ったでしょう？ 私、あまり目立ちたくないの――」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:150-1
+msgid "耳元でそう懸命に伝えたとき、ちょうど来客があった。"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:152-1
+msgid "「おやおや、これは美味しそうだ」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:154-1
+msgid "まるまると太った気の良さそうな男だ。口元をびっしり覆ったヒゲが、いかにもアルタリア人らしい。"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:156-1
+msgid "「一杯もらおうかな」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:162-5
+msgctxt "../test/novel_18.html+html.body.div.div.div.div.div.div.div.ul.li:162-5"
+msgid "「はいっ！ ありがとうございます」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:163-5
+msgctxt "../test/novel_18.html+html.body.div.div.div.div.div.div.div.ul.li:163-5"
+msgid "「はいっ！ ありがとうございます」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:169-1
+msgid "にこやかにお金を受け取っている。"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:176-5
+msgctxt "../test/novel_18.html+html.body.div.div.div.div.div.div.div.ul.li:176-5"
+msgid "「リリアさん、注いでもらってよろしいでしょうか？」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:177-5
+msgctxt "../test/novel_18.html+html.body.div.div.div.div.div.div.div.ul.li:177-5"
+msgid "「リリアさん、注いでもらってよろしいでしょうか？」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:182-1
+msgid "「私がやるの？」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:188-5
+msgctxt "../test/novel_18.html+html.body.div.div.div.div.div.div.div.ul.li:188-5"
+msgid "「はいっ、このランドセルで温めていますので」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:189-5
+msgctxt "../test/novel_18.html+html.body.div.div.div.div.div.div.div.ul.li:189-5"
+msgid "「はいっ、このランドセルで温めていますので」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:195-1
+msgid "ティーカップを手に取ると、灰桜の背後に回る。"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:196-1
+msgid ""
+"なんでも燃料貯蔵タンクに、はちみつハーブティーを入れているとのことだ。そこはいつも温かく、飲み物を適温に保てるらしい。果たして詰め替えていいのかどうかは分"
+"からなかったが、そこを深く考えるのはやめておこうと思った。"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:198-1
+msgid "「……これでいいのかしら」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:200-1
+msgid "排水弁を捻って、ティーカップに注いでいく。"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:201-1
+msgid "濃いルビー色。甘いコケモモと、ぴりりと効いたナツメグの薫りが鼻先をくすぐった。"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:202-1
+msgid "「どうぞ……」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:204-1
+msgid "視線を落として、男にはちみつハーブティーを差し出す。"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:205-1
+msgid "カップを両手で抱くように持って、しばらくその温かさを堪能してから、おいしそうに味わっていた。"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:207-1
+msgid "「ああ、生き返るよ。ありがとう」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:213-5
+msgctxt "../test/novel_18.html+html.body.div.div.div.div.div.div.div.ul.li:213-5"
+msgid "「わたし、お役に立てましたかっ」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:214-5
+msgctxt "../test/novel_18.html+html.body.div.div.div.div.div.div.div.ul.li:214-5"
+msgid "「わたし、お役に立てましたかっ」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:219-1
+msgid "「ああ、もちろんだよ。ところで……」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:221-1
+msgid "じっと二人を交互に見つめてくる。リリアはさりげない仕草で、口元を隠すようにストールを巻いた。"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:223-1
+msgid "「こっちの子は、人形だね？」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:229-5
+msgctxt "../test/novel_18.html+html.body.div.div.div.div.div.div.div.ul.li:229-5"
+msgid "「はい、わたしは灰桜と言います」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:230-5
+msgctxt "../test/novel_18.html+html.body.div.div.div.div.div.div.div.ul.li:230-5"
+msgid "「はい、わたしは灰桜と言います」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:235-1
+msgid "「はるばる東邦からやってきたのかね」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:241-5
+msgctxt "../test/novel_18.html+html.body.div.div.div.div.div.div.div.ul.li:241-5"
+msgid "「そう……なるのでしょうか？」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:242-5
+msgctxt "../test/novel_18.html+html.body.div.div.div.div.div.div.div.ul.li:242-5"
+msgid "「そう……なるのでしょうか？」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:247-1
+msgid "「あの、ごめんなさい、この子については……」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:249-1
+msgid "あまり詮索されたくなくて、リリアは間に入る。"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:251-1
+msgid "「ああ、申し訳ない、つい懐かしくなってね」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:257-5
+msgctxt "../test/novel_18.html+html.body.div.div.div.div.div.div.div.ul.li:257-5"
+msgid "「人形のお知り合いがいるのでしょうか？」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:258-5
+msgctxt "../test/novel_18.html+html.body.div.div.div.div.div.div.div.ul.li:258-5"
+msgid "「人形のお知り合いがいるのでしょうか？」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:263-1
+msgid "「僕は歌劇を見に行くのが好きでね。そこには歌劇人形がいたんだよ」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:265-1
+msgid "その言葉に、リリアは心臓がきゅっと締め付けられる思いだった。"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:266-1
+msgid "慌ててカップを拭いているフリをして、男に背中を向ける。"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:272-5
+msgctxt "../test/novel_18.html+html.body.div.div.div.div.div.div.div.ul.li:272-5"
+msgid "「お客様は歌劇人形をご覧になったことがあるのですか？」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:273-5
+msgctxt "../test/novel_18.html+html.body.div.div.div.div.div.div.div.ul.li:273-5"
+msgid "「お客様は歌劇人形をご覧になったことがあるのですか？」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:279-1
+msgid "「レバルジャク少女歌劇の名物なんだよ。少女と人形が、それは素晴らしいハーモニーを奏でるんだ」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:285-5
+msgctxt "../test/novel_18.html+html.body.div.div.div.div.div.div.div.ul.li:285-5"
+msgid "「それは、とっても素敵でしょうね……」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:286-5
+msgctxt "../test/novel_18.html+html.body.div.div.div.div.div.div.div.ul.li:286-5"
+msgid "「それは、とっても素敵でしょうね……」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:292-1
+msgid "「最近はほとんど公演しなくなってしまったけどね……そうだ、キミも歌ってくれるかい？」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:298-5
+msgctxt "../test/novel_18.html+html.body.div.div.div.div.div.div.div.ul.li:298-5"
+msgid "「え……わたし、ですか？」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:299-5
+msgctxt "../test/novel_18.html+html.body.div.div.div.div.div.div.div.ul.li:299-5"
+msgid "「え……わたし、ですか？」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:305-1
+msgid "「ああ、久しぶりに聞きたいんだ」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:311-5
+msgctxt "../test/novel_18.html+html.body.div.div.div.div.div.div.div.ul.li:311-5"
+msgid "「わかりました、頑張ってみますっ。ええと……」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:312-5
+msgctxt "../test/novel_18.html+html.body.div.div.div.div.div.div.div.ul.li:312-5"
+msgid "「わかりました、頑張ってみますっ。ええと……」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:318-1
+msgid "「やはり定番といえば、湖と白鳥かな」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:324-5
+msgctxt "../test/novel_18.html+html.body.div.div.div.div.div.div.div.ul.li:324-5"
+msgid "「聞いたことがあります！ それでは……」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:325-5
+msgctxt "../test/novel_18.html+html.body.div.div.div.div.div.div.div.ul.li:325-5"
+msgid "「聞いたことがあります！ それでは……」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:331-1
+msgid "灰桜は、すうっと冷たい空気を吸い込む。"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:332-1
+msgid "そっと目を閉じて、そして胸元に手を当てて。"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:333-1
+msgid "冬空にその歌声を響かせた。"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:335-1
+msgid "「………う゛」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:337-1
+msgid "音程もなにもあったものではない、ひどい調子外れの歌がこだました。"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:339-1
+msgid "「ちょ、ちょっと、灰桜」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:345-5
+msgctxt "../test/novel_18.html+html.body.div.div.div.div.div.div.div.ul.li:345-5"
+msgid "「みゅみゅ？」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:346-5
+msgctxt "../test/novel_18.html+html.body.div.div.div.div.div.div.div.ul.li:346-5"
+msgid "「みゅみゅ？」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:352-1
+msgid "「調子外れにも程があるわ。まず最初の歌い出しから合ってないのよ」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:358-5
+msgctxt "../test/novel_18.html+html.body.div.div.div.div.div.div.div.ul.li:358-5"
+msgid "「歌い出し……？」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:359-5
+msgctxt "../test/novel_18.html+html.body.div.div.div.div.div.div.div.ul.li:359-5"
+msgid "「歌い出し……？」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:365-1
+msgid "「ああ、もう……ほら、わたしに続いて歌ってみて」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:371-5
+msgctxt "../test/novel_18.html+html.body.div.div.div.div.div.div.div.ul.li:371-5"
+msgid "「で、では……やってみますっ」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:372-5
+msgctxt "../test/novel_18.html+html.body.div.div.div.div.div.div.div.ul.li:372-5"
+msgid "「で、では……やってみますっ」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:378-1
+msgid "リリアがすこし控えめに喉を震わせる。"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:379-1
+msgid "それに続いて、灰桜が真似をして声を上げた。"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:381-1
+msgid "「……ほう」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:383-1
+msgid "そこは人形の面目躍如と言ったところか、なんどか調子を合わせただけで、灰桜は正確な音を掴んだ。観客のおじさんも感心した様子で唸っている。"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:385-1
+msgid "「続けて歌ってみて」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:391-5
+msgctxt "../test/novel_18.html+html.body.div.div.div.div.div.div.div.ul.li:391-5"
+msgid "「はいっ」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:392-5
+msgctxt "../test/novel_18.html+html.body.div.div.div.div.div.div.div.ul.li:392-5"
+msgid "「はいっ」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:398-1
+msgid "「「～～～～～♪ ～～～～～♪ ～～～～～♪」」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:400-1
+msgid "伸びやかな歌声が響いていく。"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:401-1
+msgid "リリアにとっても、それはどこか懐かしい体験だった。"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:402-1
+msgid "かつて劇団ですごしていたころ、よくこうやって人形たちと音を合わせたものだ。"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:403-1
+msgid "もっとも、相方は灰桜ほど下手ではなかったけれど。"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:405-1
+msgid "「「～～～～～♪」」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:407-1
+msgid "目と目が合うと、にっこりと微笑んでくれる。"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:408-1
+msgid "灰桜の笑顔が本当に楽しそうで、リリアの歌声はすこしずつ大きくなっていった。"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:410-1
+msgid "ぱちぱちぱちぱちぱち。"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:412-1
+msgid "やがて歌い終えると、拍手が響いた。"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:413-1
+msgid "眼前で歌声を聞いていたおじさんだけではない。"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:414-1
+msgid "気づくと、辺りには人だかりができていて、みんな手を叩いていた。"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:416-1
+msgid "「素晴らしい！ みんな、歌のお礼にハーブティーを買ってやってくれ！」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:418-1
+msgid "そんなことを言うものだから、次々とお客さんが訪れていく"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:425-5
+msgctxt "../test/novel_18.html+html.body.div.div.div.div.div.div.div.ul.li:425-5"
+msgid "「二人前ですね、ありがとうございますっ！ こちらは四人前ですか？ みゅみゅっ……頑張って温めます！」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:426-5
+msgctxt "../test/novel_18.html+html.body.div.div.div.div.div.div.div.ul.li:426-5"
+msgid "「二人前ですね、ありがとうございますっ！ こちらは四人前ですか？ みゅみゅっ……頑張って温めます！」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:432-1
+msgid "「先程注文のお客様……あ、代金はこんなにいただくわけには……え、歌のぶん、ですか？」"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:434-1
+msgid "飛ぶように売れていくはちみつハーブティー。"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.p:435-1
+msgid "ついでに余分にチップを置いていくお客さんもいて、すっかり大盛況だった。"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.div.div.div:437-1
+msgid ""
+"<a href=\"novel_17.html\">＜＜前のエピソード</a> <a href=\"novel_19.html\""
+">次のエピソード＞＞</a>"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div.p:445-1
+msgid "執筆：丘野塔也 挿絵：まろやか ＣＶ：和氣あず未（灰桜）"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div:453-1
+msgid "目次へ戻る"
+msgstr ""
+
+#: ../test/novel_18.html%2Bhtml.body.div.div:454-1
+msgid "©VISUAL ARTS / Key"
+msgstr ""

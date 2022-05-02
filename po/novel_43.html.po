@@ -1,0 +1,480 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-02 21:10+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.2\n"
+
+#: ../test/novel_43.html%2Bhtml[lang]:2-1
+msgid "ja"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.head.title:8-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】 | Key"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.head.meta[content]:9-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.head.meta[content]:10-1
+msgid "Key,キー,kinetic,novel,キネティックノベル"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div:44-1
+msgid "プリマドール・アンコール"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div:48-1
+msgid "06-10 雪華文様(10)"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div:52-1
+msgid ""
+"<a href=\"novel_42.html\">＜＜前のエピソード</a> <a href=\"novel.html\">目次</a> <a "
+"href=\"novel_44.html\">次のエピソード＞＞</a>"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:65-102
+msgctxt "../test/novel_43.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:65-102"
+msgid "「早く乗って！」"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:67-103
+msgctxt "../test/novel_43.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:67-103"
+msgid "「早く乗って！」"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.p:74-1
+msgid "鴉羽は踵を返すと、農耕用機械人形の元へと戻った。"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.p:76-1
+msgid "ローサ「ま、待って……」"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:82-102
+msgctxt "../test/novel_43.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:82-102"
+msgid "「逃げるわよ」"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:83-103
+msgctxt "../test/novel_43.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:83-103"
+msgid "「逃げるわよ」"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.p:90-1
+msgid "手を貸すと、小さな体を引っ張り上げる。"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.p:91-1
+msgid "一刻も早くここから逃げなければ。"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.p:93-1
+msgid "ローサ「……だめ」"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:99-102
+msgctxt "../test/novel_43.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:99-102"
+msgid "「だめって……どうして？」"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:100-103
+msgctxt "../test/novel_43.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:100-103"
+msgid "「だめって……どうして？」"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.p:106-1
+msgid "ローサ「エンジン止まってる」"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:112-102
+msgctxt "../test/novel_43.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:112-102"
+msgid "「なあぁああ！？」"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:113-103
+msgctxt "../test/novel_43.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:113-103"
+msgid "「なあぁああ！？」"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.p:120-1
+msgid "確かに、煙突からの廃棄が止まっている。"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.p:121-1
+msgid "まさかこんなときに論理機関が故障するなんて……"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:128-102
+msgctxt "../test/novel_43.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:128-102"
+msgid "「……来る」"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:129-103
+msgctxt "../test/novel_43.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:129-103"
+msgid "「……来る」"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.p:136-1
+msgid "不気味な羽音が、徐々に近づいてきているのが分かる。"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.p:137-1
+msgid "鴉羽たちを補足したのだ。もしあれが“見られてはいけないもの”だとするならば……。"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:144-102
+msgctxt "../test/novel_43.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:144-102"
+msgid "「まずい……」"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:145-103
+msgctxt "../test/novel_43.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:145-103"
+msgid "「まずい……」"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.p:152-1
+msgid "従軍中ならば、あんな偵察人形ごときに遅れを取ることはなかった。"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.p:153-1
+msgid "しかし、いまは<ruby>自律人形<rt>オートマタ</rt></ruby>である鴉羽には武器と呼べる存在がない。"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.p:154-1
+msgid "強いて言うならばこの農耕用機械人形だが、そもそも鴉羽は指揮能力を失ってしまっている……。"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.p:155-1
+msgid "でも、やらなければいけない。"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:162-102
+msgctxt "../test/novel_43.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:162-102"
+msgid "「貸して、強制起動命令を出すわ」"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:163-103
+msgctxt "../test/novel_43.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:163-103"
+msgid "「貸して、強制起動命令を出すわ」"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.p:169-1
+msgid "ローサ「でも……」"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:175-102
+msgctxt "../test/novel_43.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:175-102"
+msgid "「………」"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:176-103
+msgctxt "../test/novel_43.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:176-103"
+msgid "「………」"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.p:183-1
+msgid "そっと躯体に手を触れさせる。"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.p:184-1
+msgid "目をつぶって、視覚情報を遮断する。そして、意識を集中させる。"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.p:185-1
+msgid "論理機関同士を共鳴させる。人形同士の意識を一体化させるのだ。"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:193-102
+msgctxt "../test/novel_43.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:193-102"
+msgid "「………っ」"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:194-103
+msgctxt "../test/novel_43.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:194-103"
+msgid "「………っ」"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.p:201-1
+msgid "ちりっと胸が灼けるような感覚があった。"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.p:202-1
+msgid "ローサ「すごい汗だよ！」"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:208-102
+msgctxt "../test/novel_43.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:208-102"
+msgid "「うううぅぅ……ううううう～……！」"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:209-103
+msgctxt "../test/novel_43.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:209-103"
+msgid "「うううぅぅ……ううううう～……！」"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.p:216-1
+msgid "義体温度が上昇している。とめどなく冷却液が噴出するのが分かる。"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:223-102
+msgctxt "../test/novel_43.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:223-102"
+msgid "「もうっ……少し………っ」"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:224-103
+msgctxt "../test/novel_43.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:224-103"
+msgid "「もうっ……少し………っ」"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.p:231-1
+msgid "かすかに共鳴が返ってくるのが分かる。"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.p:232-1
+msgid "音を捕まえて、そして増幅させる。あたしの意識を送り込む……。"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:239-102
+msgctxt "../test/novel_43.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:239-102"
+msgid "「ただちに強制起動！」"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:240-103
+msgctxt "../test/novel_43.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:240-103"
+msgid "「ただちに強制起動！」"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.p:247-1
+msgid "ぼしゅ、と詰まったような音とともに、黒煙が吹き出す。"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:254-102
+msgctxt "../test/novel_43.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:254-102"
+msgid "「動いた……！」"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:255-103
+msgctxt "../test/novel_43.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:255-103"
+msgid "「動いた……！」"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.p:262-1
+msgid "体の下で、唸るような駆動音が響いている。"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.p:263-1
+msgid "全身が冷却液でべったりだった。"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.p:264-1
+msgid "それでも、指揮できた。確かに論理機関に信号を送れたのだ。"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.p:266-1
+msgid "ローサ「お姉ちゃん、来てる……！」"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:272-102
+msgctxt "../test/novel_43.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:272-102"
+msgid "「掴まってて！」"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:273-103
+msgctxt "../test/novel_43.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:273-103"
+msgid "「掴まってて！」"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.p:280-1
+msgid "羽をこすり合わせる音は、すぐ背後まで迫っていた。"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.p:281-1
+msgid "雪煙を噴き上げると、最大速度で加速する。操作できる――。"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.p:283-1
+msgid "ローサ「きゃああああ！！！」"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.p:285-1
+msgid "風を切って、躯体を走らせる。"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.p:286-1
+msgid "気づけば、そこは凍りついた湖の上だった。"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.p:287-1
+msgid "愚鈍な印象だが、すべてを速度に割り当てれば下手な自動車ぐらいの速度は出る。"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.p:289-1
+msgid "ローサ「だめ、追いかけてきてる……！」"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.p:291-1
+msgid "ローサは必死に鴉羽にしがみついている。"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.p:292-1
+msgid "ちらりと背後を伺うと、まるで虫を思わせる義体がぴったりと後を追ってきていた。"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.p:293-1
+msgid "きらりと銃口が光っているのが分かる。"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:300-102
+msgctxt "../test/novel_43.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:300-102"
+msgid "「旋回するわ！」"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:301-103
+msgctxt "../test/novel_43.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:301-103"
+msgid "「旋回するわ！」"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.p:307-1
+msgid "ローサ「わあああっ！？」"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.p:309-1
+msgid "逃げ切れないと判断して、躯体を１８０度旋回させる。"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.p:310-1
+msgid "いちかばちかだが、やってみるしかない。"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.p:312-1
+msgid "ローサ「突っ込んでくるよ！？」"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:318-102
+msgctxt "../test/novel_43.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:318-102"
+msgid "「受け止めるわ！」"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:319-103
+msgctxt "../test/novel_43.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:319-103"
+msgid "「受け止めるわ！」"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.p:326-1
+msgid ""
+"瞳が真っ赤に発光するのが分かる。<ruby>機械人形<rt>メカニカ</rt></ruby>に指令を出すと、前足を浮かせるようにして大きく広げた。"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:333-102
+msgctxt "../test/novel_43.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:333-102"
+msgid "「………！？」"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:334-103
+msgctxt "../test/novel_43.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:334-103"
+msgid "「………！？」"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.p:341-1
+msgid "強い衝撃。避けきれなかった<ruby>機械人形<rt>メカニカ</rt></ruby>同士が正面衝突する。"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:348-102
+msgctxt "../test/novel_43.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:348-102"
+msgid "「えっ……ええい！」"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:349-103
+msgctxt "../test/novel_43.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:349-103"
+msgid "「えっ……ええい！」"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.p:356-1
+msgid "そのまま、<ruby>機械人形<rt>メカニカ</rt></ruby>の全体重を載せて、氷面に前脚を突き立てた。"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.p:357-1
+msgid "ぴし、とひび割れる音が、冷たい空に響いた。"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.p:358-1
+msgid "みるみるうちに湖に亀裂が広がっていく。"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:365-102
+msgctxt "../test/novel_43.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:365-102"
+msgid "「ローサちゃん、逃げるわよ……！」"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:366-103
+msgctxt "../test/novel_43.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:366-103"
+msgid "「ローサちゃん、逃げるわよ……！」"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.p:372-1
+msgid "ローサ「え、え？」"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:378-102
+msgctxt "../test/novel_43.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:378-102"
+msgid "「走って……！」"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:379-103
+msgctxt "../test/novel_43.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:379-103"
+msgid "「走って……！」"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.p:386-1
+msgid "その手を取って<ruby>機械人形<rt>メカニカ</rt></ruby>の上から降りる。"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.p:387-1
+msgid "氷面に降り立つと、無我夢中でその場から駆け出した。"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.p:388-1
+msgid "一度崩れ始めると、崩落はあっという間だった。"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.p:389-1
+msgid "湖岸へと必死に逃げていく鴉羽とローサ。"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.p:390-1
+msgid "その背後で、大きな水しぶきが上がる。"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.p:391-1
+msgid "二体の<ruby>機械人形<rt>メカニカ</rt></ruby>は、あっけなく氷とともに湖の底へと沈んでいった。"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div.div.div:395-1
+msgid ""
+"<a href=\"novel_42.html\">＜＜前のエピソード</a> <a href=\"novel_44.html\">次のエピソード＞＞</"
+"a><br> <br><br> <a href=\"https://docs.google.com/forms/d/e/"
+"1FAIpQLSdhB2kW8Tk7HpuzAdeCxmOG858asuw3Gt5Bcillqu5u-iFf4A/viewform\""
+">こちらのフォームよりご意見・ご感想をお寄せください</a><br>もれなくデジタルコンテンツをプレゼント！"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.p:407-1
+msgid "執筆：丘野塔也 挿絵：まろやか ＣＶ：楠木ともり（鴉羽）"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div:411-1
+msgid "目次へ戻る"
+msgstr ""
+
+#: ../test/novel_43.html%2Bhtml.body.div.div.div:412-1
+msgid "©VISUAL ARTS / Key"
+msgstr ""

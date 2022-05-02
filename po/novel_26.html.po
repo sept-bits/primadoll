@@ -1,0 +1,603 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-02 21:10+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.2\n"
+
+#: ../test/novel_26.html%2Bhtml[lang]:2-1
+msgid "ja"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.head.title:8-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】 | Key"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.head.meta[content]:9-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.head.meta[content]:10-1
+msgid "Key,キー,kinetic,novel,キネティックノベル"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div:44-1
+msgid "プリマドール・アンコール"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div:48-1
+msgid "04-1 黒猫亭のうさぎ（1）"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div:52-1
+msgid ""
+"<a href=\"novel_25.html\">＜＜前のエピソード</a> <a href=\"novel.html\">目次</a> <a "
+"href=\"novel_27.html\">次のエピソード＞＞</a>"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:58-1
+msgid "それは閉店後の事だった。"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:60-1
+msgid "灰桜「……みゅ？」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:62-1
+msgid "灰桜が、きょとんとした顔で首を傾げていた。"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:63-1
+msgid "お客さんの居なくなったフロアに黒猫亭のスタッフが全員集まって、今後の方針などの打ち合わせをしていた。"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:64-1
+msgid "珍しく奥宮さんも参加している。"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:65-1
+msgid "机の上に置かれた自律人形たちの数だけのピーナッツバターシェイク。"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:66-1
+msgid "ボクと奥宮さんの手前には、湯気の立つコーヒー。"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:67-1
+msgid "みんな、じっと灰桜を見ている。"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:69-1
+msgid "灰桜「新しいメニューを……わたしが考えるんですか！？」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:71-1
+msgid "今度は大きな声で、目を丸くしながら言った。"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:78-102
+msgctxt "../test/novel_26.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:78-102"
+msgid "「ええ、お願いできる？」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:79-103
+msgctxt "../test/novel_26.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:79-103"
+msgid "「ええ、お願いできる？」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:87-1
+msgid "鴉羽さんは他の人より一際濃厚なピーナッツバターシェイクの入ったカップを手にしながら頷く。"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:89-1
+msgid "灰桜「で、でも、わたしなんかが黒猫亭の新しいメニューを考えてもいいものでしょうか？」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:90-1
+msgid "月下「少しずつではありますが、給仕になれてきた頃合いであります。なので、もう一歩黒猫亭の業務に踏み込むのが良いと考えます」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:92-1
+msgid "月下は静かに、特に感情を乗せずにそう言った。"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:94-1
+msgid "灰桜「みゅみゅみゅ～」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:100-102
+msgctxt "../test/novel_26.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:100-102"
+msgid "「そんなに難しく考えなくて良いわよ」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:101-103
+msgctxt "../test/novel_26.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:101-103"
+msgid "「そんなに難しく考えなくて良いわよ」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:108-1
+msgid "宇佐美「あはは……でも、それを作るのはボクなわけで……お手柔らかいお願いします」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:110-1
+msgid "そう。言うは易し、行うは難し。"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:111-1
+msgid "ボクも調理に慣れてきたとはいえ、まだまだ一人前とは言えない。"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:112-1
+msgid "難易度の高いメニューだと、箒星さんの手も借りないといけないな。"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:114-1
+msgid "灰桜「皆さんもこれまで、新メニューを考えてきたんですか？」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:120-102
+msgctxt "../test/novel_26.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:120-102"
+msgid "「ええ。みんなで案を出し合って決めてきたの」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:121-103
+msgctxt "../test/novel_26.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:121-103"
+msgid "「ええ。みんなで案を出し合って決めてきたの」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:128-1
+msgid "月下「オムレツは自分の発案であります」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:134-102
+msgctxt "../test/novel_26.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:134-102"
+msgid "「黒猫亭を始めたばかりの頃は、本当に飲み物とサンドイッチくらいしか無かったものね」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:135-103
+msgctxt "../test/novel_26.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:135-103"
+msgid "「黒猫亭を始めたばかりの頃は、本当に飲み物とサンドイッチくらいしか無かったものね」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:142-1
+msgid "おとめ「静かな時間を過ごすのも悪くなかったが、軽食があったほうが嬉しいものだ」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:143-1
+msgid "灰桜「オーナーはその頃はまだオーナーじゃなかったのですか？」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:144-1
+msgid "おとめ「ああ、まだ軍属でね。休憩がてら、よく寄らせて貰っていたよ」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:146-1
+msgid "奥宮さんは、かつての黒猫亭を懐かしむように微笑んだ。"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:148-1
+msgid "おとめ「だが……」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:150-1
+msgid "──のも、つかの間。"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:151-1
+msgid "元がきゅっと引き締まって、声のトーンが下がった。"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:153-1
+msgid "おとめ「再三言っているにもかかわらず、いまだにメニューに並べてもらえないものがある」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:154-1
+msgid "宇佐美「え？ オーナーなのに、拒否されるメニューがあるんですか？ それは一体……」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:155-1
+msgid "おとめ「酒だ」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:156-1
+msgid "宇佐美「……お酒、ですか？」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:157-1
+msgid "灰桜「みゅ？ 黒猫亭には、黒猫ブランという名物があります。ワインも取り扱っていますし……」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:163-102
+msgctxt "../test/novel_26.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:163-102"
+msgid "「オーナーの言うお酒は、清酒のことですよね」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:164-103
+msgctxt "../test/novel_26.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:164-103"
+msgid "「オーナーの言うお酒は、清酒のことですよね」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:171-1
+msgid "おとめ「……おいしいのだが」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:177-102
+msgctxt "../test/novel_26.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:177-102"
+msgid "「カフェにそぐいません」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:178-103
+msgctxt "../test/novel_26.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:178-103"
+msgid "「カフェにそぐいません」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:185-1
+msgid "おとめ「ふっ、オーナーといっても、所詮は代理。発言権は皆無なのだな……」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:187-1
+msgid "奥宮さんは肩を竦めながら、やや卑屈に笑う。"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:194-102
+msgctxt "../test/novel_26.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:194-102"
+msgid "「そ、そこまでは言っていませんが…」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:195-103
+msgctxt "../test/novel_26.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:195-103"
+msgid "「そ、そこまでは言っていませんが…」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:202-1
+msgid "おとめ「まあ、任せるよ。ああ、そうだ」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:204-1
+msgid "奥宮さんが何かを思い出したように顔を上げると、自分の懐に手を入れる。"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:205-1
+msgid "そして、白い封筒を取り出した。"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:207-1
+msgid "おとめ「鴉羽。お前宛の手紙を預かっている」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:213-102
+msgctxt "../test/novel_26.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:213-102"
+msgid "「あたしに……？ それは、もしかして……！」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:214-103
+msgctxt "../test/novel_26.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:214-103"
+msgid "「あたしに……？ それは、もしかして……！」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:222-1
+msgid "鴉羽さんの目が、何かを期待するように大きく見開かれる。"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:229-102
+msgctxt "../test/novel_26.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:229-102"
+msgid "「マスターから、ですか……？」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:230-103
+msgctxt "../test/novel_26.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:230-103"
+msgid "「マスターから、ですか……？」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:237-1
+msgid "おとめ「いや、残念だが」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:243-102
+msgctxt "../test/novel_26.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:243-102"
+msgid "「そう……ですか」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:244-103
+msgctxt "../test/novel_26.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:244-103"
+msgid "「そう……ですか」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:252-1
+msgid "望む手紙では無いことがわかり、すぐに肩を落とす。"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:253-1
+msgid "マスターというのは、それは先代のオーナーのことだろうか。"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:255-1
+msgid "おとめ「皇都六区とあるな」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:261-102
+msgctxt "../test/novel_26.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:261-102"
+msgid "「六区……？」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:262-103
+msgctxt "../test/novel_26.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:262-103"
+msgid "「六区……？」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:270-1
+msgid "六区といえば、皇都最大の歓楽街だ。"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:271-1
+msgid "そんなところからの手紙……？"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:278-102
+msgctxt "../test/novel_26.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:278-102"
+msgid "「……あ、あ、あたしに……何の用事でしょう……？」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:279-103
+msgctxt "../test/novel_26.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:279-103"
+msgid "「……あ、あ、あたしに……何の用事でしょう……？」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:286-1
+msgid "おとめ「封は切っていない。自分で確認するといい」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:292-102
+msgctxt "../test/novel_26.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:292-102"
+msgid "「う……」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:293-103
+msgctxt "../test/novel_26.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:293-103"
+msgid "「う……」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:301-1
+msgid "鴉羽さんは、明らかに顔を強張らせながら、奥宮さんの持つ封筒に手を伸ばす。"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:302-1
+msgid "手にしてもすぐには開けようとせず、じっと封筒を見ている。"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:304-1
+msgid "月下「ペーパーナイフであります」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:306-1
+msgid "気を利かせたのか、空気を読まなかったのか、月下がすっとペーパーナイフを差し出す。"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:313-102
+msgctxt "../test/novel_26.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:313-102"
+msgid "「あ……ありがとう……」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:314-103
+msgctxt "../test/novel_26.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:314-103"
+msgid "「あ……ありがとう……」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:322-1
+msgid "何かを諦めたように一度目を閉じると、受け取ったペーパーナイフで封を切る。"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:323-1
+msgid "そして、中に入っていた手紙をゆっくりと……どれだけ見たくないんだというくらい、本当にゆっくりと開いた。"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:324-1
+msgid "手紙と一緒に、なにか大きなカードのような物が挟まっている。"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:331-102
+msgctxt "../test/novel_26.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:331-102"
+msgid "「なあぁあ……！？」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:332-103
+msgctxt "../test/novel_26.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:332-103"
+msgid "「なあぁあ……！？」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:339-1
+msgid "灰桜「……？！」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:340-1
+msgid "宇佐美「……？！」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:342-1
+msgid "なんとも変な声をあげた。"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:343-1
+msgid "鴉羽さんの頬は引きつり、真っ青な表情になっていた。"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:346-1
+msgid "灰桜「……あの、鴉羽さん、お手紙にはなんと書かれていたんですか？」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:352-102
+msgctxt "../test/novel_26.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:352-102"
+msgid "「なんでも……ないわ」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:353-103
+msgctxt "../test/novel_26.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:353-103"
+msgid "「なんでも……ないわ」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:361-1
+msgid "なんでもない訳がない表情をしている。"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:362-1
+msgid "鴉羽さんは、自分を落ち着かせるように大きく息を吸う。"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:363-1
+msgid "そして吐かずに、暫くためて……"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:364-1
+msgid "自分の中の感情を捨てるかのように、深く深く吐いた。"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:365-1
+msgid "そのままかくんと肩をおとし、俯く。"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:372-102
+msgctxt "../test/novel_26.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:372-102"
+msgid "「今日の打ち合わせはここまでにしましょう……」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:373-103
+msgctxt "../test/novel_26.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:373-103"
+msgid "「今日の打ち合わせはここまでにしましょう……」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:381-1
+msgid "生気の無い声。"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:382-1
+msgid "だけど奥宮さんと月下は、特に気にした様子はない。"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:383-1
+msgid "二人には、この鴉羽さんの状況が想定内なんだろうか？"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:385-1
+msgid "灰桜「みゅ……？」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:387-1
+msgid "灰桜は、なにやら不安そうだ。"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:394-102
+msgctxt "../test/novel_26.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:394-102"
+msgid "「……灰桜、新しいメニューのこと、考えておいて」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:395-103
+msgctxt "../test/novel_26.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:395-103"
+msgid "「……灰桜、新しいメニューのこと、考えておいて」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:402-1
+msgid "灰桜「は、はい」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:408-102
+msgctxt "../test/novel_26.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:408-102"
+msgid "「それじゃあ……解散しましょう」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:409-103
+msgctxt "../test/novel_26.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:409-103"
+msgid "「それじゃあ……解散しましょう」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:417-1
+msgid "その言葉を合図に、奥宮さんと月下は席を立つ。"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:424-102
+msgctxt "../test/novel_26.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:424-102"
+msgid "「明日からしばらく……あたし、閉店に立ち会えないと思うわ」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:425-103
+msgctxt "../test/novel_26.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:425-103"
+msgid "「明日からしばらく……あたし、閉店に立ち会えないと思うわ」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:432-1
+msgid "宇佐美「え？」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:433-1
+msgid "灰桜「どうしてですか？」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:439-102
+msgctxt "../test/novel_26.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:439-102"
+msgid "「用事があるの」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:440-103
+msgctxt "../test/novel_26.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:440-103"
+msgid "「用事があるの」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:448-1
+msgid "首を傾げるボクと灰桜。"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:449-1
+msgid "だけど……"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:451-1
+msgid "月下「了解であります」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:452-1
+msgid "奥宮「売上台帳は、私が代わりに確認しておこう」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:454-1
+msgid "二人は鴉羽さんの言葉をすんなりと受け入れた。"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:461-102
+msgctxt "../test/novel_26.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:461-102"
+msgid "「ふ……ふふ、ふふふ……」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:462-103
+msgctxt "../test/novel_26.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:462-103"
+msgid "「ふ……ふふ、ふふふ……」"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.p:470-1
+msgid "どこか空虚な笑みを浮かべる鴉羽さんに、ボクと灰桜はこれ以上声をかけることが出来なかった。"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div.div.div:472-1
+msgid ""
+"<a href=\"novel_25.html\">＜＜前のエピソード</a> <a href=\"novel_27.html\">次のエピソード＞＞</"
+"a><br> <br><br> <a href=\"https://docs.google.com/forms/d/e/"
+"1FAIpQLSdhB2kW8Tk7HpuzAdeCxmOG858asuw3Gt5Bcillqu5u-iFf4A/viewform\""
+">【こちらのフォームよりご意見・ご感想をお寄せください】</a><br>もれなくデジタルコンテンツをプレゼント！"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.p:484-1
+msgid "執筆：魁 挿絵：まろやか ＣＶ：楠木ともり（鴉羽）"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div:487-1
+msgid "目次へ戻る"
+msgstr ""
+
+#: ../test/novel_26.html%2Bhtml.body.div.div.div:488-1
+msgid "©VISUAL ARTS / Key"
+msgstr ""

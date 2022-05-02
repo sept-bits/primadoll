@@ -1,0 +1,528 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-02 21:10+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.2\n"
+
+#: ../test/novel_16.html%2Bhtml[lang]:2-1
+msgid "ja"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.head.title:8-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】 | Key"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.head.meta[content]:9-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.head.meta[content]:10-1
+msgid "Key,キー,kinetic,novel,キネティックノベル"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div:44-1
+msgid "プリマドール・アンコール"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div:48-1
+msgid "03-01 冬の花火（１）"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div:52-1
+msgid ""
+"<a href=\"novel_15.html\">＜＜前のエピソード</a> <a href=\"novel.html\">目次</a> <a "
+"href=\"novel_17.html\">次のエピソード＞＞</a>"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:59-1
+msgid "それは、黒猫亭が開店するより、すこし前のこと。"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:61-1
+msgid ""
+"アルタリア共和国。そこは大陸西部に位置する由緒ある国だ。海峡を渡ればセヴィル＝ノヴァの荒涼とした大地が広がっており、そこを三日三晩鉄道で駆け抜ければ小さな"
+"島国に至る。"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:63-1
+msgid "東邦皇国……この国がアルタリアに軍事侵攻したのはもう数十年前の話だ。些細な事件を切っ掛けにした火種が、燃え上がるのは一瞬だった。"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:65-1
+msgid ""
+"早々に白旗を揚げたアルタリアを、皇国は直接併合しようとはしなかった。皇国の野心はさらにその先――。大陸最大国家である帝政ローベリアにあったからだ。長い国境"
+"を接するこの国は、前線拠点とするには持って来いだった。共和国政府は皇国の傀儡となり、いつしか我が物顔で皇軍が駐屯しはじめた。幾多の混乱と衝突の末、アルタリ"
+"ア人と東邦人は奇妙な緊張関係を保って暮らしていた……。"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.div:67-2
+msgctxt "../test/novel_16.html+html.body.div.div.div.div.div:67-2"
+msgid "＊ ＊ ＊"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:70-1
+msgid "夜空は凍てつくような寒さに閉ざされている。"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:72-1
+msgid ""
+"東の連峰から吹き付ける風が、煙のように細雪を巻き上げる。コートを首元まで固く閉め合わせ、すっぽりとフードを被ってもなお襲ってくる、刺すような寒気。粉雪はフ"
+"ァーの先に、溶けることなくまとわりついていた。"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:74-1
+msgid ""
+"それでも新年を迎えるこの日、人々は通りに繰り出している。アルタリアの首都レバルジャクはお祭り騒ぎで、あちこちで白い吐息が漏れ出している。儚げなランタンの灯"
+"りを頼りに、総主教会を目指して陽気な行進を続けているのだ。もっとも、聖歌広場は十数万人という人で埋め尽くされているので、いまからでは敷地内に立ち入ることす"
+"らできないだろう。"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:76-1
+msgid "リリア「すみません、通ります」"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:78-1
+msgid ""
+"リリアは声を上げると、車椅子を押す。雪に車輪が取られて、思うように進まない。物珍しそうな周囲の視線を気にせずに行列の脇を抜けていく。車椅子の上には、リリア"
+"より一回り小柄な少女の姿。ストールを幾重にも巻いて、毛皮の帽子を目深に被っている。肩にはうっすらと雪が積もっていた。"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:80-1
+msgid ""
+"不意に行き交う人々が足を止めて、どよめきを上げる。しゅるしゅると夜空を駆ける音が聞こえてきたのは一息遅れてだった。赤紫色の光が、ぱっと辺りを包み込む。そし"
+"て轟音。花火が上がったのだ。新年を祝う声があちこちから聞こえてくる。二発目、三発目……花火は次々上がり、そのたびにまた歓声。こうなるともう行進どころではな"
+"い。"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:81-1
+msgid "もう誰もリリアに注目していなかった。ぎゅっと車椅子のグリップを握りしめる。そして、そっと行列を離れると脇道へと歩みを進めていく。"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:83-1
+msgid "警官「お嬢さん、どうされました」"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:85-1
+msgid "呼び止める声にどきりとした。背後に立っているのは、口ひげを生やした警官だ。岩を思わせる、灰色がかった重厚なコートに身を包んでいる。肩には小銃。"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:87-1
+msgid "リリア「妹が、気分が良くないと……」"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:88-1
+msgid "警官「ああ、それはいけない。暖かい場所までご案内しましょう」"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:89-1
+msgid "リリア「すこし休めば大丈夫ですので」"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:90-1
+msgid "警官「遠慮せずに。妹さん、お加減はどうだい」"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:92-1
+msgid "警官は膝を折って、車椅子の少女をのぞき込む。暗がりで表情は伺えない。糸が切れたように項垂れており、帽子の端からは金髪が垂れ下がっている。"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:93-1
+msgid ""
+"ぱっと夜空が煌めく。また花火が上がったのだ。一瞬の発光に、少女の横顔が照らされる。そっと閉じられた目蓋。滑らかな頬。そこからはなんの感情も読み取れない……"
+"。"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:95-1
+msgid "警官「……人形？」"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:96-1
+msgid "リリア「眠っているだけです。ありがとうございます、失礼します……」"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:98-1
+msgid "リリアは早口にまくし立てると、重い車椅子を進ませた。"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:100-1
+msgid "警官「あ、ちょっと、君！」"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:102-1
+msgid "呼び止められる声を振り切るように、路地の暗がりの中へと足早に駆けていく。"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:103-1
+msgid ""
+"連発花火が上がり、再び人々が興奮の声を上げる。警官はすぐには追ってこなかった。いまのうちに逃げなければ。応援を呼ぶかも知れない。早くどこかに隠れないと。で"
+"も、どこに？ 街はひっそりと静まりかえっており、どの家も鎧戸を落としている。"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:105-1
+msgid "リリア「……あ」"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:107-1
+msgid "暖かな光が飛び込んできた。"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:108-1
+msgid "そこは石造りのこぢんまりとした家だ。朱色に塗られた壁。二階からは柔らかなランタンの灯りが漏れ出している。窓辺にはひとりの少女の姿。"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:118-5
+msgctxt "../test/novel_16.html+html.body.div.div.div.div.div.div.div.ul.li:118-5"
+msgid "「……みゅ？」"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:119-5
+msgctxt "../test/novel_16.html+html.body.div.div.div.div.div.div.div.ul.li:119-5"
+msgid "「……みゅ？」"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:126-1
+msgid "瑠璃色の瞳が、リリアを見つめる。"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:127-1
+msgid "首を傾げると、くすんだ桜色の髪が揺れていた。"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.div:129-2
+msgctxt "../test/novel_16.html+html.body.div.div.div.div.div:129-2"
+msgid "＊ ＊ ＊"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:137-5
+msgctxt "../test/novel_16.html+html.body.div.div.div.div.div.div.div.ul.li:137-5"
+msgid "「それはそれは、大変でしたね。ご家族とはぐれてしまったとは……」"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:138-5
+msgctxt "../test/novel_16.html+html.body.div.div.div.div.div.div.div.ul.li:138-5"
+msgid "「それはそれは、大変でしたね。ご家族とはぐれてしまったとは……」"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:146-1
+msgid "くすんだ桜色の髪の少女は、なにも疑いを知らない顔でころころと笑う。"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:153-5
+msgctxt "../test/novel_16.html+html.body.div.div.div.div.div.div.div.ul.li:153-5"
+msgid "「遠慮せず、ストーブの前にどうぞっ。いま薪をくべますね」"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:154-5
+msgctxt "../test/novel_16.html+html.body.div.div.div.div.div.div.div.ul.li:154-5"
+msgid "「遠慮せず、ストーブの前にどうぞっ。いま薪をくべますね」"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:161-1
+msgid "暖炉はとろ火程度だが、外気と比べるとここは天国だ。"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:162-1
+msgid ""
+"えっちらおっちら薪を運んでくると、次々とくべている。あんなにたくさん入れてうまく燃えるのだろうかと思うほどに。ごしごしと顔を拭っているが、煤がついたせいで"
+"鼻先は黒く汚れてしまっていた。"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:169-5
+msgctxt "../test/novel_16.html+html.body.div.div.div.div.div.div.div.ul.li:169-5"
+msgid "「ごゆっくりおくつろぎください。きっとすぐ見つかりますよ」"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:170-5
+msgctxt "../test/novel_16.html+html.body.div.div.div.div.div.div.div.ul.li:170-5"
+msgid "「ごゆっくりおくつろぎください。きっとすぐ見つかりますよ」"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:177-1
+msgid "繊細な模様の入った着物は、東邦人独特の服装だ。背中には少女に不釣り合いな、鈍色の背嚢。煙突が一本伸びていて、うっすらと水蒸気を覗かせている。"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:179-1
+msgid "「ありがとう。その……」"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:181-1
+msgid "リリアは濡れたフードを下ろす。ひとつに結んだ金髪が窮屈さから解放されるように踊った。"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:183-1
+msgid "「あなたは、もしかして……人形？」"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:185-1
+msgid "そして、部屋に招かれた時からずっと抱えていた違和感を口にした。"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:192-5
+msgctxt "../test/novel_16.html+html.body.div.div.div.div.div.div.div.ul.li:192-5"
+msgid "「はい、わたしは皆さまのお役に立つ自律人形です」"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:193-5
+msgctxt "../test/novel_16.html+html.body.div.div.div.div.div.div.div.ul.li:193-5"
+msgid "「はい、わたしは皆さまのお役に立つ自律人形です」"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:200-1
+msgid "なんの屈託もなく、彼女はそう口にした。"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:207-5
+msgctxt "../test/novel_16.html+html.body.div.div.div.div.div.div.div.ul.li:207-5"
+msgid "「灰桜と言います」"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:208-5
+msgctxt "../test/novel_16.html+html.body.div.div.div.div.div.div.div.ul.li:208-5"
+msgid "「灰桜と言います」"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:214-1
+msgid "「灰桜……私はリリアよ」"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:220-5
+msgctxt "../test/novel_16.html+html.body.div.div.div.div.div.div.div.ul.li:220-5"
+msgid "「リリアさん、ですね。それで妹さんのお名前は……？」"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:221-5
+msgctxt "../test/novel_16.html+html.body.div.div.div.div.div.div.div.ul.li:221-5"
+msgid "「リリアさん、ですね。それで妹さんのお名前は……？」"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:228-1
+msgid "リリアの前にある車椅子。その前にかがみ込むと、顔をのぞき込む。さっきからずっと、糸が切れたように視線を伏せたままだ。"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:235-5
+msgctxt "../test/novel_16.html+html.body.div.div.div.div.div.div.div.ul.li:235-5"
+msgid "「みゅみゅ？」"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:236-5
+msgctxt "../test/novel_16.html+html.body.div.div.div.div.div.div.div.ul.li:236-5"
+msgid "「みゅみゅ？」"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:242-1
+msgid "「この子、人形なの」"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:248-5
+msgctxt "../test/novel_16.html+html.body.div.div.div.div.div.div.div.ul.li:248-5"
+msgid "「なるほど、ではお仲間ですね！ どんな役割の人形なのでしょうか？」"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:249-5
+msgctxt "../test/novel_16.html+html.body.div.div.div.div.div.div.div.ul.li:249-5"
+msgid "「なるほど、ではお仲間ですね！ どんな役割の人形なのでしょうか？」"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:255-1
+msgid "「歌劇人形よ」"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:261-5
+msgctxt "../test/novel_16.html+html.body.div.div.div.div.div.div.div.ul.li:261-5"
+msgid "「歌劇……人形？」"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:262-5
+msgctxt "../test/novel_16.html+html.body.div.div.div.div.div.div.div.ul.li:262-5"
+msgid "「歌劇……人形？」"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:268-1
+msgid "「ステージで人々を楽しませる人形よ。あらかじめ命令電文を送っておくとね、人間ではできないような見事な踊りと、レコード顔負けの歌をうたうの」"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:274-5
+msgctxt "../test/novel_16.html+html.body.div.div.div.div.div.div.div.ul.li:274-5"
+msgid "「それは素敵な役割をお持ちなんですね！」"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:275-5
+msgctxt "../test/novel_16.html+html.body.div.div.div.div.div.div.div.ul.li:275-5"
+msgid "「それは素敵な役割をお持ちなんですね！」"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:282-1
+msgid "しかし、ふと混乱した様子で首を傾げる。"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:289-5
+msgctxt "../test/novel_16.html+html.body.div.div.div.div.div.div.div.ul.li:289-5"
+msgid "「あれ、でも、先程妹さんと仰ったような……」"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:290-5
+msgctxt "../test/novel_16.html+html.body.div.div.div.div.div.div.div.ul.li:290-5"
+msgid "「あれ、でも、先程妹さんと仰ったような……」"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:296-1
+msgid "「ごめんなさい、灰桜。私、嘘を付いてしまったわ」"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:302-5
+msgctxt "../test/novel_16.html+html.body.div.div.div.div.div.div.div.ul.li:302-5"
+msgid "「みゅっ？ 嘘とはなんでしょーか？」"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:303-5
+msgctxt "../test/novel_16.html+html.body.div.div.div.div.div.div.div.ul.li:303-5"
+msgid "「みゅっ？ 嘘とはなんでしょーか？」"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:310-1
+msgid "新年の祭りに来たが、家族とはぐれてしまった。"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:311-1
+msgid "妹は病気なので、この寒空の下待ちぼうけは体に悪い。"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:312-1
+msgid "だから少しの間、室内に入れてもらえないだろうか。"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:313-1
+msgid "そういって、この暖かな部屋に通してもらったのだ。"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:314-1
+msgid "でも、それはすべて口から出任せだ。"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:316-1
+msgid "「私はね、レバルジャク少女歌劇団の団員なの。逃げてきたのよ、この子と一緒に」"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:322-5
+msgctxt "../test/novel_16.html+html.body.div.div.div.div.div.div.div.ul.li:322-5"
+msgid "「逃げて……きた？」"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:323-5
+msgctxt "../test/novel_16.html+html.body.div.div.div.div.div.div.div.ul.li:323-5"
+msgid "「逃げて……きた？」"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:330-1
+msgid "どんどんどん！"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:332-1
+msgid "不意に乱暴なノック音が響いて、リリアは心臓が締め付けられる思いだった。"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:334-1
+msgid "『夜分に失礼！ 警察です！ 遠間博士はご在宅ですかな！』"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:336-1
+msgid "野太い声が響く。"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:337-1
+msgid "微かに響く金属音は、おそらく小銃の金具だろう。"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:338-1
+msgid "灰桜はどうしていいか分からない様子で、ただおろおろしている。"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:341-1
+msgid "「お願い、いないって言って……」"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:343-1
+msgid "リリアは懇願するように声を上げた。とっさに灰桜の小さな手を取る。"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:344-1
+msgid "ちらりと車椅子に乗せられた人形を見つめる。"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:345-1
+msgid "灰桜に協力して貰わなければ。どうやって？ この少女型の、無邪気で無力な人形の心に訴えなければ……。"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:347-1
+msgid "「この子、徴用されるの。戦争に取られてしまうのよ」"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:349-1
+msgid "外に悟られないように小声で、それでいて切々と訴える。"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:351-1
+msgid "「私の友達なの、離ればなれになりたくない……だから逃げてきたの」"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:353-1
+msgid "果たして、リリアの懇願は灰桜に届いた。"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:354-1
+msgid "ぎゅっとリリアの手を、灰桜は両手で握りしめる。"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:355-1
+msgid "すこし煤で汚れていて、でもぽかぽかと暖かかった。"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:362-5
+msgctxt "../test/novel_16.html+html.body.div.div.div.div.div.div.div.ul.li:362-5"
+msgid "「任せてください、リリアさん！」"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:363-5
+msgctxt "../test/novel_16.html+html.body.div.div.div.div.div.div.div.ul.li:363-5"
+msgid "「任せてください、リリアさん！」"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.p:370-1
+msgid "鼻息も荒く、力強く頷く。"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:377-5
+msgctxt "../test/novel_16.html+html.body.div.div.div.div.div.div.div.ul.li:377-5"
+msgid "「わたし、お役に立ちます！」"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:378-5
+msgctxt "../test/novel_16.html+html.body.div.div.div.div.div.div.div.ul.li:378-5"
+msgid "「わたし、お役に立ちます！」"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.div.div.div:385-1
+msgid ""
+"<a href=\"novel_15.html\">＜＜前のエピソード</a> <a href=\"novel_17.html\""
+">次のエピソード＞＞</a>"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div.p:393-1
+msgid "執筆：丘野塔也 挿絵：まろやか ＣＶ：和氣あず未（灰桜）"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div:401-1
+msgid "目次へ戻る"
+msgstr ""
+
+#: ../test/novel_16.html%2Bhtml.body.div.div:402-1
+msgid "©VISUAL ARTS / Key"
+msgstr ""

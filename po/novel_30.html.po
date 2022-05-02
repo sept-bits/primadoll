@@ -1,0 +1,525 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-02 21:10+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.2\n"
+
+#: ../test/novel_30.html%2Bhtml[lang]:2-1
+msgid "ja"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.head.title:8-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】 | Key"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.head.meta[content]:9-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.head.meta[content]:10-1
+msgid "Key,キー,kinetic,novel,キネティックノベル"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div:44-1
+msgid "プリマドール・アンコール"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div:48-1
+msgid "05-1 異邦人形（1）"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div:52-1
+msgid ""
+"<a href=\"novel_29.html\">＜＜前のエピソード</a> <a href=\"novel.html\">目次</a> <a "
+"href=\"novel_31.html\">次のエピソード＞＞</a>"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:60-1
+msgid "皇都に雨が降る。"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:61-1
+msgid "朝からどんよりとした曇り空。昼下がりにはしとしと泣いて石畳を濡らして、夜になったいまでも微かな雨音を残している。"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:62-1
+msgid "それも当然で、なぜなら梅雨真っ盛りだからだ。"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:63-1
+msgid ""
+"閉店したばかりの黒猫亭。丁寧にテーブルを拭いていると、じわりと額に汗が滲んでくる。微かに空いた小窓から、吹き込んでくるひんやりとした風が心地よい。お店の片"
+"隅では、シャノがしきりに顔を洗っていた。"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:65-1
+msgid "鴉羽「ららら～ら～らら～♪ ら～ららら～♪」"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:67-1
+msgid ""
+"鼻歌交じりに、床をモップがけしているのは鴉羽さんだ。いつもは気を張っているのに、こんなに上機嫌なのは珍しい。そういえば、営業中もずっと笑顔だったっけ。"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:69-1
+msgid "鴉羽「ららら～らら～♪」"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:71-1
+msgid "ブーツを鳴らして、華麗にくるりとターン。"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:72-1
+msgid "ますます様子がおかしい。雨続きのせいで客足もいまいち、食材の足は速いし、髪だってうまくまとまらないはずなのに。"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:74-1
+msgid "宇佐美「……なにか、いいことあったんですかね？」"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:75-1
+msgid "箒星「ふふふ……実はですねぇー」"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:77-1
+msgid ""
+"隣で砂糖壺を回収している箒星さんに話を振る。今日は酒屋さんのお仕事は休みをもらったらしく、黒猫亭の手伝い兼ボクの料理修行に付き合ってくれていた。"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:79-1
+msgid "箒星「先代のオーナーが帰国するらしいですよ」"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:80-1
+msgid "宇佐美「先代というと……」"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:81-1
+msgid "箒星「そう、鴉羽さんやわたしたちを直してくれたマスターです。ずっと大陸にいってたんですけどねぇー」"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:82-1
+msgid "宇佐美「奥宮さんが言ってましたね。アルタリアですか？」"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:83-1
+msgid "箒星「ローベリアですよ」"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:84-1
+msgid "宇佐美「え゛」"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:86-1
+msgid "思わず掃除の手を止めて、顔を上げる。"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:88-1
+msgid "宇佐美「あのローベリアですか」"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:89-1
+msgid "箒星「はい、３６年間ずーーーっと戦争していた帝政ローベリアです」"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:90-1
+msgid "宇佐美「知らなかった……行けるものなんですね」"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:91-1
+msgid "箒星「終戦したとはいえ、すごく大変だったみたいですよー。でも、平和的な技術交換ということとで……」"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:92-1
+msgid "宇佐美「それでいけたんですね」"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:93-1
+msgid "箒星「裏技と寝技を使ってなんとかねじ込んだとか」"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:94-1
+msgid "宇佐美「ははは……勇気ありますね」"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:95-1
+msgid "箒星「一度言い出したら聞かない人ですからねぇ」"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:96-1
+msgid "宇佐美「でも、鴉羽さんは心配だったでしょうね。無事で帰ってきてくれるといいんですが」"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:97-1
+msgid "箒星「きっと、それは問題ありませんよ。レーツェルを連れて行きましたから」"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:98-1
+msgid "宇佐美「レーツェル……」"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:99-1
+msgid "箒星「彼女は、ローベリア製の<ruby>自律人形<rt>オートマタ</rt></ruby>ですから」"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:101-1
+msgid "箒星さんと話をしていると、ドアベルが涼やかな音を響かせる。"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:103-1
+msgid "灰桜「ただいまですっ」"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:105-1
+msgid "帰ってきたのは灰桜だ。"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:106-1
+msgid "こうもり傘を畳んで、雨粒を落としている。"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:107-1
+msgid "お使いがあって、オーナーの奥宮さんの元へ足を運んでいたのだ。"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:109-1
+msgid "宇佐美「お帰り、濡れなかった？」"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:111-1
+msgid "いちおうタオルを持って出迎える。"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:113-1
+msgid "灰桜「雨下駄を借りたのでへっちゃらです！ それより大変なことが起きました」"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:114-1
+msgid "宇佐美「ええっ、どうしたの？」"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:115-1
+msgid "箒星「背嚢に雨が入ったとか？ だったら念のため点検しないと……」"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:117-1
+msgid "灰桜の言葉を聞きつけて、箒星もやってくる。"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:119-1
+msgid "灰桜「いえ、油紙を巻いていただいたのでそれは大丈夫なのですが～」"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:120-1
+msgid "宇佐美「じゃあ大変なことって？」"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:121-1
+msgid "灰桜「<ruby>機械人形<rt>メカニカ</rt></ruby>の暴走事故があったそうです！」"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:123-1
+msgid "その言葉に、ぴくりと反応する鴉羽。"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:125-1
+msgid "鴉羽「……なんですって？」"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:126-1
+msgid "灰桜「二区で騒ぎになったそうです」"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:127-1
+msgid "鴉羽「まさか、戦闘用<ruby>機械人形<rt>メカニカ</rt></ruby>？ でも、それはもう……」"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:128-1
+msgid "灰桜「いえ、こう、大きめの……わんこぐらいのサイズだそうです！」"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:129-1
+msgid "宇佐美「……わんこ？」"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:131-1
+msgid "どうにも想像ができない。"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:132-1
+msgid ""
+"ボクの知る<ruby>機械人形<rt>メカニカ</rt></ruby>と言えば、厳めしくて重量感のある戦闘用人形だ。停戦条約にも盛り込まれている通り、製造"
+"・運用が禁止されている。戦後すぐは十分管理されておらず、事故も多かったが、最近はすっかり対策されているはずだ。"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:134-1
+msgid "箒星「きっと荷役用の第四世代人形ですね。“銀太郎”じゃないでしょうか？」"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:135-1
+msgid "鴉羽「ああ、なるほど」"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:136-1
+msgid "宇佐美「そんなのがあるんですか？」"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:137-1
+msgid "鴉羽「山岳地帯で荷物を運ぶために開発された人形よ。犬にも見えるかもしれないわね。戦闘力はないけれど……」"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:138-1
+msgid "箒星「でも、馬力はあるので、けっこう危ないですよ」"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:139-1
+msgid "灰桜「みゅっ、怖いです」"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:140-1
+msgid "鴉羽「……その子も可哀想ね」"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:142-1
+msgid "箒星さんと鴉羽さんいわく、暴走人形というのは正確ではないらしい。"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:143-1
+msgid ""
+"<ruby>機械人形<rt>メカニカ</rt></ruby>は命令がないと動けない。自分の上位機種が誤った命令を送ったり、過去の命令を取り消さずにおいてい"
+"る場合がある。すると、傍から見るとまるで理解不能の行動を取っているように見える。この状態を暴走と称するのだ。"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:144-1
+msgid ""
+"おそらくその“銀太郎”も、なにかの輸送命令が残り続けたままだったのだろう。たまたま誰かが見つけて、物珍しさで起動した結果、こういう結果になったのだろう……"
+"ということだ。"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:146-1
+msgid "鴉羽「気をつけないとね。あまり夜に外を出歩かないほうがいいわ」"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:147-1
+msgid "箒星「わたし、いまから酒屋さんに帰るのですが……」"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:148-1
+msgid "鴉羽「箒星なら大丈夫じゃないかしら？」"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:149-1
+msgid "箒星「心配してくださいよ～」"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.div:151-2
+msgctxt "../test/novel_30.html+html.body.div.div.div.div.div:151-2"
+msgid "＊ ＊ ＊"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:154-1
+msgid "閉店してからもしばらく、箒星さんは練習に付き合ってくれた。"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:155-1
+msgid ""
+"さすがに焼き上がるのを待っていると遅くなりすぎるので、オーブンにセットするところまで手伝ってもらってから帰宅してもらった。暴走事故は気になるけれど、箒星さ"
+"んは実のところあまり気にしていない様子だった。鴉羽さんの言うとおり、箒星さんなら大丈夫……なのかもしれない。"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:157-1
+msgid "宇佐美「よしよし、いい感じにできたぞ」"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:159-1
+msgid ""
+"オーブンを開けると、甘い香りが厨房中に立ちこめる。長方形のケーキ型の中で、こんがりと膨らんでいる姿。テーブルの上に取り出してみると、ほかほかと蒸気を漏らし"
+"ながら、ふかふかと柔らかそうに揺れた。平刃のナイフで切り分けてみると……"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:161-1
+msgid "宇佐美「……おお」"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:163-1
+msgid ""
+"思わず感嘆の声が漏れる。パウンドケーキの中は見事な黄金色で、レーズンならぬほくほくした黒豆が底面に詰まっている。見栄えは申し分ない。あつあつの一切れを頬張"
+"ってみると、思わず飛び上がりそうなほどおいしい。"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:165-1
+msgid "これは売り物になる。"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:167-1
+msgid ""
+"珈琲との相性もばっちりで、みんなも賛成してくれるだろう。ボクはさっそく小さく切り分けると、小皿にせっせと盛っていた。この感動を分かち合いたい。これぐらいの"
+"大きさなら人形でも食べられるだろう。最初に誘うなら、やっぱり彼女だろうと思った。"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.div:168-2
+msgctxt "../test/novel_30.html+html.body.div.div.div.div.div:168-2"
+msgid "＊ ＊ ＊"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:171-1
+msgid "宇佐美「灰桜、起きてる？」"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:173-1
+msgid "ドアをノックするが、反応はない。"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:174-1
+msgid "いるのかな？と思って、すこしだけドアを開けて呼びかけてみた。"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:176-1
+msgid "宇佐美「ありゃ……寝てるのか」"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:178-1
+msgid "ちらりと細くて白い足が覗いていた。"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:179-1
+msgid ""
+"灰桜はお腹の上で手を組んで、ベッドに横になっていた。目は閉じて、穏やかな寝顔を見せている。正確にいうと寝ているのではなくて、電源を切って休眠状態になってい"
+"るのだけど。論理機関はあまり長時間稼働させるのはよくないらしく、こうして人間と同じように休ませる必要があるのだという。"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:181-1
+msgid "宇佐美（せっかくだし、置いていこうかな）"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:183-1
+msgid "布巾をかけておけば乾かないだろう。冷めてもおいしいと、箒星さんも言っていたし。だから室内に入ると、机の上にそっとお皿を置いた。"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:185-1
+msgid "宇佐美「………」"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:187-1
+msgid "灰桜の姿を見る。"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:188-1
+msgid ""
+"真っ暗な室内。月光だけがその顔を照らし出している。まるで子供みたいな、無垢な寝顔だ。いや、実際灰桜は子供なのかもしれない。大事なことはなにひとつ憶えていな"
+"くて、だけど大切なことはしっかり憶えている……。"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:189-1
+msgid "なんだかその柔らかな髪を撫でたくなって、そっと手を伸ばす。"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:190-1
+msgid "ふわりと風が吹いて、その前髪を揺らした。"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:197-5
+msgctxt "../test/novel_30.html+html.body.div.div.div.div.div.div.div.ul.li:197-5"
+msgid "「なに者ですの？」"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:198-5
+msgctxt "../test/novel_30.html+html.body.div.div.div.div.div.div.div.ul.li:198-5"
+msgid "「なに者ですの？」"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:204-1
+msgid "冷たい声が響いた。"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:205-1
+msgid "気がつくと窓が開いていて、カーテンが揺れている。聞こえたのは、ボクでも、灰桜でも、ましてや黒猫亭のどの人形でもない声……。"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:212-5
+msgctxt "../test/novel_30.html+html.body.div.div.div.div.div.div.div.ul.li:212-5"
+msgid "「お姉様から、手を離しなさい」"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:213-5
+msgctxt "../test/novel_30.html+html.body.div.div.div.div.div.div.div.ul.li:213-5"
+msgid "「お姉様から、手を離しなさい」"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:219-1
+msgid "月光差し込む窓辺。まるで猫のようなしなやかさで身体を起こす黒い影。"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:220-1
+msgid "切りそろえられた銀髪が、さらりと流れる。赤い瞳が、じっとボクを見つめていた。"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:221-1
+msgid "宇佐美「………え？」"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:222-1
+msgid "と思った次の瞬間。"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:223-1
+msgid "彼女は消えていた。まるで最初からそこに存在していなかったように。"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:224-1
+msgid "いったいいまのは何だったのだろう……？"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:234-5
+msgctxt "../test/novel_30.html+html.body.div.div.div.div.div.div.div.ul.li:234-5"
+msgid "「動かないでくださいな」"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:235-5
+msgctxt "../test/novel_30.html+html.body.div.div.div.div.div.div.div.ul.li:235-5"
+msgid "「動かないでくださいな」"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:241-1
+msgid "宇佐美「ひぃ！？」"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:244-1
+msgid "気がつけば、首筋に冷たい感触がある。"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:245-1
+msgid "背後に気配がある。手袋に包まれた、しなやかな指先。"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.p:246-1
+msgid "そこに握られているのは――冷たい輝きを放つナイフだ。"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div.div.div:253-1
+msgid ""
+"<a href=\"novel_29.html\">＜＜前のエピソード</a> <a href=\"novel_31.html\">次のエピソード＞＞</"
+"a><br> <br><br> <a href=\"https://docs.google.com/forms/d/e/"
+"1FAIpQLSdhB2kW8Tk7HpuzAdeCxmOG858asuw3Gt5Bcillqu5u-iFf4A/viewform\""
+">【こちらのフォームよりご意見・ご感想をお寄せください】</a><br>もれなくデジタルコンテンツをプレゼント！"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.p:265-1
+msgid "執筆：丘野塔也 挿絵：まろやか ＣＶ：鬼頭明里（レーツェル）"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div:269-1
+msgid "目次へ戻る"
+msgstr ""
+
+#: ../test/novel_30.html%2Bhtml.body.div.div.div:270-1
+msgid "©VISUAL ARTS / Key"
+msgstr ""

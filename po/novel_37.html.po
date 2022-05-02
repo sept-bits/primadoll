@@ -1,0 +1,497 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-02 21:10+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.2\n"
+
+#: ../test/novel_37.html%2Bhtml[lang]:2-1
+msgid "ja"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.head.title:8-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】 | Key"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.head.meta[content]:9-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.head.meta[content]:10-1
+msgid "Key,キー,kinetic,novel,キネティックノベル"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div:44-1
+msgid "プリマドール・アンコール"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div:48-1
+msgid "06-04 雪華文様(4)"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div:52-1
+msgid ""
+"<a href=\"novel_36.html\">＜＜前のエピソード</a> <a href=\"novel.html\">目次</a> <a "
+"href=\"novel_38.html\">次のエピソード＞＞</a>"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.p:62-1
+msgid "銀世界は、相変わらず陽光を受けて輝いていた。"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.p:63-1
+msgid "昨晩はすこし冷えていたから、また雪が降ったのかも知れない。"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.p:64-1
+msgid "街道は一度雪除けをしたようで、泥混じりの轍の跡がくっきりと残っていた。"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.p:65-1
+msgid "背中の煙突から白い蒸気を静かにたなびかせながら、地図に沿って目的地へと向かう。"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:72-102
+msgctxt "../test/novel_37.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:72-102"
+msgid "「ここかしら……」"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:73-103
+msgctxt "../test/novel_37.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:73-103"
+msgid "「ここかしら……」"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.p:80-1
+msgid "やってきたのは、港……というのはあまりにこぢんまりとした波止場だ。"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.p:81-1
+msgid "簡素な桟橋と、小さな倉庫。毛皮帽を被った郵便夫の男がのんびりと働いている。"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:88-102
+msgctxt "../test/novel_37.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:88-102"
+msgid "「あの、すみません」"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:89-103
+msgctxt "../test/novel_37.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:89-103"
+msgid "「あの、すみません」"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.p:96-1
+msgid "話しかけると、ずいぶん物珍しそうに鴉羽を見つめてきた。そもそも自律人形を見慣れていない様子だ。"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:103-102
+msgctxt "../test/novel_37.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:103-102"
+msgid "「遠間ナギの使いで来たのですが……」"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:104-103
+msgctxt "../test/novel_37.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:104-103"
+msgid "「遠間ナギの使いで来たのですが……」"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.p:110-1
+msgid "郵便夫「ああ、荷物の件だな」"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.p:112-1
+msgid "合点した様子を見せる。"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.p:113-1
+msgid "ランドセルの上に背負い込んでいた風呂敷包みを解くと、小包を取り出した。"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.p:115-1
+msgid "郵便夫「東邦人は不思議な運び方をするもんだ」"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.p:117-1
+msgid "そういえば、アルタリア人は麻で作った頭陀袋で荷物を運ぶのが常だ。鴉羽からすると、そちらのほうがよほど持ち運びにくそうだけれど。"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:124-102
+msgctxt "../test/novel_37.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:124-102"
+msgid "「ここはずいぶん、のんびりとしていますね」"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:125-103
+msgctxt "../test/novel_37.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:125-103"
+msgid "「ここはずいぶん、のんびりとしていますね」"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.p:131-1
+msgid "郵便夫「もう何十年もドンパチやっているらしいが、この島は変わりないさ」"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:137-102
+msgctxt "../test/novel_37.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:137-102"
+msgid "「配給は滞っていませんか」"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:138-103
+msgctxt "../test/novel_37.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:138-103"
+msgid "「配給は滞っていませんか」"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.p:144-1
+msgid "郵便夫「自分たちの食い扶持は、自分たちで採れるからな。変わったことと言えば、たまにあんたら皇軍が来ることぐらいさ」"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.p:146-1
+msgid ""
+"鴉羽がいた西南部戦線とは大違いだ。ヘレナ諸島は前線から遠く離れているし、戦略上の要衝でもない。漁業と農業で成り立っている小さな島だ。だからこそ、皇軍も保養"
+"所に指定したのだろう。"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:153-102
+msgctxt "../test/novel_37.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:153-102"
+msgid "「……この島に<ruby>機械人形<rt>メカニカ</rt></ruby>はありませんか？」"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:154-103
+msgctxt "../test/novel_37.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:154-103"
+msgid "「……この島に<ruby>機械人形<rt>メカニカ</rt></ruby>はありませんか？」"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.p:160-1
+msgid "郵便夫「どうかな、農作業用に使っているだろうが……」"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.p:162-1
+msgid "そう水を向けると、郵便夫は言葉を濁した。"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:169-102
+msgctxt "../test/novel_37.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:169-102"
+msgid "「よかった、あたしお手伝いしたいんです。いまはこんな格好ですが、実は……」"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:170-103
+msgctxt "../test/novel_37.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:170-103"
+msgid "「よかった、あたしお手伝いしたいんです。いまはこんな格好ですが、実は……」"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.p:176-1
+msgid "郵便夫「やめておきな」"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:182-102
+msgctxt "../test/novel_37.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:182-102"
+msgid "「え……」"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:183-103
+msgctxt "../test/novel_37.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:183-103"
+msgid "「え……」"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.p:189-1
+msgid ""
+"郵便夫「俺はこういう仕事だから慣れているが……この島の人間は余所者を信用しない。ましてや東邦人ならなおさらだ。お互い関わり合いにならないほうが幸せってもん"
+"だ」"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.p:191-1
+msgid "確かに、鴉羽たちはこの島にとって異物だ。彼らにとっては遥か遠い東方。この大陸を征するためにやってきたのだから。"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:198-102
+msgctxt "../test/novel_37.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:198-102"
+msgid "「……すみません、失礼しました」"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:199-103
+msgctxt "../test/novel_37.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:199-103"
+msgid "「……すみません、失礼しました」"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.p:206-1
+msgid "風呂敷を畳むと、ぺこりと頭を下げてその場を辞した。"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.div:208-2
+msgid "＊ ＊ ＊"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.p:211-1
+msgid "帰り道、海岸沿いを歩いて行く。"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.p:212-1
+msgid ""
+"対岸にうっすらと大陸の地が覗いている。ボートの一艘もあれば渡れそうだが、実際は海流が早いのでそう簡単な話ではないらしい。とはいえ視界に入る波は穏やかで、水"
+"鳥が空を滑空していた。"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.p:213-1
+msgid ""
+"しかし、この島の穏やかさは島民のものであって、鴉羽たちに与えられるものではない。仮初めの楽天地……そう思うと、なんとなく居心地の悪い気持ちだった。"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:220-102
+msgctxt "../test/novel_37.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:220-102"
+msgid "「……あら？」"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:221-103
+msgctxt "../test/novel_37.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:221-103"
+msgid "「……あら？」"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.p:228-1
+msgid ""
+"ふと、枯草色の機体が目に付いた。トラックほどの大きさ、甲殻類を思わせるフォルム。四本脚……農耕作業用の機械人形だ。ずいぶん年期が入った様子なので、皇国で使"
+"われていたものが中古として売り払われたのだろう。春に向けて試運転でもしているのだろうか……。"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:235-102
+msgctxt "../test/novel_37.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:235-102"
+msgid "「故障かしら……」"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:236-103
+msgctxt "../test/novel_37.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:236-103"
+msgid "「故障かしら……」"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.p:243-1
+msgid "煙突からは黒々とした煙が上がっている。うまく燃料が燃焼できていないようだ。エンジンの問題か、あるいは論理機関がうまく働いていないのか。"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.p:244-1
+msgid "型番を確認する。これならば鴉羽にも扱えるはずだ。論理機関同士を共鳴させて繋げば、問題も把握できるだろう。だからそっとその体躯に手を触れさせた。"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:251-102
+msgctxt "../test/novel_37.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:251-102"
+msgid "「指揮権を把握……」"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:252-103
+msgctxt "../test/novel_37.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:252-103"
+msgid "「指揮権を把握……」"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.p:259-1
+msgid "微かな共鳴振動。視界が赤く明滅する。"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.p:260-1
+msgid "戦場でいつもそうしていたように、機械人形を操ろうとした。"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:267-102
+msgctxt "../test/novel_37.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:267-102"
+msgid "「……っ」"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:268-103
+msgctxt "../test/novel_37.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:268-103"
+msgid "「……っ」"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.p:275-1
+msgid "微かに、胸の中でちりっと灼けるような感覚があった。"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.p:276-1
+msgid "慌てて手を離す。義体温度が上がっている。慌てて冷却を促そうと、ランドセルが蒸気を噴くのが分かった。"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:283-102
+msgctxt "../test/novel_37.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:283-102"
+msgid "「どうして……」"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:284-103
+msgctxt "../test/novel_37.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:284-103"
+msgid "「どうして……」"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.p:291-1
+msgid "自分の手を見つめる。"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:298-102
+msgctxt "../test/novel_37.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:298-102"
+msgid "「<ruby>機械人形<rt>メカニカ</rt></ruby>を指揮できない……」"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:299-103
+msgctxt "../test/novel_37.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:299-103"
+msgid "「<ruby>機械人形<rt>メカニカ</rt></ruby>を指揮できない……」"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.p:306-1
+msgid "女の子「なにやってるの？」"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.p:308-1
+msgid "ハッとなって振り返った。"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.p:309-1
+msgid "そこには十歳ぐらいの女の子が、工具を片手に立っていた。"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.p:311-1
+msgid "女の子「その子に触らないで」"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:317-102
+msgctxt "../test/novel_37.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:317-102"
+msgid "「違うのよ、あたしは……」"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:318-103
+msgctxt "../test/novel_37.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:318-103"
+msgid "「違うのよ、あたしは……」"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.p:324-1
+msgid "女の子「皇国の戦争人形がなんの用！？」"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.p:326-1
+msgid "ぎゅっと工具を握りしめている。いざとなったら、この武器で機械人形を守るとでも言うように。"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.p:327-1
+msgid "この島の人間は余所者を信用しない。ましてや東邦人ならなおさらだ――郵便夫の言葉が思い出された。"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:334-102
+msgctxt "../test/novel_37.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:334-102"
+msgid "「……ごめんなさい、すこし気になっただけなの」"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:335-103
+msgctxt "../test/novel_37.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:335-103"
+msgid "「……ごめんなさい、すこし気になっただけなの」"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.p:342-1
+msgid "だから、鴉羽も関わり合いになるのは避けようと思った。"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.p:343-1
+msgid "そっと機械人形から離れると、距離を取る。"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.p:344-1
+msgid "女の子は警戒しながらも、体躯の上に乗り、なんとか修理しようと試みている。しかしその手つきはどうにも拙く、直せるような雰囲気はない。"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.p:345-1
+msgid ""
+"それでも放っておいたほうがいいだろう。地元の島民と無用な軋轢を抱えるべきではない。そっとこの場を立ち去って、マスターに小包を届ければそれでいいのだ。"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:352-102
+msgctxt "../test/novel_37.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:352-102"
+msgid "「………」"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:353-103
+msgctxt "../test/novel_37.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:353-103"
+msgid "「………」"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.p:360-1
+msgid "しばらく雪道を歩いて、ふと振り返った。"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.p:361-1
+msgid "まだ黒煙がたなびいている。"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.p:362-1
+msgid "しばし逡巡して、やがて鴉羽はきびすを返していた。"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:369-102
+msgctxt "../test/novel_37.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:369-102"
+msgid "「あの、お手伝いしましょうか」"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:370-103
+msgctxt "../test/novel_37.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:370-103"
+msgid "「あの、お手伝いしましょうか」"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.p:376-1
+msgid "女の子「……戦争人形の手は借りないわ」"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:382-102
+msgctxt "../test/novel_37.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:382-102"
+msgid "「違うの、いまは……その、メイド……のようなことをやっているのよ」"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:383-103
+msgctxt "../test/novel_37.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:383-103"
+msgid "「違うの、いまは……その、メイド……のようなことをやっているのよ」"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.p:389-1
+msgid "女の子「メイドの人形……？」"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.p:391-1
+msgid "その言葉はよほど違和感があったらしく、怪訝そうな表情を浮かべる。"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:398-102
+msgctxt "../test/novel_37.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:398-102"
+msgid "「あたしには直せないけど……マスターならきっと大丈夫。この子、押していきましょう」"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:399-103
+msgctxt "../test/novel_37.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:399-103"
+msgid "「あたしには直せないけど……マスターならきっと大丈夫。この子、押していきましょう」"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.p:405-1
+msgid "女の子「え……？」"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:411-102
+msgctxt "../test/novel_37.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:411-102"
+msgid "「あたしは<ruby>自律人形<rt>オートマタ</rt></ruby>だから。これぐらいへっちゃらよ」"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:412-103
+msgctxt "../test/novel_37.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:412-103"
+msgid "「あたしは<ruby>自律人形<rt>オートマタ</rt></ruby>だから。これぐらいへっちゃらよ」"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div.div.div:424-1
+msgid ""
+"<a href=\"novel_36.html\">＜＜前のエピソード</a> <a href=\"novel_38.html\">次のエピソード＞＞</"
+"a><br> <br><br> <a href=\"https://docs.google.com/forms/d/e/"
+"1FAIpQLSdhB2kW8Tk7HpuzAdeCxmOG858asuw3Gt5Bcillqu5u-iFf4A/viewform\""
+">こちらのフォームよりご意見・ご感想をお寄せください</a><br>もれなくデジタルコンテンツをプレゼント！"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.p:436-1
+msgid "執筆：丘野塔也 挿絵：まろやか ＣＶ：楠木ともり（鴉羽）"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div:440-1
+msgid "目次へ戻る"
+msgstr ""
+
+#: ../test/novel_37.html%2Bhtml.body.div.div.div:441-1
+msgid "©VISUAL ARTS / Key"
+msgstr ""

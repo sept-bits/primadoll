@@ -1,0 +1,394 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-02 21:10+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.2\n"
+
+#: ../test/novel_07.html%2Bhtml[lang]:2-1
+msgid "ja"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.head.title:8-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】 | Key"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.head.meta[content]:9-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.head.meta[content]:10-1
+msgid "Key,キー,kinetic,novel,キネティックノベル"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div:44-1
+msgid "プリマドール・アンコール"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div:48-1
+msgid "01-07 戦闘人形であります（１）"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div:52-1
+msgid ""
+"<a href=\"novel_06.html\">＜＜前のエピソード</a> <a href=\"novel.html\">目次</a> <a "
+"href=\"novel_08.html\">次のエピソード＞＞</a>"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.p:60-1
+msgid ""
+"石鹸で入念に手を洗うと、真新しいシャツとエプロンに袖を通す。三角巾で髪を抑えて、姿見の前でチェックする。なかなか様になっている。コック帽でもあればなお良か"
+"ったけれど、それは贅沢だろう。"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:67-5
+msgctxt "../test/novel_07.html+html.body.div.div.div.div.div.div.div.ul.li:67-5"
+msgid "「準備、出来ましたか」"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:68-5
+msgctxt "../test/novel_07.html+html.body.div.div.div.div.div.div.div.ul.li:68-5"
+msgid "「準備、出来ましたか」"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.p:75-1
+msgid "上機嫌でいると、背後から声をかけられた。"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.p:77-1
+msgid "「あれ……？」"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.p:79-1
+msgid "ちらりと後ろを見つめるが、誰の姿も見えない。おかしい、いま確かに聞こえたのに……。"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:88-5
+msgctxt "../test/novel_07.html+html.body.div.div.div.div.div.div.div.ul.li:88-5"
+msgid "「下であります」"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:89-5
+msgctxt "../test/novel_07.html+html.body.div.div.div.div.div.div.div.ul.li:89-5"
+msgid "「下であります」"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.p:96-1
+msgid "「わっ」"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.p:98-1
+msgid "ほとんど真下から声が響いて、思わずぱっと後じさる。"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.p:99-1
+msgid "そこには子供のように小さな人形がいた。"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.p:100-1
+msgid "檸檬のように鮮やかな黄色の着物。大ぶりの黒いリボンが揺れている。じっとボクを見る大きな瞳。小さな口をじっと結んでおり、表情は読み取れない。"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:107-5
+msgctxt "../test/novel_07.html+html.body.div.div.div.div.div.div.div.ul.li:107-5"
+msgid "「月下であります」"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:108-5
+msgctxt "../test/novel_07.html+html.body.div.div.div.div.div.div.div.ul.li:108-5"
+msgid "「月下であります」"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.p:116-1
+msgid "まるで軍人さんのようなぶっきらぼうの口調だ。"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.p:117-1
+msgid "そういえば、鴉羽さんはいま３体の人形が働いていると言っていた。灰桜、鴉羽、そして月下。彼女で全員ということだろう。"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.p:119-1
+msgid "「案内してくれるんだね、ありがとう……」"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.p:121-1
+msgid "小さく頷くと、スタスタと歩いて行く。"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.p:122-1
+msgid ""
+"背中の背嚢はやや大ぶりで、羽根のような意匠が取り付けられていた。厨房入り口に突っかかりそうだったが、そこは心得ているらしく、くるりと体を横にして通り抜けて"
+"いる。"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.p:123-1
+msgid "後に付いていくと、小さいながらも清潔な厨房が現れる。"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.p:124-1
+msgid "中央には調理台。壁面には多種多様なフライパンをはじめ調理器具が吊されている。舶来ものだろうガスレンジに、なんと湯沸器まで備え付けている。"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.p:126-1
+msgid "「メニューはどんな感じなのかな？」"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:132-5
+msgctxt "../test/novel_07.html+html.body.div.div.div.div.div.div.div.ul.li:132-5"
+msgid "「こちらをご覧ください」"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:133-5
+msgctxt "../test/novel_07.html+html.body.div.div.div.div.div.div.div.ul.li:133-5"
+msgid "「こちらをご覧ください」"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.p:141-1
+msgid "調理台の引き出しを開けると、月下は一冊のノートを取り出した。"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:148-5
+msgctxt "../test/novel_07.html+html.body.div.div.div.div.div.div.div.ul.li:148-5"
+msgid "「レシピ帳であります」"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:149-5
+msgctxt "../test/novel_07.html+html.body.div.div.div.div.div.div.div.ul.li:149-5"
+msgid "「レシピ帳であります」"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.p:156-1
+msgid "「ありがとう。わ、すごく細かい……」"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.p:158-1
+msgid ""
+"ページをめくると、万年筆でレシピが書き付けてある。微に入り細を穿つような、丁寧な説明文だ。分かりにくいところには簡単なイラストまで添えられている。これを書"
+"いた人はよほど筆まめなのだろう。"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:165-5
+msgctxt "../test/novel_07.html+html.body.div.div.div.div.div.div.div.ul.li:165-5"
+msgid "「以前の厨房係が残していったノートであります」"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:166-5
+msgctxt "../test/novel_07.html+html.body.div.div.div.div.div.div.div.ul.li:166-5"
+msgid "「以前の厨房係が残していったノートであります」"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.p:173-1
+msgid "「これだけあるとバッチリだよ。腕の振るいがいがあるなぁ」"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:179-5
+msgctxt "../test/novel_07.html+html.body.div.div.div.div.div.div.div.ul.li:179-5"
+msgid "「それほどお客さんが来ればいいのですが」"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:180-5
+msgctxt "../test/novel_07.html+html.body.div.div.div.div.div.div.div.ul.li:180-5"
+msgid "「それほどお客さんが来ればいいのですが」"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.p:186-1
+msgid "「というと……それほどでもないってこと？」"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:192-5
+msgctxt "../test/novel_07.html+html.body.div.div.div.div.div.div.div.ul.li:192-5"
+msgid "「黒猫亭は青息吐息でありますので」"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:193-5
+msgctxt "../test/novel_07.html+html.body.div.div.div.div.div.div.div.ul.li:193-5"
+msgid "「黒猫亭は青息吐息でありますので」"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.p:199-1
+msgid "厨房の小窓から、フロアを見つめている。"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.p:200-1
+msgid ""
+"いまは開店前なのでもちろんがらんとしているが、とても席が埋まらないということだろうか。考えてみれば、黒猫亭に来るのは２回目。営業中の様子は確認していない。"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.p:202-1
+msgid "「雰囲気もいいし、人形が接客してくれる店なんてないから、流行りそうなものだけど」"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:208-5
+msgctxt "../test/novel_07.html+html.body.div.div.div.div.div.div.div.ul.li:208-5"
+msgid "「人形に好意的な人ばかりではありませんので」"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:209-5
+msgctxt "../test/novel_07.html+html.body.div.div.div.div.div.div.div.ul.li:209-5"
+msgid "「人形に好意的な人ばかりではありませんので」"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.p:215-1
+msgid "「出征していた人はそうかもね」"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.p:217-1
+msgid "人形を見ると、辛い記憶を思い出すという人は多いだろう。"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.p:219-1
+msgid "「でも、月下たちは戦闘人形じゃないから、それは偏見だよね」"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:225-5
+msgctxt "../test/novel_07.html+html.body.div.div.div.div.div.div.div.ul.li:225-5"
+msgid "「月下は戦闘人形であります」"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:226-5
+msgctxt "../test/novel_07.html+html.body.div.div.div.div.div.div.div.ul.li:226-5"
+msgid "「月下は戦闘人形であります」"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.p:232-1
+msgid "「え？」"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.p:234-1
+msgid "さも当然と言うので、改めてその姿を見る。"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.p:235-1
+msgid "小さい。初等科３年生ぐらいだろうか。確かに落ち着きはあるけれど、戦闘人形のような威圧感はとても感じられない。"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:242-5
+msgctxt "../test/novel_07.html+html.body.div.div.div.div.div.div.div.ul.li:242-5"
+msgid "「なにか？」"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:243-5
+msgctxt "../test/novel_07.html+html.body.div.div.div.div.div.div.div.ul.li:243-5"
+msgid "「なにか？」"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.p:249-1
+msgid "「ああ、いや……そんな風に見えないから」"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.p:251-1
+msgid "これで、なにか特技があるのかもしれない。"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.p:253-1
+msgid "「目から電撃が出るとか」"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:259-5
+msgctxt "../test/novel_07.html+html.body.div.div.div.div.div.div.div.ul.li:259-5"
+"../test/novel_07.html+html.body.div.div.div.div.div.div.div.ul.li:259-5"
+"../test/novel_07.html+html.body.div.div.div.div.div.div.div.ul.li:259-5"
+"../test/novel_07.html+html.body.div.div.div.div.div.div.div.ul.li:259-5"
+msgid "「出ないであります」"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:260-5
+msgctxt "../test/novel_07.html+html.body.div.div.div.div.div.div.div.ul.li:260-5"
+msgid "「出ないであります」"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.p:266-1
+msgid "「口から光線を放つとか」"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:272-5
+msgctxt "../test/novel_07.html+html.body.div.div.div.div.div.div.div.ul.li:272-5"
+msgid "「出ないであります」"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:273-5
+msgid "「出ないであります」」"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.p:280-1
+msgid "「あ、背中の羽根が飛び出てさ、こうブーメランみたいに敵を切り裂いて……」"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:286-5
+msgctxt "../test/novel_07.html+html.body.div.div.div.div.div.div.div.ul.li:286-5"
+msgid "「出ないであります」"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:287-5
+msgctxt "../test/novel_07.html+html.body.div.div.div.div.div.div.div.ul.li:287-5"
+msgid "「出ないであります」"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.p:293-1
+msgid "問答していると、たたたた……と跳ねるような足音が聞こえてきた。"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.p:295-1
+msgid "灰桜「月下さん、うささん、大変です！」"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.p:297-1
+msgid "髪を揺らしてやってくるのは灰桜だ。"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.p:299-1
+msgid "「なにか問題が？」"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.p:300-1
+msgid "灰桜「ごみ捨て場が荒らされていますっ！」"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.p:302-1
+msgid "「え……」"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.p:304-1
+msgid "もしかして……不審者？"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.p:305-1
+msgid "ボクたちだけじゃ対応できないかもしれない。"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.p:307-1
+msgid "「いや、でも……」"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.p:309-1
+msgid "月下をちらりと見つめる。"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.p:310-1
+msgid "戦闘人形の月下なら、もしかして……？"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.div.div.div:314-1
+msgid ""
+"<a href=\"novel_06.html\">＜＜前のエピソード</a> <a href=\"novel_08.html\""
+">次のエピソード＞＞</a>"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div.p:324-1
+msgid "執筆：丘野塔也 挿絵：まろやか ＣＶ：富田美憂（月下）"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div:328-1
+msgid "目次へ戻る"
+msgstr ""
+
+#: ../test/novel_07.html%2Bhtml.body.div.div:329-1
+msgid "©VISUAL ARTS / Key"
+msgstr ""

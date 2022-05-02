@@ -1,0 +1,613 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-02 21:10+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.2\n"
+
+#: ../test/novel_33.html%2Bhtml[lang]:2-1
+msgid "ja"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.head.title:8-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】 | Key"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.head.meta[content]:9-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.head.meta[content]:10-1
+msgid "Key,キー,kinetic,novel,キネティックノベル"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div:44-1
+msgid "プリマドール・アンコール"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div:48-1
+msgid "05-4 異邦人形（4）－終－"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div:52-1
+msgid ""
+"<a href=\"novel_32.html\">＜＜前のエピソード</a> <a href=\"novel.html\">目次</a> <a "
+"href=\"novel_34.html\">次のエピソード＞＞</a>"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:60-1
+msgid "灰桜「らららー………らららららー……」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:62-1
+msgid "調子外れの歌を口ずさむ。"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:64-1
+msgid "灰桜「鴉羽さん、お掃除のときいつも歌っていて……とっても楽しそうです」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:66-1
+msgid "からころと、濡れた石畳の上で雨下駄を鳴らしている。"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:67-1
+msgid "頭上には、ふわふわと揺れる蝙蝠傘。"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:68-1
+msgid "もう片手には、きれいに折りたたまれたもう一本の傘。宇佐美用にと持って来たものだ。"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:70-1
+msgid "灰桜「わたしもいつか、あんな風に歌えるのでしょうか～……」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:72-1
+msgid "月明かりの無い曇り空。白々とした街灯の灯りだけを頼りに歩いていく。"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:74-1
+msgid "灰桜「それにしても、今日は静かな夜ですねえ」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:76-1
+msgid "聞こえてくるのは雨音だけ。"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:77-1
+msgid "夜遅くとはいえ、普段ならいくらか人通りがあるはずだが、今日はすれ違うこともない。"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:79-1
+msgid "灰桜「やっぱり雨のせいでしょうか～……みゅ？」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:81-1
+msgid "二区と三区を繋ぐ、代官橋にさしかかったところだった。"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:82-1
+msgid "ふと、背後になにやら気配を感じて、灰桜は振り返った。"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:84-1
+msgid "灰桜「これはこれは、こんばんはです！」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:86-1
+msgid "そこにいるのは、大型犬ほどの大きさで、鈍い銀色の光沢を放つ存在。"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:87-1
+msgid "背中には荷台が取り付けられており、もの言わぬ単眼がじっと灰桜を捕らえている。"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:88-1
+msgid "その関節部からは、ぶすぶすと黒い煙が漏れ出しており……？"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.div:90-2
+msgid "＊ ＊ ＊"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:93-1
+msgid "灰桜「うみゅみゅみゅみゅみゅみゅーーーーーーー！」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:94-1
+msgid "宇佐美「あれは、灰桜の声！？」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:96-1
+msgid "三区方面に急いで、代官橋に差し掛かろうというところ。"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:97-1
+msgid "遠くから悲鳴のような声が聞こえてきた。"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:104-100
+msgctxt "../test/novel_33.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:104-100"
+msgid "「お姉様……！」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:105-101
+msgctxt "../test/novel_33.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:105-101"
+msgid "「お姉様……！」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:112-1
+msgid "ボクと箒星の前を走っていたレーツェルがさらに加速、スカートを翻して駆けていく。"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:114-1
+msgid "灰桜「たすっ……助けてくださぁああああい！」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:116-1
+msgid "前方から、何かに追われるように逃げてくる灰桜の姿。"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:117-1
+msgid "何度か転んだのだろう、着物も髪も汚れており、履き物すら脱げてしまっていた。"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:118-1
+msgid "その後ろには……。"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:120-1
+msgid "箒星「やっぱり、銀太郎です！」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:122-1
+msgid "黒い煙を噴き上げて、灰桜を追い回す姿。"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:123-1
+msgid "機械仕掛けの四足荷役人形、銀太郎が暴走していた。"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:130-100
+msgctxt "../test/novel_33.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:130-100"
+msgid "「いま参りますわ！」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:131-101
+msgctxt "../test/novel_33.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:131-101"
+msgid "「いま参りますわ！」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:138-1
+msgid "レーツェルはたっと地面を蹴って、雨空に舞い上がっていた。"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:145-100
+msgctxt "../test/novel_33.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:145-100"
+msgid "「お姉様を付け狙う泥棒猫！ じゃなくて犬！」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:146-101
+msgctxt "../test/novel_33.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:146-101"
+msgid "「お姉様を付け狙う泥棒猫！ じゃなくて犬！」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:153-1
+msgid "銀太郎とすれ違いざまに、一瞬、ナイフの切っ先が煌めく。"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:160-100
+msgctxt "../test/novel_33.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:160-100"
+msgid "「許しませんの！」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:161-101
+msgctxt "../test/novel_33.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:161-101"
+msgid "「許しませんの！」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:168-1
+msgid "一閃――。"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:169-1
+msgid "銀太郎の前脚が、宙を舞った。"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:171-1
+msgid "宇佐美「うわあああああっ！？」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:173-1
+msgid "勢い余ってボクの近くに飛んできて、思わず頭を抱える。"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:174-1
+msgid "銀太郎は当然体勢を維持することが出来ず、けたたましい金属音を立てて転がっていた。"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:176-1
+msgid "灰桜「うささ～～～～～ん～～～～」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:178-1
+msgid "なんとも情けない声を上げて、よろよろと近づいてくる灰桜。"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:180-1
+msgid "宇佐美「も、もう……大丈夫だよ」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:181-1
+msgid "灰桜「び、びっくりしましたぁ～～～～～」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:183-1
+msgid "その体をぎゅっと抱きしめる。"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:184-1
+msgid "はらはらと泣きぬれながら、すがりついてきていた。"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:186-1
+msgid "宇佐美「ほら、もう追いかけてきたりしないから」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:187-1
+msgid "灰桜「みゅうぅぅぅっ……」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:189-1
+msgid "銀太郎はじたばたじたばた、残った足を動かしてもがいている。"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:190-1
+msgid "先程まではなんとも恐ろしかった暴走人形だが、こうなると哀れでもある。"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:192-1
+msgid "灰桜「……あぁ」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:193-1
+msgid "宇佐美「灰桜？」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:194-1
+msgid "灰桜「なんだか……痛そうです」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:196-1
+msgid "ゆっくりと銀太郎に近づいていく。"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:198-1
+msgid "箒星「この子も混乱していたんですねぇ。無理矢理起こされて、可哀想に」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:200-1
+msgid "箒星も同じくその機体に近づいて、同情の瞳を向ける。"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:202-1
+msgid "箒星「自分の役目を無くして……どうしていいか分からなかったのでしょう」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:203-1
+msgid "灰桜「みゅ……」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:204-1
+msgid "箒星「灰ちゃん？」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:206-1
+msgid "そっと手を差し出している灰桜。"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:207-1
+msgid "銀太郎の体に触れている。"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:209-1
+msgctxt "../test/novel_33.html+html.body.div.div.div.div.p:209-1"
+msgid "灰桜「………」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:211-1
+msgid "灰桜のその瞳が、ほのかな赤い光を放つ。"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:212-1
+msgid "それに呼応するように、銀太郎の単眼も赤く発光する。"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:213-1
+msgid "そして……。"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:215-1
+msgid "灰桜「……起動停止」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:217-1
+msgid "ひときわ大きな金属音を立てて、銀太郎は動きを止めていた。"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:219-1
+msgid "箒星「リンク、したんですか？」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:220-1
+msgid "灰桜「は、はい……なんとなく……そうしなくちゃいけない気がして～……」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:221-1
+msgid "箒星「よく思い出せましたね」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:222-1
+msgid "灰桜「みゅ？」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:223-1
+msgid "箒星「いいえ、なんでもないです」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:224-1
+msgid "灰桜「あ、と、ところで……さっき助けていただいた方は？」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:226-1
+msgid "はっと思い出したように顔を上げる。"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:227-1
+msgid "しかし、すでにレーツェルの姿は代官橋の上にはない。"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:234-100
+msgctxt "../test/novel_33.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:234-100"
+msgid "「別に、名乗るほどの者ではありませんわ」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:235-101
+msgctxt "../test/novel_33.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:235-101"
+msgid "「別に、名乗るほどの者ではありませんわ」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:241-1
+msgid "しとしとと降りしきる雨。"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:242-1
+msgid "その髪を濡らしながら、外灯の上で佇んでいた。"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:244-1
+msgid "灰桜「そ、そんなところ危ないですよ！」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:253-100
+msgctxt "../test/novel_33.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:253-100"
+msgid "「わたくしなら平気です。どんな場所からでもお姉さまを見守れますの」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:254-101
+msgctxt "../test/novel_33.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:254-101"
+msgid "「わたくしなら平気です。どんな場所からでもお姉さまを見守れますの」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:260-1
+msgid "灰桜「……みゅ？」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:266-100
+msgctxt "../test/novel_33.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:266-100"
+msgid "「わたくしはいつもお側にいます……それだけは覚えておいてくださいませ」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:267-101
+msgctxt "../test/novel_33.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:267-101"
+msgid "「わたくしはいつもお側にいます……それだけは覚えておいてくださいませ」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:274-1
+msgid "猫のようなしなやかさで、そっと背中を向けている。"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:281-100
+msgctxt "../test/novel_33.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:281-100"
+msgid "「……さようなら」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:282-101
+msgctxt "../test/novel_33.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:282-101"
+msgid "「……さようなら」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:289-1
+msgid "ちらりと、悲しい瞳を浮かべて。"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:291-1
+msgctxt "../test/novel_33.html+html.body.div.div.div.div.p:291-1"
+msgid "灰桜「………」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:293-1
+msgid "そして、ひとり夜の闇に消えていった……"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:295-1
+msgid "灰桜「レーツェルさん！？」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:297-1
+msgid "唐突にその名前を呼んで、驚きの声が漏れる。"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:299-1
+msgid "箒星・宇佐美「「ええええええ？」」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:301-1
+msgid "続いて、なにやら地面に落ちる音。"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:303-1
+msgid "宇佐美「あ、落ちた」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:305-1
+msgid "立ち去ろうとしたレーツェルが、足を取られてそのまま地面に打ち付けられていた。"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:312-100
+msgctxt "../test/novel_33.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:312-100"
+msgid "「い、いま……なんて……」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:313-101
+msgctxt "../test/novel_33.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:313-101"
+msgid "「い、いま……なんて……」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:320-1
+msgid "鼻頭を赤くしながら、涙で潤んだ瞳を向ける。"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:321-1
+msgid "たっと、その姿に灰桜は駆け寄っていた。"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:323-1
+msgid "灰桜「こんばんは、レーツェルさん」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:329-100
+msgctxt "../test/novel_33.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:329-100"
+msgid "「………」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:330-101
+msgctxt "../test/novel_33.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:330-101"
+msgid "「………」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:336-1
+msgid "灰桜「なんだか、すごくお久しぶりな気がします。みゅみゅみゅ……いつお別れしたのか、それは思い出せないのですが～……」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:342-100
+msgctxt "../test/novel_33.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:342-100"
+msgid "「あ、ああ……」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:343-101
+msgctxt "../test/novel_33.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:343-101"
+msgid "「あ、ああ……」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:350-1
+msgid "ぽろりと涙が溢れる。"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:357-100
+msgctxt "../test/novel_33.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:357-100"
+msgid "「お姉さまぁぁぁぁ～～～～」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:358-101
+msgctxt "../test/novel_33.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:358-101"
+msgid "「お姉さまぁぁぁぁ～～～～」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:364-1
+msgid "灰桜「みゅみゅみゅっ！？」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:366-1
+msgid "がばりとその小さな体に抱きついて、泣き濡れている。"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:368-1
+msgid "宇佐美「灰桜……思い出したんだ」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:370-1
+msgid "なんだかそんな様子を見ていると、ボクまで泣けてくる。"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:372-1
+msgid "箒星「もしかすると、この子が刺激になったのかもしれませんね」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:374-1
+msgid "箒星さんは、すりすりと銀太郎の体を擦っている。"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:376-1
+msgid ""
+"箒星「<ruby>自律人形<rt>オートマタ</rt></ruby>は、<ruby>機械人形<rt>メカニカ</rt></ruby>と繋がれます……リンク"
+"をすると、その子の経験が覗けるんです。この子は意外と愛されていたのかもしれませんねえー」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:377-1
+msgid "宇佐美「よかった……よかったです」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:378-1
+msgid "箒星「直してもらって……いつかまた、働ける日が来るといいですね」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:380-1
+msgid "しみじみとした箒星さんの言葉。"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:381-1
+msgid "気づけば、いつの間にか雨が止んで、爽やかな風が吹いている。"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:388-100
+msgctxt "../test/novel_33.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:388-100"
+msgid "「うわぁぁぁぁ～～～～～ん……」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li.a.p:389-101
+msgctxt "../test/novel_33.html+html.body.div.div.div.div.div.div.div.ul.li.a.p:389-101"
+msgid "「うわぁぁぁぁ～～～～～ん……」"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.p:396-1
+msgid "灰桜に抱きついた、レーツェルの泣き声だけが響いていた。"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div.div.div:399-1
+msgid ""
+"<a href=\"novel_32.html\">＜＜前のエピソード</a> <a href=\"novel_34.html\">次のエピソード＞＞</"
+"a><br> <br><br> <a href=\"https://docs.google.com/forms/d/e/"
+"1FAIpQLSdhB2kW8Tk7HpuzAdeCxmOG858asuw3Gt5Bcillqu5u-iFf4A/viewform\""
+">【こちらのフォームよりご意見・ご感想をお寄せください】</a><br>もれなくデジタルコンテンツをプレゼント！"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.p:411-1
+msgid "執筆：丘野塔也 挿絵：まろやか ＣＶ：鬼頭明里（レーツェル）"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div:415-1
+msgid "目次へ戻る"
+msgstr ""
+
+#: ../test/novel_33.html%2Bhtml.body.div.div.div:416-1
+msgid "©VISUAL ARTS / Key"
+msgstr ""

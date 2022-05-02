@@ -1,0 +1,680 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-02 21:10+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.2\n"
+
+#: ../test/novel_09.html%2Bhtml[lang]:2-1
+msgid "ja"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.head.title:8-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】 | Key"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.head.meta[content]:9-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.head.meta[content]:10-1
+msgid "Key,キー,kinetic,novel,キネティックノベル"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div:45-1
+msgid "プリマドール・アンコール"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div:49-1
+msgid "01-09 桜とカフェ（１）"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div:53-1
+msgid ""
+"<a href=\"novel_08.html\">＜＜前のエピソード</a> <a href=\"novel.html\">目次</a> <a "
+"href=\"novel_10.html\">次のエピソード＞＞</a>"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:59-1
+msgid "沸き立つケトルを手に取ると、そっと優しくドリッパーに湯を落とす。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:60-1
+msgid "細い注ぎ口からじゅっという音と共に蒸気が昇る。挽き立ての珈琲豆がふわりと膨らんで、香ばしい匂いが厨房中に拡がった。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:61-1
+msgid "自分で言うのもなんだけど、なかなか手慣れてきたと思う。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:62-1
+msgid "コーヒーカップに移して試飲してみる。ざらめ糖は大さじ２杯。どっしりとしたコクと甘さが感じられて、なんとも落ち着く味わいだった。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:63-1
+msgid ""
+"開け放たれた小窓からは、春の匂いが漂ってくる。裏手にある小さな桜も満開を迎えており、ごくさりげなくその枝を覗かせて、小ぶりの花びらを揺らせている。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:70-5
+msgctxt "../test/novel_09.html+html.body.div.div.div.div.div.div.div.ul.li:70-5"
+msgid "「桜って、なんだかおいしそうですね」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:71-5
+msgctxt "../test/novel_09.html+html.body.div.div.div.div.div.div.div.ul.li:71-5"
+msgid "「桜って、なんだかおいしそうですね」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:78-1
+msgid "珈琲を傾けながら外を眺めていると、灰桜の声。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:79-1
+msgid "片手には砂糖壺やカトラリーの入ったバスケット。開店前にテーブルウェアを整えてくれていたのだ。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:81-1
+msgid "「それって桃色だから？」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:87-5
+msgctxt "../test/novel_09.html+html.body.div.div.div.div.div.div.div.ul.li:87-5"
+msgid "「はい、いちごとクリームを混ぜた色です」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:88-5
+msgctxt "../test/novel_09.html+html.body.div.div.div.div.div.div.div.ul.li:88-5"
+msgid "「はい、いちごとクリームを混ぜた色です」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:94-1
+msgid "「なるほどねぇ」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:96-1
+msgid "自律人形は油で動く。いちごクリームも燃料になるのかもしれない。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:98-1
+msgid "「桜は食べられるんだよ？」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:104-5
+msgid "「えっ……そうなんですか！」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:105-5
+msgid "「「えっ……そうなんですか！」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:111-1
+msgid "「花びらも食べられるし、なんだったら葉っぱも。バニラみたいな甘い香りがするんだよ」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:117-5
+msgctxt "../test/novel_09.html+html.body.div.div.div.div.div.div.div.ul.li:117-5"
+msgid "「はー……」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:118-5
+msgctxt "../test/novel_09.html+html.body.div.div.div.div.div.div.div.ul.li:118-5"
+msgid "「はー……」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:125-1
+msgid "目を丸くして驚いている。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:132-5
+msgctxt "../test/novel_09.html+html.body.div.div.div.div.div.div.div.ul.li:132-5"
+msgid "「うささん、素敵な情報をありがとうございます！」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:133-5
+msgctxt "../test/novel_09.html+html.body.div.div.div.div.div.div.div.ul.li:133-5"
+msgid "「うささん、素敵な情報をありがとうございます！」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:140-1
+msgid "バスケットを片付けている灰桜。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:141-1
+msgid "そのまま裏口から、意気揚々と出かけていった。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:142-1
+msgid "小窓から覗く桜は、さっきよりもゆさゆさと揺れている……。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:144-1
+msgid "「灰桜、食べちゃダメだよ！」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:146-1
+msgid "慌てて後を追うと、声を上げた。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:153-5
+msgctxt "../test/novel_09.html+html.body.div.div.div.div.div.div.div.ul.li:153-5"
+msgid "「みゅ゛っ」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:154-5
+msgctxt "../test/novel_09.html+html.body.div.div.div.div.div.div.div.ul.li:154-5"
+msgid "「みゅ゛っ」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:161-1
+msgid "時既におそし。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:162-1
+msgid "灰桜の口内には、葉っぱと花房が詰め込まれていた。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:169-5
+msgctxt "../test/novel_09.html+html.body.div.div.div.div.div.div.div.ul.li:169-5"
+msgid "「おいひくないです～……」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:170-5
+msgctxt "../test/novel_09.html+html.body.div.div.div.div.div.div.div.ul.li:170-5"
+msgid "「おいひくないです～……」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:176-1
+msgid "「そのまま食べられないんだよ……」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:178-1
+msgid "えぐえぐしながらえづいている。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:179-1
+msgid "目尻には涙まで滲んでいる。実際には冷却液らしいけれど。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:181-1
+msgid "「ほら、吐いて。毒もあるよ」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:187-5
+msgctxt "../test/novel_09.html+html.body.div.div.div.div.div.div.div.ul.li:187-5"
+msgid "「みみゅ゛っ！」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:188-5
+msgctxt "../test/novel_09.html+html.body.div.div.div.div.div.div.div.ul.li:188-5"
+msgid "「みみゅ゛っ！」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:194-1
+msgid "涙目になって、青くなっている灰桜。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:195-1
+msgid "とにかく背中をさすってやろうと思ったが、手に触れたのは冷たい背嚢の感触。消化器官には違いないので、一応なでなでしておいた。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.div:197-2
+msgid "＊ ＊ ＊"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:200-1
+msgid "「むむむ……」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:202-1
+msgid "鏡の前で、むにむにとほっぺたを触っている鴉羽。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:204-1
+msgid "「……えへ」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:206-1
+msgid "すこし首を傾げて、にっこりと破顔。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:208-1
+msgid "「うん、笑顔よし」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:210-1
+msgid "くるりとスカートを踊らせて、こちらに向き直る。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:212-1
+msgid "「じゃあ、今日も一日頑張っていきましょうっ！」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:214-1
+msgid "鴉羽の明るい声がフロアに響く。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:216-1
+msgid "「はいっ！」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:218-1
+msgid "続いて、灰桜の元気な声。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:220-1
+msgid "「了解であります」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:222-1
+msgid "月下はいつものクールな様子。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:224-1
+msgid "「食事の仕込みもバッチリだよ」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:226-1
+msgid "エプロンをきゅっと締め直すと、気持ちも新たになる。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:228-1
+msgid "「喫茶黒猫亭、開店します！」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:230-1
+msgid "さっそくドアベルの音が響く。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:231-1
+msgid "今日一番目のご来客だ。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:234-1
+msgid "口元に手を添えると、ぺっぺと吐き出させる。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:241-5
+msgctxt "../test/novel_09.html+html.body.div.div.div.div.div.div.div.ul.li:241-5"
+msgid "「「「いらっしゃいませ！」」」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:242-5
+msgctxt "../test/novel_09.html+html.body.div.div.div.div.div.div.div.ul.li:242-5"
+msgid "「「「いらっしゃいませ！」」」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:248-1
+msgid "自律人形と、そしてそこに混じったボクの声が出迎えていた。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.div:250-2
+msgid "※ ※ ※"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:253-1
+msgid "それから数日が経った。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:255-1
+msgid "「朝は多少忙しいんだけどなぁ……」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:257-1
+msgid "きぃ、と丸椅子が軋んだ音を立てる。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:258-1
+msgid "厨房の中、若干時間を持て余して、小窓からフロアを覗き込む。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:259-1
+msgid "客足はまばらだ。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:260-1
+msgid "数日間勤務して分かったことだが、黒猫亭は基本的に常連客に支えられている。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:261-1
+msgid "例えばいま窓際で、本を読んでいる銀縁眼鏡の紳士。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:262-1
+msgid "黒い背広に、黒いネクタイ。傾けるのはいつもブラックコーヒー。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:263-1
+msgid "昨日もいたし、一昨日もいたし、何だったらずっとこの時間あの場所にいる気がする。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:264-1
+msgid "そういうお客さんは他にもいて、ぱっと思いつく顔がいくつもある。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:265-1
+msgid "でも、それ以外の一見さんがいるかというと、あまり記憶にない。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:267-1
+msgid "「おっと、もうこんな時間か」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:269-1
+msgid "フロアの壁影時計が、ぼーんぼーんと低い音を立てる。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:271-1
+msgid "「ということは、きっと……」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:273-1
+msgid "ボクの手は、自然と冷蔵庫に伸びる。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:274-1
+msgid "ひんやりとした冷気を感じながら氷の塊を取り出すと、アイスピックで砕き始める。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:275-1
+msgid "小さな氷を２～３個グラスに入れる。くるくると回すと、たちまちグラスが汗をかきはじめた。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:283-5
+msgctxt "../test/novel_09.html+html.body.div.div.div.div.div.div.div.ul.li:283-5"
+msgid "「注文であります」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:284-5
+msgctxt "../test/novel_09.html+html.body.div.div.div.div.div.div.div.ul.li:284-5"
+msgid "「注文であります」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:291-1
+msgid "月下が小窓から、注文伝票を差し出す。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:298-5
+msgctxt "../test/novel_09.html+html.body.div.div.div.div.div.div.div.ul.li:298-5"
+msgid "「ティーパンチ一人前」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:299-5
+msgctxt "../test/novel_09.html+html.body.div.div.div.div.div.div.div.ul.li:299-5"
+msgid "「ティーパンチ一人前」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:305-1
+msgid "「はいよ」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:307-1
+msgid "やっぱりだ。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:308-1
+msgid "ちらりとフロアを覗くと、新聞を片手に持った女性が席に腰をおろしている。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:309-1
+msgid "フェルトの帽子にパンツスタイル。彼女も常連客の一人だ。記者さんか、はたまた弁理士さんか。仕事が終わるこの時間、決まってティーパンチを頼むのだ。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:310-1
+msgid ""
+"今朝からりんご、レモン、みかんを漬け込んでおいた紅茶ポットを取り出す。改めてグラスを氷でいっぱいにして、琥珀色を半ばまで。ソーダを注意深く注いで、最後に飾"
+"りのレモンを……。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:312-1
+msgid "「……そうだ」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:314-1
+msgid "ふと、あることを思いつく。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:315-1
+msgid "冷蔵庫を確認すると、ちょうど食べごろだった。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:322-5
+msgctxt "../test/novel_09.html+html.body.div.div.div.div.div.div.div.ul.li:322-5"
+msgid "「おまたせしました」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:323-5
+msgctxt "../test/novel_09.html+html.body.div.div.div.div.div.div.div.ul.li:323-5"
+msgid "「おまたせしました」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:330-1
+msgid "ぺこりとお辞儀をして、月下が給仕をする。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:331-1
+msgid "反応が気になって、厨房から顔を出して、そんな様子を眺めていた。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:338-5
+msgctxt "../test/novel_09.html+html.body.div.div.div.div.div.div.div.ul.li:338-5"
+msgid "「ティーパンチであります」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:339-5
+msgctxt "../test/novel_09.html+html.body.div.div.div.div.div.div.div.ul.li:339-5"
+msgid "「ティーパンチであります」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:346-1
+msgid "コースターの上に、そっとグラスを置く。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:347-1
+msgid "フロア接客は基本的に月下と灰桜のお仕事だ。基本的に月下は仕事が確実で、間違いというものがない。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:348-1
+msgid ""
+"もっとも愛想はないので、ニコニコしている灰桜の存在は貴重だったりする。いまも壁際に控えて、レコードの音に合わせて揺れていた。こっちに気づいて、小さく手を振"
+"ってくれる。くすんだ桜色の髪が揺れる。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:350-1
+msgid "「あら？」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:352-1
+msgid "新聞から目を外すと、早速女性は気づいた。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:354-1
+msgid "「いつもと違うのね」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:360-5
+msgctxt "../test/novel_09.html+html.body.div.div.div.div.div.div.div.ul.li:360-5"
+msgid "「本日のティーパンチはこちらになるであります」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:361-5
+msgctxt "../test/novel_09.html+html.body.div.div.div.div.div.div.div.ul.li:361-5"
+msgid "「本日のティーパンチはこちらになるであります」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:366-1
+msgid "「春だから？」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:372-5
+msgctxt "../test/novel_09.html+html.body.div.div.div.div.div.div.div.ul.li:372-5"
+msgid "「厨房係がそう言っておりましたので」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:373-5
+msgctxt "../test/novel_09.html+html.body.div.div.div.div.div.div.div.ul.li:373-5"
+msgid "「厨房係がそう言っておりましたので」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:379-1
+msgid "「そう、ありがとう」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:381-1
+msgid "くすりと微笑むとグラスを覗き込んでいる。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:383-1
+msgid "「桜の花びらなんて、洒落ているわね」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:385-1
+msgid "甘いティーパンチの中。炭酸の泡をすこしまとわせて、桜の花房が浮いていた。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:386-1
+msgid "薄くリップを引いた唇を、ストローに近づけると、そして……。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:395-5
+msgctxt "../test/novel_09.html+html.body.div.div.div.div.div.div.div.ul.li:395-5"
+msgid "「ダメですーーーーーーーーーー！！！」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:396-5
+msgctxt "../test/novel_09.html+html.body.div.div.div.div.div.div.div.ul.li:396-5"
+msgid "「ダメですーーーーーーーーーー！！！」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:403-1
+msgid "「ぶっ！」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:405-1
+msgid "どどどどどど、と灰桜が駆け寄っていた。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:406-1
+msgid "思わずむせ返っている女性客。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:413-5
+msgctxt "../test/novel_09.html+html.body.div.div.div.div.div.div.div.ul.li:413-5"
+msgid "「おきゃっお客様っ！さくっ桜には毒がありますのでっ」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:414-5
+msgctxt "../test/novel_09.html+html.body.div.div.div.div.div.div.div.ul.li:414-5"
+msgid "「おきゃっお客様っ！さくっ桜には毒がありますのでっ」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:422-1
+msgid "さすさすと背中を擦っている。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:429-5
+msgctxt "../test/novel_09.html+html.body.div.div.div.div.div.div.div.ul.li:429-5"
+msgid "「吐き出してくださいっ！ ぺっぺって！ ああ、こんなにお腹に入れてしまって……！」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:430-5
+msgctxt "../test/novel_09.html+html.body.div.div.div.div.div.div.div.ul.li:430-5"
+msgid "「吐き出してくださいっ！ ぺっぺって！ ああ、こんなにお腹に入れてしまって……！」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:441-5
+msgctxt "../test/novel_09.html+html.body.div.div.div.div.div.div.div.ul.li:441-5"
+msgid "「どうしたの灰桜っ！」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:442-5
+msgctxt "../test/novel_09.html+html.body.div.div.div.div.div.div.div.ul.li:442-5"
+msgid "「どうしたの灰桜っ！」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:450-1
+msgid "レジカウンターで帳簿をつけていた鴉羽が、騒ぎを聞きつけて飛んでくる。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:457-5
+msgctxt "../test/novel_09.html+html.body.div.div.div.div.div.div.div.ul.li:457-5"
+msgid "「鴉羽さん！ お客様にお薬をっ！ 毒を飲んでしまいました！」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:458-5
+msgctxt "../test/novel_09.html+html.body.div.div.div.div.div.div.div.ul.li:458-5"
+msgid "「鴉羽さん！ お客様にお薬をっ！ 毒を飲んでしまいました！」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:469-5
+msgctxt "../test/novel_09.html+html.body.div.div.div.div.div.div.div.ul.li:469-5"
+msgid "「なあああああっ！ 毒！？」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:470-5
+msgctxt "../test/novel_09.html+html.body.div.div.div.div.div.div.div.ul.li:470-5"
+msgid "「なあああああっ！ 毒！？」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:477-1
+msgid "ちょっとした騒動になっている。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:478-1
+msgid "我関せずといった様子で、とことこと月下がやってくる。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:485-5
+msgid "「ご指示通りお出ししました」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:486-5
+msgid "「ご指示通りお出ししました」」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:493-1
+msgid "ちらり、と横目を女性客の方へ。"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:500-5
+msgctxt "../test/novel_09.html+html.body.div.div.div.div.div.div.div.ul.li:500-5"
+msgid "「本当によかったのでありましょうか？」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:501-5
+msgctxt "../test/novel_09.html+html.body.div.div.div.div.div.div.div.ul.li:501-5"
+msgid "「本当によかったのでありましょうか？」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.p:507-1
+msgid "「ごめん、ボクのせいで……説明してくるよ、うん……」"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.div.div.div:510-1
+msgid ""
+"<a href=\"novel_08.html\">＜＜前のエピソード</a> <a href=\"novel_10.html\""
+">次のエピソード＞＞</a>"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.p:520-1
+msgid "執筆：丘野塔也 挿絵：まろやか"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div.p:520-46
+msgid "ＣＶ：和氣あず未（灰桜） 楠木ともり（鴉羽） 富田美憂（月下）"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div:524-1
+msgid "目次へ戻る"
+msgstr ""
+
+#: ../test/novel_09.html%2Bhtml.body.div.div:525-1
+msgid "©VISUAL ARTS / Key"
+msgstr ""
