@@ -41,7 +41,7 @@ msgid ""
 "<a href=\"novel_07.html\">＜＜前のエピソード</a> <a href=\"novel.html\">目次</a> <a "
 "href=\"novel_09.html\">次のエピソード＞＞</a>"
 msgstr "<a href=\"novel_07.html\">＜＜Previous episode</a> <a href=\"novel.html\">Table of contents</a> <a "
-"href=\"novel_09.html\">Next episode＞＞"
+"href=\"novel_09.html\">Next episode＞＞</a>"
 
 #: ../test/novel_08.html%2Bhtml.body.div.div.div.div.p:59-1
 msgid "「これは野良犬の仕業だね」"
