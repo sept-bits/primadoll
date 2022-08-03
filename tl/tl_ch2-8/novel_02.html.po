@@ -1,0 +1,546 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-02 21:10+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.2\n"
+
+#: ../test/novel_02.html%2Bhtml[lang]:2-1
+msgid "ja"
+msgstr ""
+
+#: ../test/novel_02.html%2Bhtml.head.title:8-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】 | Key"
+msgstr "Prima Doll Unofficial Translation 【A doll and a song. The curtain of a new story rises.】 | Key"
+
+#: ../test/novel_02.html%2Bhtml.head.meta[content]:9-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】"
+msgstr "Prima Doll Unofficial Translation 【A doll and a song. The curtain of a new story rises.】"
+
+#: ../test/novel_02.html%2Bhtml.head.meta[content]:10-1
+msgid "Key,キー,kinetic,novel,キネティックノベル"
+msgstr ""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div:44-1
+msgid "プリマドール・アンコール"
+msgstr "Prima Doll Encore"
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div:48-1
+msgid "01-02 あんぱんと自律人形（２）"
+msgstr "01-02 Anpan and Automata (2)"
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div:52-1
+msgid ""
+"<a href=\"novel_01.html\">＜＜前のエピソード</a> <a href=\"novel.html\">目次</a> <a "
+"href=\"novel_03.html\">次のエピソード＞＞</a>"
+msgstr "<a href=\"novel_01.html\">＜＜Previous episode</a> <a href=\"novel.html\">Table of contents</a> <a "
+"href=\"novel_03.html\">Next episode＞＞</a>""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.p:57-1
+msgid "ふかふかのパンはまるで太陽だ。"
+msgstr "Soft bread is like the sun."
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.p:58-1
+msgid ""
+"青い空にかざして浮かべてみると、黄金色の表皮から光が差すように神々しい。目の前のあんぱんは二つに割っているからまん丸では無いけれど、それは些細なこと。『目をつぶる』というのはこういうときにこそ使う慣用句だろう。"
+msgstr "Hold it up against the sky and watch it cast a divine light from its golden crust. The anpan had been split in half so it wasn't exactly round anymore, but that hardly mattered. Times like these are the reason for the phrase 'turn a blind eye.'"
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.p:60-1
+msgid "「いただきまーす」"
+msgstr "Thanks for the food!"
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.p:62-1
+msgid "そんなわけで、ボクはぱくっと口を開けて、あんぱんの半弧をかじった。"
+msgstr "I took a bite of the anpan."
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.p:63-1
+msgid "皮は信じられないぐらい薄くて、でもしっかりと小麦を主張してくる。"
+msgstr "The crust of the bread was unbelievably thin, but tasted firmly of good wheat flour."
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.p:64-1
+msgid "そして太陽核たるあんこはどっしりと存在感を放ち、心地よい重みと共に喉を落ちていく。全身に甘味が漲るのが分かる。"
+msgstr "And the red bean paste filled the center of the bread like the dense core of the sun. It had a pleasant weight and sweetness as I swallowed it. I could feel the sugar suffusing through my body."
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.p:66-1
+msgid "おいしい。"
+msgstr "Delicious."
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.p:67-1
+msgid "ちょっぴり涙ぐむ程に。"
+msgstr "So delicious that it brought tears to my eyes."
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:75-5
+msgctxt "../test/novel_02.html+html.body.div.div.div.div.div.div.div.ul.li:75-5"
+msgid "「はー………」"
+msgstr ""Haa....""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:76-5
+msgctxt "../test/novel_02.html+html.body.div.div.div.div.div.div.div.ul.li:76-5"
+msgid "「はー………」"
+msgstr ""Haa....""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.p:83-1
+msgid "隣で生き別れになったあんぱんを抱いて、感心したような声を漏らす。"
+msgstr "I heard a sigh from the girl sitting beside me with the other half of the anpan cradled in her hands."
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.p:84-1
+msgid "山の手城を囲むお堀。水面を望む小さなベンチにボクたちは腰掛けている。"
+msgstr "We were sitting on a bench that overlooked the moat that encircled the Yamanote castle."
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.p:85-1
+msgid "背後には満開の桜並木。"
+msgstr "Behind us stood cherry trees in full bloom."
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.p:86-1
+msgid "路面電車が二度ベルを鳴らして、滑らかにその深緑色の車体を進ませていた。"
+msgstr "A dark green tram on the street rang its bell twice, then slid forward smoothly."
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.p:88-1
+msgid "「灰桜、食べないの？」"
+msgstr ""Haizakura, aren't you going to eat?""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:95-5
+msgctxt "../test/novel_02.html+html.body.div.div.div.div.div.div.div.ul.li:95-5"
+msgid "「みゅっ、すみませんっ。あんまりおいしそうなもので……」"
+msgstr ""Myu! I'm sorry, it's just so delicious looking....""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:96-5
+msgctxt "../test/novel_02.html+html.body.div.div.div.div.div.div.div.ul.li:96-5"
+msgid "「みゅっ、すみませんっ。あんまりおいしそうなもので……」"
+msgstr ""Myu! I'm sorry, it's just so delicious looking....""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.p:103-1
+msgid "ぴょんとくすんだ桜色の髪を揺らして、大げさに声を上げる。"
+msgstr "She jumped and her dull pink hair swayed as she spoke enthusiastically."
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.p:105-1
+msgid "「本当においしいんだよ。ほら、遠慮せずに」"
+msgstr ""It's as delicious as it looks, so go ahead and eat.""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:115-5
+msgctxt "../test/novel_02.html+html.body.div.div.div.div.div.div.div.ul.li:115-5"
+msgid "「はい、いただきますっ」"
+msgstr "Yes, okay!"
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:116-5
+msgctxt "../test/novel_02.html+html.body.div.div.div.div.div.div.div.ul.li:116-5"
+msgid "「はい、いただきますっ」"
+msgstr ""Yes, okay!""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.p:123-1
+msgid "ぱくりと、同じようにあんぱんをかじる。"
+msgstr "And she took a bite of the bread just as I had."
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.p:124-1
+msgid "小さな口をめいいっぱい開けて。"
+msgstr "Then her tiny mouth opened once more."
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:132-5
+msgctxt "../test/novel_02.html+html.body.div.div.div.div.div.div.div.ul.li:132-5"
+msgid "「おいひぃですっ」"
+msgstr ""It's delicious!""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:133-5
+msgctxt "../test/novel_02.html+html.body.div.div.div.div.div.div.div.ul.li:133-5"
+msgid "「おいひぃですっ」"
+msgstr ""It's delicious!""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.p:139-1
+msgid "「食べてから喋ったほうがいいと思うよ」"
+msgstr ""We can wait to talk after you've eaten.""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:146-5
+msgctxt "../test/novel_02.html+html.body.div.div.div.div.div.div.div.ul.li:146-5"
+msgid "「んみゅっっ」"
+msgstr ""Nnmyu!!""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:147-5
+msgctxt "../test/novel_02.html+html.body.div.div.div.div.div.div.div.ul.li:147-5"
+msgid "「んみゅっっ」"
+msgstr ""Nnmyu!!""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.p:153-1
+msgid "「あと、ほっぺたにあんこついてる」"
+msgstr ""Also you have red bean paste on your cheek.""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:160-5
+msgctxt "../test/novel_02.html+html.body.div.div.div.div.div.div.div.ul.li:160-5"
+msgid "「みゅみゅーっ……！」"
+msgstr ""Myumyuu!!""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:161-5
+msgctxt "../test/novel_02.html+html.body.div.div.div.div.div.div.div.ul.li:161-5"
+msgid "「みゅみゅーっ……！」"
+msgstr ""Myumyuu!!""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.p:167-1
+msgid "「ああ、袖で拭いたらせっかくの着物が……」"
+msgstr ""Aah, if you wipe it with your sleeve your kimono will....""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:174-5
+msgctxt "../test/novel_02.html+html.body.div.div.div.div.div.div.div.ul.li:174-5"
+msgid "「おいしいです！」"
+msgstr ""It's delicious!""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:175-5
+msgctxt "../test/novel_02.html+html.body.div.div.div.div.div.div.div.ul.li:175-5"
+msgid "「おいしいです！」"
+msgstr ""It's delicious!""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.p:181-1
+msgid "「そ、そう……よかった」"
+msgstr ""Y-Yeah... that's good.""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.p:183-1
+msgid "拭き残したあんこを頬に残して、灰桜は声をあげた。"
+msgstr "Haizakura once again exclaimed enthusiastically, unaware that she'd failed to wipe the bean paste from her face."
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.p:185-1
+msgid "「人形ってあんぱん食べられるんだね」"
+msgstr ""So dolls can eat anpan, huh?""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:192-5
+msgctxt "../test/novel_02.html+html.body.div.div.div.div.div.div.div.ul.li:192-5"
+msgid "「え……？」"
+msgstr ""Eh...?""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:193-5
+msgctxt "../test/novel_02.html+html.body.div.div.div.div.div.div.div.ul.li:193-5"
+msgid "「え……？」"
+msgstr ""Eh...?""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.p:200-1
+msgid "瑠璃色の瞳をくりくりと向けてくる。"
+msgstr "She slowly turned her lapis lazuli gaze on me."
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:208-5
+msgctxt "../test/novel_02.html+html.body.div.div.div.div.div.div.div.ul.li:208-5"
+msgid "「食べてもいいんでしょうか？」"
+msgstr ""Can dolls eat anpan...?""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:209-5
+msgctxt "../test/novel_02.html+html.body.div.div.div.div.div.div.div.ul.li:209-5"
+msgid "「食べてもいいんでしょうか？」"
+msgstr ""Can dolls eat anpan...?""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.p:215-1
+msgid "「いや、ボクに聞かれても……普段はなにを食べているの？」"
+msgstr ""How would I know... what do you usually eat?""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:222-5
+msgctxt "../test/novel_02.html+html.body.div.div.div.div.div.div.div.ul.li:222-5"
+msgid ""
+"「わたしたち人形は、主に油脂を燃料源としていますっ！ ピーナッツ油、パーム油、ひまわり油の使用がすいしょーされています。け、経口摂取が可能ですが、その場合燃料貯蔵ランドセルがしっかり取り付けられていることを確認してくださいっ！」"
+msgstr ""We dolls mainly consume cooking oils as our fuel! Peanut oil, palm oil, and sunflower oil are recommended. Th-They can be consumed orally but if oral consumption is chosen be sure that the fuel storage backpack is attached!""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:223-5
+msgctxt "../test/novel_02.html+html.body.div.div.div.div.div.div.div.ul.li:223-5"
+msgid ""
+"「わたしたち人形は、主に油脂を燃料源としていますっ！ ピーナッツ油、パーム油、ひまわり油の使用がすいしょーされています。け、経口摂取が可能ですが、その場合燃料貯蔵ランドセルがしっかり取り付けられていることを確認してくださいっ！」"
+msgstr ""We dolls mainly consume cooking oils as our fuel! Peanut oil, palm oil, and sunflower oil are recommended. Th-They can be consumed orally but if oral consumption is chosen be sure that the fuel storage backpack is attached!""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.p:230-1
+msgid "きっと大事なことなので、しっかり覚えているのだろう。"
+msgstr "Seems like important information, so no wonder she'd have it memorized."
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.p:231-1
+msgid "胸を張って、自信満々に説明してくれた。"
+msgstr "She was puffed up with pride as she informed me. "
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:239-5
+msgctxt "../test/novel_02.html+html.body.div.div.div.div.div.div.div.ul.li:239-5"
+msgid "「……あんぱんに燃料源は入っているのでしょーか？」"
+msgstr ""...So anpan counts as a fuel source?""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:240-5
+msgctxt "../test/novel_02.html+html.body.div.div.div.div.div.div.div.ul.li:240-5"
+msgid "「……あんぱんに燃料源は入っているのでしょーか？」"
+msgstr ""...So anpan counts as a fuel source?""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.p:246-1
+msgid "「残念ながら」"
+msgstr ""I'm afraid not.""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:253-5
+msgctxt "../test/novel_02.html+html.body.div.div.div.div.div.div.div.ul.li:253-5"
+msgid "「入っていませんかっ」"
+msgstr ""It's not?""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:254-5
+msgctxt "../test/novel_02.html+html.body.div.div.div.div.div.div.div.ul.li:254-5"
+msgid "「入っていませんかっ」"
+msgstr ""It's not?""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.p:261-1
+msgid "「そもそも固形物だしね」"
+msgstr ""For one thing it's solid.""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:268-5
+msgctxt "../test/novel_02.html+html.body.div.div.div.div.div.div.div.ul.li:268-5"
+msgid "「みゅみゅ……固形物の場合、内燃機関を利用してしょーきゃく処分し、残った燃殻を再処理し………」"
+msgstr ""Myu myu... in the case of solids the internal-combustion engine is used to dispose of the material and the remaining ashes are reprocessed....""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:269-5
+msgctxt "../test/novel_02.html+html.body.div.div.div.div.div.div.div.ul.li:269-5"
+msgid "「みゅみゅ……固形物の場合、内燃機関を利用してしょーきゃく処分し、残った燃殻を再処理し………」"
+msgstr ""Myu myu... in the case of solids the internal-combustion engine is used to dispose of the material and the remaining ashes are reprocessed....""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.p:276-1
+msgid "じっと名残惜しそうにあんぱんを見つめながら、なにやら唸っている。"
+msgstr "She mumbled the words regretfully as she looked at the anpan."
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.p:278-1
+msgid "「つまり、お腹に入れば一緒ってことかな」"
+msgstr ""So it's all the same once it's in your stomach.""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:285-5
+msgctxt "../test/novel_02.html+html.body.div.div.div.div.div.div.div.ul.li:285-5"
+msgid "「それですーーーっ！」"
+msgstr ""That's right!""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:286-5
+msgctxt "../test/novel_02.html+html.body.div.div.div.div.div.div.div.ul.li:286-5"
+msgid "「それですーーーっ！」"
+msgstr ""That's right!""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.p:292-1
+msgid "「あ、食べた」"
+msgstr ""Ah, she ate it.""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.p:294-1
+msgid "ぱくりとかぶりついている。"
+msgstr "She took a big bite."
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:302-5
+msgctxt "../test/novel_02.html+html.body.div.div.div.div.div.div.div.ul.li:302-5"
+msgid "「あむあむ……」"
+msgstr ""Om nom...""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:303-5
+msgctxt "../test/novel_02.html+html.body.div.div.div.div.div.div.div.ul.li:303-5"
+msgid "「あむあむ……」"
+msgstr ""Om nom...""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.p:310-1
+msgid "ランドセルから伸びた煙突から、ぽっと煙が吹き出す。"
+msgstr "The small exhaust pipe attached to her backpack began to vent smoke into the air above her."
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.p:311-1
+msgid "カラメルのような、甘い香りがした。"
+msgstr "It had a sweet smell like caramel."
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:319-5
+msgctxt "../test/novel_02.html+html.body.div.div.div.div.div.div.div.ul.li:319-5"
+msgid "「本当にありがとうございます、えっと……」"
+msgstr ""Thank you so much, um...""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:320-5
+msgctxt "../test/novel_02.html+html.body.div.div.div.div.div.div.div.ul.li:320-5"
+msgid "「本当にありがとうございます、えっと……」"
+msgstr "Thank you so much, um...""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.p:327-1
+msgid "じっとボクのことを見つめる。"
+msgstr "She stared at me intently."
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.p:328-1
+msgid "呼び名を探しているのか、ちょっと考え込むように首を傾げた。"
+msgstr "She tilted her head as if trying to figure out my name."
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.p:330-1
+msgid "「……宇佐美っていうんだ。よろしく」"
+msgstr ""...I'm Usami. Nice to meet you.""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:337-5
+msgctxt "../test/novel_02.html+html.body.div.div.div.div.div.div.div.ul.li:337-5"
+msgid "「うさみさん、ですね。可愛いお名前です」"
+msgstr ""Usami-san! That's a cute name.""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:338-5
+msgctxt "../test/novel_02.html+html.body.div.div.div.div.div.div.div.ul.li:338-5"
+msgid "「うさみさん、ですね。可愛いお名前です」"
+msgstr ""Usami-san! That's a cute name.""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.p:344-1
+msgid "「ありがと。前の職場ではうささんって呼ばれてたよ」"
+msgstr ""Thank you. They called me Usa-san at my workplace.""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:351-5
+msgctxt "../test/novel_02.html+html.body.div.div.div.div.div.div.div.ul.li:351-5"
+msgid "「では、わたしもそうお呼びしていいですか？」"
+msgstr ""Is it okay if I call you that as well?""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:352-5
+msgctxt "../test/novel_02.html+html.body.div.div.div.div.div.div.div.ul.li:352-5"
+msgid "「では、わたしもそうお呼びしていいですか？」"
+msgstr ""Is it okay if I call you that as well?""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.p:358-1
+msgid "「もちろん構わないよ」"
+msgstr ""Of course, I don't mind.""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:365-5
+msgctxt "../test/novel_02.html+html.body.div.div.div.div.div.div.div.ul.li:365-5"
+msgid "「わたしは、灰桜といいますっ」"
+msgstr ""I am Haizakura.""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:366-5
+msgctxt "../test/novel_02.html+html.body.div.div.div.div.div.div.div.ul.li:366-5"
+msgid "「わたしは、灰桜といいますっ」"
+msgstr ""I am Haizakura.""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.p:372-1
+msgid "「うん、さっき聞いたかな」"
+msgstr ""Yes, you told me.""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:379-5
+msgctxt "../test/novel_02.html+html.body.div.div.div.div.div.div.div.ul.li:379-5"
+msgid "「皆さまのお役に立つ、<ruby>自律人形<rt>オートマタ</rt></ruby>です」"
+msgstr ""I am an Automata made to improve the lives of those around me.""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:380-5
+msgctxt "../test/novel_02.html+html.body.div.div.div.div.div.div.div.ul.li:380-5"
+msgid "「皆さまのお役に立つ、<ruby>自律人形<rt>オートマタ</rt></ruby>です」"
+msgstr ""I am an Automata made to improve the lives of those around me.""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.p:386-1
+msgid "「どうも、そうらしいね」"
+msgstr ""Yes, so it seems.""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:393-5
+msgctxt "../test/novel_02.html+html.body.div.div.div.div.div.div.div.ul.li:393-5"
+msgid "「うささんは、人形を見ても驚かないのですね」"
+msgstr ""Usa-san, you're not surprised to see a doll?""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:394-5
+msgctxt "../test/novel_02.html+html.body.div.div.div.div.div.div.div.ul.li:394-5"
+msgid "「うささんは、人形を見ても驚かないのですね」"
+msgstr ""Usa-san, you're not surprised to see a doll?""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.p:400-1
+msgid "「子供の頃、大陸にいたんだ。戦時中はたくさん人形がいたし、それに……」"
+msgstr ""When I was a child I was on the mainland. There were many dolls during the war. Plus....""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:407-5
+msgctxt "../test/novel_02.html+html.body.div.div.div.div.div.div.div.ul.li:407-5"
+msgid "「それに？」"
+msgstr ""Plus?""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:408-5
+msgctxt "../test/novel_02.html+html.body.div.div.div.div.div.div.div.ul.li:408-5"
+msgid "「それに？」"
+msgstr ""Plus?""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.p:414-1
+msgid "「友達の人形も、たくさんいたんだよ」"
+msgstr ""I had many doll friends as well.""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:421-5
+msgctxt "../test/novel_02.html+html.body.div.div.div.div.div.div.div.ul.li:421-5"
+msgid "「みゅみゅ、そうだったのですか……！」"
+msgstr ""Myumyu! I see...!!""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:422-5
+msgctxt "../test/novel_02.html+html.body.div.div.div.div.div.div.div.ul.li:422-5"
+msgid "「みゅみゅ、そうだったのですか……！」"
+msgstr ""Myumyu! I see...!!""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.p:429-1
+msgid "２人で他愛のない話をしながら、もぐもぐとあんぱんを頬張る。"
+msgstr "We sat and chatted while we ate our anpan."
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.p:430-1
+msgid "春のうららかさの下、なんともゆったりした時間が流れる。"
+msgstr "The time passed slowly as we relaxed in the spring sunlight."
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.p:431-1
+msgid "なんだか、ひどく懐かしいような気がした。"
+msgstr "Something about it felt incredibly nostalgic."
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.p:433-1
+msgid "「ところで……」"
+msgstr ""So...""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.p:435-1
+msgid "ちょっぴりお腹が膨れたところで、抱いていた疑問を口にする。"
+msgstr "Now that my stomach was feeling satisfied I decided to ask the question that had been on my mind."
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.p:437-1
+msgid "「灰桜は、パン屋で働いているの？」"
+msgstr ""Do you work at a bakery, Haizakura?""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:444-5
+msgctxt "../test/novel_02.html+html.body.div.div.div.div.div.div.div.ul.li:444-5"
+msgid "「みゅ？」"
+msgstr ""Myu?""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:445-5
+msgctxt "../test/novel_02.html+html.body.div.div.div.div.div.div.div.ul.li:445-5"
+msgid "「みゅ？」"
+msgstr ""Myu?""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.p:453-1
+msgid "きょとんとした様子で首を傾げている。"
+msgstr "She tilted her head quizzically."
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.p:455-1
+msgid "「いや、あんぱんを売っていたから」"
+msgstr ""You're selling anpan, so I wondered....""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:462-5
+msgctxt "../test/novel_02.html+html.body.div.div.div.div.div.div.div.ul.li:462-5"
+msgid "「違うのです、話せば長くなりますが……」"
+msgstr ""No, it would take a while to explain....""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:463-5
+msgctxt "../test/novel_02.html+html.body.div.div.div.div.div.div.div.ul.li:463-5"
+msgid "「違うのです、話せば長くなりますが……」"
+msgstr ""No, it would take a while to explain....""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.p:471-1
+msgid "なにやら深い事情があるらしい。"
+msgstr "Apparently the situation was more complicated than I'd guessed."
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.p:472-1
+msgid "ボクは居住まいを正すと、彼女の声に耳を傾けようとした。"
+msgstr "I sat up and listened more closely."
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.p:473-1
+msgid "彼女がここにいたるまで、それはそれは大きな波乱があったのだろうか……？"
+msgstr "Had something happened to her...?"
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:481-5
+msgctxt "../test/novel_02.html+html.body.div.div.div.div.div.div.div.ul.li:481-5"
+msgid "「実はわたしは、喫茶店で働く人形なのですが……」"
+msgstr ""I'm actually a doll that works in a cafe....""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:482-5
+msgctxt "../test/novel_02.html+html.body.div.div.div.div.div.div.div.ul.li:482-5"
+msgid "「実はわたしは、喫茶店で働く人形なのですが……」"
+msgstr ""I'm actually a doll that works in a cafe....""
+
+#: ../test/novel_02.html%2Bhtml.body.div.div.div.div.div:489-1
+msgid ""
+"<a href=\"novel_01.html\">＜＜前のエピソード</a> <a href=\"novel_03.html\""
+">次のエピソード＞＞</a>"
+msgstr "<a href=\"novel_01.html\">＜＜Previous episode</a> <a href=\"novel_03.html\""
+">Next episode＞＞</a>"
+
+#: ../test/novel_02.html%2Bhtml.body.div.div:496-1
+msgid "執筆：丘野塔也 挿絵：まろやか ＣＶ：和氣あず未（灰桜）"
+msgstr "<p>Writer: Okano Touya</p><p>Illustrations: Maroyaka</p><p>CV: Azumi Waki (Haizakura)</p><p>Translation: Tigoris</p>"
+
+#: ../test/novel_02.html%2Bhtml.body.div.div:501-1
+msgid "目次へ戻る"
+msgstr "Return to the table of contents"
+
+#: ../test/novel_02.html%2Bhtml.body.div.div:502-1
+msgid "©VISUAL ARTS / Key"
+msgstr "©VISUAL ARTS / Key"

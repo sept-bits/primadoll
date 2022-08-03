@@ -1,0 +1,317 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-02 21:10+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.2\n"
+
+#: ../test/novel_03.html%2Bhtml[lang]:2-1
+msgid "ja"
+msgstr ""
+
+#: ../test/novel_03.html%2Bhtml.head.title:8-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】 | Key"
+msgstr "Prima Doll Unofficial Translation 【A doll and a song. The curtain of a new story rises.】 | Key"
+
+#: ../test/novel_03.html%2Bhtml.head.meta[content]:9-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】"
+msgstr "Prima Doll Unofficial Translation 【A doll and a song. The curtain of a new story rises.】"
+
+#: ../test/novel_03.html%2Bhtml.head.meta[content]:10-1
+msgid "Key,キー,kinetic,novel,キネティックノベル"
+msgstr ""
+
+#: ../test/novel_03.html%2Bhtml.body.div.div.div.div:44-1
+msgid "プリマドール・アンコール"
+msgstr "Prima Doll Encore"
+
+#: ../test/novel_03.html%2Bhtml.body.div.div.div.div:48-1
+msgid "01-03 あんぱんと自律人形（３）"
+msgstr "01-03 Anpan and Automata (3)"
+
+#: ../test/novel_03.html%2Bhtml.body.div.div.div.div:52-1
+msgid ""
+"<a href=\"novel_02.html\">＜＜前のエピソード</a> <a href=\"novel.html\">目次</a> <a "
+"href=\"novel_04.html\">次のエピソード＞＞</a>"
+msgstr "<a href=\"novel_02.html\">＜＜Previous episode</a> <a href=\"novel.html\">Table of contents</a> <a "
+"href=\"novel_04.html\">Next episode＞＞</a>"
+
+#: ../test/novel_03.html%2Bhtml.body.div.div.div.div.p:61-1
+msgid "「灰桜は、パン屋で働いているの？」"
+msgstr ""Do you work at a bakery, Haizakura?""
+
+#: ../test/novel_03.html%2Bhtml.body.div.div.div.div.p:63-1
+msgid "素朴な疑問を口にすると、きょとんとした声が帰ってきた。"
+msgstr "My simple question was answered with confusion."
+
+#: ../test/novel_03.html%2Bhtml.body.div.div.div.div.p:65-1
+msgid "「いや、あんぱんを売っていたから」"
+msgstr ""You're selling anpan, so I wondered....""
+
+#: ../test/novel_03.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:73-5
+msgctxt "../test/novel_03.html+html.body.div.div.div.div.div.div.div.ul.li:73-5"
+msgid "「違うのです、話せば長くなりますが……」"
+msgstr ""No, it would take a while to explain....""
+
+#: ../test/novel_03.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:74-5
+msgctxt "../test/novel_03.html+html.body.div.div.div.div.div.div.div.ul.li:74-5"
+msgid "「違うのです、話せば長くなりますが……」"
+msgstr ""No, it would take a while to explain....""
+
+#: ../test/novel_03.html%2Bhtml.body.div.div.div.div.p:82-1
+msgid "なにやら深い事情があるらしい。"
+msgstr "Apparently the situation was more complicated than I'd guessed."
+
+#: ../test/novel_03.html%2Bhtml.body.div.div.div.div.p:83-1
+msgid "ボクは居住まいを正すと、彼女の声に耳を傾けようとした。"
+msgstr "I sat up and listened more closely."
+
+#: ../test/novel_03.html%2Bhtml.body.div.div.div.div.p:84-1
+msgid "彼女がここにいたるまで、それはそれは大きな波乱があったのだろうか……？"
+msgstr "Had something happened to her...?"
+
+#: ../test/novel_03.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:92-5
+msgctxt "../test/novel_03.html+html.body.div.div.div.div.div.div.div.ul.li:92-5"
+msgid "「実はわたしは、喫茶店で働く人形なのですが……」"
+msgstr ""I'm actually a doll that works in a cafe....""
+
+#: ../test/novel_03.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:93-5
+msgctxt "../test/novel_03.html+html.body.div.div.div.div.div.div.div.ul.li:93-5"
+msgid "「実はわたしは、喫茶店で働く人形なのですが……」"
+msgstr ""I'm actually a doll that works in a cafe....""
+
+#: ../test/novel_03.html%2Bhtml.body.div.div.div.div.p:100-1
+msgid "真剣な様子で視線を向けてくる。"
+msgstr "She looked at me seriously."
+
+#: ../test/novel_03.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:108-5
+msgctxt "../test/novel_03.html+html.body.div.div.div.div.div.div.div.ul.li:108-5"
+msgid "「お店で使用するパンを買い出しに来たまでは良かったのですが……」"
+msgstr ""I was sent to buy bread for the store, and that was fine....""
+
+#: ../test/novel_03.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:109-5
+msgctxt "../test/novel_03.html+html.body.div.div.div.div.div.div.div.ul.li:109-5"
+msgid "「お店で使用するパンを買い出しに来たまでは良かったのですが……」"
+msgstr ""I was sent to buy bread for the store, and that was fine....""
+
+#: ../test/novel_03.html%2Bhtml.body.div.div.div.div.p:116-1
+msgid "「うっかり全部食べちゃったとか？」"
+msgstr ""But then you accidentally ate all of the bread?""
+
+#: ../test/novel_03.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:123-5
+msgctxt "../test/novel_03.html+html.body.div.div.div.div.div.div.div.ul.li:123-5"
+msgid "「違いますっ」"
+msgstr ""No!""
+
+#: ../test/novel_03.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:124-5
+msgctxt "../test/novel_03.html+html.body.div.div.div.div.div.div.div.ul.li:124-5"
+msgid "「違いますっ」"
+msgstr ""No!""
+
+#: ../test/novel_03.html%2Bhtml.body.div.div.div.div.p:131-1
+msgid "「えっと……うっかりパンを落としちゃったとか？」"
+msgstr ""Um... You accidentally dropped all of the bread?""
+
+#: ../test/novel_03.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:138-5
+msgctxt "../test/novel_03.html+html.body.div.div.div.div.div.div.div.ul.li:138-5"
+msgid "「そんなにうっかりしてませんよ～」"
+msgstr ""I'm not that clumsy~!""
+
+#: ../test/novel_03.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:139-5
+msgctxt "../test/novel_03.html+html.body.div.div.div.div.div.div.div.ul.li:139-5"
+msgid "「そんなにうっかりしてませんよ～」"
+msgstr ""I'm not that clumsy~!""
+
+#: ../test/novel_03.html%2Bhtml.body.div.div.div.div.p:145-1
+msgid "「うっかりお金を落としたとか」"
+msgstr ""You accidentally dropped the money?""
+
+#: ../test/novel_03.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:152-5
+msgctxt "../test/novel_03.html+html.body.div.div.div.div.div.div.div.ul.li:152-5"
+msgid "「みゅっ」"
+msgstr ""Myu!""
+
+#: ../test/novel_03.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:153-5
+msgctxt "../test/novel_03.html+html.body.div.div.div.div.div.div.div.ul.li:153-5"
+msgid "「みゅっ」"
+msgstr ""Myu!""
+
+#: ../test/novel_03.html%2Bhtml.body.div.div.div.div.p:160-1
+msgid "ぴくっと体を震わせる。"
+msgstr "She jumped."
+
+#: ../test/novel_03.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:168-5
+msgctxt "../test/novel_03.html+html.body.div.div.div.div.div.div.div.ul.li:168-5"
+msgid "「……どうしてそれを」"
+msgstr ""...How do you know that?""
+
+#: ../test/novel_03.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:169-5
+msgctxt "../test/novel_03.html+html.body.div.div.div.div.div.div.div.ul.li:169-5"
+msgid "「……どうしてそれを」"
+msgstr ""...How do you know that?""
+
+#: ../test/novel_03.html%2Bhtml.body.div.div.div.div.p:176-1
+msgid "どうやら図星だったらしい。"
+msgstr "Apparently that was the answer."
+
+#: ../test/novel_03.html%2Bhtml.body.div.div.div.div.p:178-1
+msgid "「なるほど、それでアルバイトして、パンを買うお金を捻出していたと」"
+msgstr ""I see, so then you took on a part time job to earn the money for the bread.""
+
+#: ../test/novel_03.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:185-5
+msgctxt "../test/novel_03.html+html.body.div.div.div.div.div.div.div.ul.li:185-5"
+msgid "「はいぃ……特売のあんぱんを売り切れば、お店用のパンをいただけるとのことでしたので……」"
+msgstr ""Yes... they said that if I could sell the anpan for the bakery then I could get the bread for the cafe....""
+
+#: ../test/novel_03.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:186-5
+msgctxt "../test/novel_03.html+html.body.div.div.div.div.div.div.div.ul.li:186-5"
+msgid "「はいぃ……特売のあんぱんを売り切れば、お店用のパンをいただけるとのことでしたので……」"
+msgstr ""Yes... they said that if I could sell the anpan for the bakery then I could get the bread for the cafe....""
+
+#: ../test/novel_03.html%2Bhtml.body.div.div.div.div.p:193-1
+msgid "「それなら、大成功だね。休憩はこの辺にしておこう」"
+msgstr ""Well then it was a great success. We should end our break.""
+
+#: ../test/novel_03.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:201-5
+msgctxt "../test/novel_03.html+html.body.div.div.div.div.div.div.div.ul.li:201-5"
+msgid "「と、いいますと？」"
+msgstr ""Which means...?""
+
+#: ../test/novel_03.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:202-5
+msgctxt "../test/novel_03.html+html.body.div.div.div.div.div.div.div.ul.li:202-5"
+msgid "「と、いいますと？」"
+msgstr ""Which means...?""
+
+#: ../test/novel_03.html%2Bhtml.body.div.div.div.div.p:208-1
+msgid "「バイト代のパンを貰いにいかないと」"
+msgstr ""That now you need to go get your bread as payment.""
+
+#: ../test/novel_03.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:215-5
+msgctxt "../test/novel_03.html+html.body.div.div.div.div.div.div.div.ul.li:215-5"
+msgid "「そうでした！」"
+msgstr ""That's right!""
+
+#: ../test/novel_03.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:216-5
+msgctxt "../test/novel_03.html+html.body.div.div.div.div.div.div.div.ul.li:216-5"
+msgid "「そうでした！」"
+msgstr ""That's right!""
+
+#: ../test/novel_03.html%2Bhtml.body.div.div.div.div.p:224-1
+msgid "２人して立ち上がる。"
+msgstr "We both stood up."
+
+#: ../test/novel_03.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:233-5
+msgctxt "../test/novel_03.html+html.body.div.div.div.div.div.div.div.ul.li:233-5"
+msgid "「あちらですっ」"
+msgstr ""This way!""
+
+#: ../test/novel_03.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:234-5
+msgctxt "../test/novel_03.html+html.body.div.div.div.div.div.div.div.ul.li:234-5"
+msgid "「あちらですっ」"
+msgstr ""This way!""
+
+#: ../test/novel_03.html%2Bhtml.body.div.div.div.div.div:242-2
+msgid "＊ ＊ ＊"
+msgstr "＊　　　　　　　＊　　　　　　　＊"
+
+#: ../test/novel_03.html%2Bhtml.body.div.div.div.div.p:246-1
+msgid "桜並木の先、坂道をすこしくだった先。"
+msgstr "We followed the cherry tree-lined street uphill a short way."
+
+#: ../test/novel_03.html%2Bhtml.body.div.div.div.div.p:247-1
+msgid "そこに小さなパン屋さんがのぼりを揚げていた。"
+msgstr "And there near the top of the hill was a small bakery."
+
+#: ../test/novel_03.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:260-5
+msgctxt "../test/novel_03.html+html.body.div.div.div.div.div.div.div.ul.li:260-5"
+msgid "「こ、こんなにいただけるんですかっ」"
+msgstr ""C-Can I really have this much?""
+
+#: ../test/novel_03.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:261-5
+msgctxt "../test/novel_03.html+html.body.div.div.div.div.div.div.div.ul.li:261-5"
+msgid "「こ、こんなにいただけるんですかっ」"
+msgstr ""C-Can I really have this much?""
+
+#: ../test/novel_03.html%2Bhtml.body.div.div.div.div.p:269-1
+msgid "灰桜はパン屋さんの前で、困惑した声を上げる。"
+msgstr "Haizakura was standing outside the bakery sounding conflicted."
+
+#: ../test/novel_03.html%2Bhtml.body.div.div.div.div.p:271-1
+msgid "「頑張ってくれたからねえ、おまけしておくよ」"
+msgstr ""You worked hard so I gave you some extra.""
+
+#: ../test/novel_03.html%2Bhtml.body.div.div.div.div.p:273-1
+msgid "朗らかな声を返すのは、初老の女店主だ。"
+msgstr "The older woman who ran the bakery replied in a cheerful voice."
+
+#: ../test/novel_03.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:281-5
+msgctxt "../test/novel_03.html+html.body.div.div.div.div.div.div.div.ul.li:281-5"
+msgid "「食パン２本で良かったのですが……」"
+msgstr ""But we agreed on two loaves of bread....""
+
+#: ../test/novel_03.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:282-5
+msgctxt "../test/novel_03.html+html.body.div.div.div.div.div.div.div.ul.li:282-5"
+msgid "「食パン２本で良かったのですが……」"
+msgstr ""But we agreed on two loaves of bread....""
+
+#: ../test/novel_03.html%2Bhtml.body.div.div.div.div.p:289-1
+msgid "食パン２本の入った紙袋が合計２袋。"
+msgstr "She was holding two bags with two loaves of bread in each."
+
+#: ../test/novel_03.html%2Bhtml.body.div.div.div.div.p:290-1
+msgid "だいたい１本は３斤なので、合計１２斤の食パンをもらった格好だ。"
+msgstr "Each of the loaves would normally sell for 3 kin each, so she was being given 12 kin of bread in total."
+
+#: ../test/novel_03.html%2Bhtml.body.div.div.div.div.p:292-1
+msgid "「貰っておきなよ。ほら、半分持つよ」"
+msgstr ""Just accept them. Here, I'll carry half.""
+
+#: ../test/novel_03.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:300-5
+msgctxt "../test/novel_03.html+html.body.div.div.div.div.div.div.div.ul.li:300-5"
+msgid "「よろしいのですか？」"
+msgstr ""Are you sure?""
+
+#: ../test/novel_03.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:301-5
+msgctxt "../test/novel_03.html+html.body.div.div.div.div.div.div.div.ul.li:301-5"
+msgid "「よろしいのですか？」"
+msgstr ""Are you sure?""
+
+#: ../test/novel_03.html%2Bhtml.body.div.div.div.div.p:309-1
+msgid "「灰桜が務めている喫茶店、興味があるんだ。案内してくれるかい？」"
+msgstr ""I'm curious about the cafe where you work, Haizakura. Could you take me there?""
+
+#: ../test/novel_03.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:319-5
+msgctxt "../test/novel_03.html+html.body.div.div.div.div.div.div.div.ul.li:319-5"
+msgid "「もちろん、よろこんでっ」"
+msgstr ""Of course, gladly!""
+
+#: ../test/novel_03.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:320-5
+msgctxt "../test/novel_03.html+html.body.div.div.div.div.div.div.div.ul.li:320-5"
+msgid "「もちろん、よろこんでっ」"
+msgstr ""Of course, gladly!""
+
+#: ../test/novel_03.html%2Bhtml.body.div.div.div.div.div:329-1
+msgid ""
+"<a href=\"novel_02.html\">＜＜前のエピソード</a> <a href=\"novel_04.html\""
+">次のエピソード＞＞</a>"
+msgstr "<a href=\"novel_02.html\">＜＜Previous episode</a> <a href=\"novel_04.html\""
+">Next episode＞＞</a>"
+
+#: ../test/novel_03.html%2Bhtml.body.div.div.p:337-1
+msgid "執筆：丘野塔也 挿絵：まろやか ＣＶ：和氣あず未（灰桜）"
+msgstr "<p>Writer: Okano Touya</p><p>Illustrations: Maroyaka</p><p>CV: Azumi Waki (Haizakura)</p><p>Translation: Tigoris</p>"
+
+#: ../test/novel_03.html%2Bhtml.body.div.div:341-1
+msgid "目次へ戻る"
+msgstr "Return to the table of contents"
+
+#: ../test/novel_03.html%2Bhtml.body.div.div:342-1
+msgid "©VISUAL ARTS / Key"
+msgstr "©VISUAL ARTS / Key"

@@ -1,0 +1,355 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-02 21:10+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.2\n"
+
+#: ../test/novel_08.html%2Bhtml[lang]:2-1
+msgid "ja"
+msgstr ""
+
+#: ../test/novel_08.html%2Bhtml.head.title:8-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】 | Key"
+msgstr "Prima Doll Unofficial Translation 【A doll and a song. The curtain of a new story rises.】 | Key"
+
+#: ../test/novel_08.html%2Bhtml.head.meta[content]:9-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】"
+msgstr "Prima Doll Unofficial Translation 【A doll and a song. The curtain of a new story rises.】"
+
+#: ../test/novel_08.html%2Bhtml.head.meta[content]:10-1
+msgid "Key,キー,kinetic,novel,キネティックノベル"
+msgstr ""
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div:44-1
+msgid "プリマドール・アンコール"
+msgstr "Prima Doll Encore"
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div:48-1
+msgid "01-08 戦闘人形であります（２）"
+msgstr "01-08 I'm A Combat Doll (2)"
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div:52-1
+msgid ""
+"<a href=\"novel_07.html\">＜＜前のエピソード</a> <a href=\"novel.html\">目次</a> <a "
+"href=\"novel_09.html\">次のエピソード＞＞</a>"
+msgstr "<a href=\"novel_07.html\">＜＜Previous episode</a> <a href=\"novel.html\">Table of contents</a> <a "
+"href=\"novel_09.html\">Next episode＞＞"
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.p:59-1
+msgid "「これは野良犬の仕業だね」"
+msgstr ""A stray dog did this.""
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.p:61-1
+msgid "黒猫亭の裏手には、据え付けられた木製のゴミ箱。"
+msgstr "We were behind the Black Cat Pavilion where a wooden trash box had been built."
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.p:62-1
+msgid "地面にはバナナの皮やら、卵の殻やら、生ゴミが散乱している。"
+msgstr "The ground was littered with banana peels, egg shells, and other bits of garbage."
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.p:63-1
+msgid "半開きになった蓋の隙間からは、でろりと新聞紙がはみ出していた。"
+msgstr "Newspaper scraps were hanging out of the half-open lid."
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:70-5
+msgctxt "../test/novel_08.html+html.body.div.div.div.div.div.div.div.ul.li:70-5"
+msgid "「普段荒らされることはないであります」"
+msgstr ""We do not usually have problems.""
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:71-5
+msgctxt "../test/novel_08.html+html.body.div.div.div.div.div.div.div.ul.li:71-5"
+msgid "「普段荒らされることはないであります」"
+msgstr ""We do not usually have problems.""
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.p:78-1
+msgid "「蓋がちゃんと閉まってなかったのかも」"
+msgstr ""Maybe the lid wasn't closed tightly.""
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.p:80-1
+msgid "確認してみると、すこし蝶番がさび付いているようで、軋んだ音を立てた。"
+msgstr "I swung the lid and the hinges squeaked with rust."
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.p:81-1
+msgid "僅かに隙間が空いていて、そこに鼻先を突っ込まれたのだろう。"
+msgstr "The lid didn't quite close all the way, so the dog must have been able to slip its snout in through the gap."
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.p:83-1
+msgid "灰桜「ごめんなさい、昨日のごみ出し、わたしが当番だったので……」"
+msgstr "Haizakura "I'm sorry, it was my job to put out the trash yesterday....""
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.p:85-1
+msgid "申し訳なさそうにしている灰桜。"
+msgstr "Haizakura looked sadly apologetic."
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.p:87-1
+msgid "「いいさ、ちゃちゃっと掃除しちゃおう」"
+msgstr ""It's no big deal, we just have to clean it up a bit.""
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.p:88-1
+msgid "灰桜「わたし、掃除道具取ってきますっ」"
+msgstr "Haizakura "I'll go fetch the cleaning tools!""
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.p:90-1
+msgid "ぱっと袖を翻して、フロアへと戻っていく。"
+msgstr "And with a flutter of kimono sleeves she hurried back into the cafe."
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.p:91-1
+msgid "その間に、拾えるごみは拾っておこうと腰をかがめた。"
+msgstr "I squatted down to begin gathering up trash."
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:98-5
+msgctxt "../test/novel_08.html+html.body.div.div.div.div.div.div.div.ul.li:98-5"
+msgid "「ひっ」"
+msgstr ""Eep!""
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:99-5
+msgctxt "../test/novel_08.html+html.body.div.div.div.div.div.div.div.ul.li:99-5"
+msgid "「ひっ」"
+msgstr ""Eep!""
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.p:106-1
+msgid "どん、と小さな衝撃。"
+msgstr "Something bumped into me."
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.p:107-1
+msgid "月下の体がぶつかってきたのだ。"
+msgstr "It was Gekka."
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:114-5
+msgctxt "../test/novel_08.html+html.body.div.div.div.div.div.div.div.ul.li:114-5"
+msgid "「……犬であります」"
+msgstr ""...There's a dog.""
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:115-5
+msgctxt "../test/novel_08.html+html.body.div.div.div.div.div.div.div.ul.li:115-5"
+msgid "「……犬であります」"
+msgstr ""...There's a dog.""
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.p:122-1
+msgid "指差す先には、荒れた毛並みの中型犬。"
+msgstr "She pointed at a medium-sized dog with messy, disheveled fur."
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.p:123-1
+msgid "通路の奥、遠巻きにこちらをじっと見つめている。"
+msgstr "It was watching us from a distance."
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.p:125-1
+msgid "「ああ、こいつかぁ」"
+msgstr ""Aah, so that's who did it.""
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.p:127-1
+msgid "どうやら犯人の登場らしい。"
+msgstr "Looks like he returned to the scene of the crime."
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.p:129-1
+msgid "「しっしっ、キミのご飯じゃないよ」"
+msgstr ""Shoo! Shoo! This isn't for you!""
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.p:131-1
+msgid "手を振ってみるが、未練があるらしくびくりともしない。"
+msgstr "I made a shooing gesture but the dog didn't budge."
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.p:133-1
+msgid "「月下、追い払ってきてくれない？」"
+msgstr ""Gekka, could you chase it off?""
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:139-5
+msgctxt "../test/novel_08.html+html.body.div.div.div.div.div.div.div.ul.li:139-5"
+msgid "「えっ」"
+msgstr ""Eh!""
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:140-5
+msgctxt "../test/novel_08.html+html.body.div.div.div.div.div.div.div.ul.li:140-5"
+msgid "「えっ」"
+msgstr ""Eh!""
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.p:147-1
+msgid "黒いリボンを揺らして、丸い瞳をこちらに向ける。"
+msgstr "The black ribbon in her hair shook as she turned to look at me."
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.p:148-1
+msgid "ガラス玉のような瞳は、明らかに動揺していた。"
+msgstr "Her eyes were wide and round. She was clearly shaken."
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.p:150-1
+msgid "「えっと……」"
+msgstr ""Um....""
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.p:154-1
+msgid "『わんわんわんわん！』"
+msgstr ""WOOF WOOF WOOF!!""
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:161-5
+msgctxt "../test/novel_08.html+html.body.div.div.div.div.div.div.div.ul.li:161-5"
+msgid "「ひいっ」"
+msgstr ""HYA!""
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:162-5
+msgctxt "../test/novel_08.html+html.body.div.div.div.div.div.div.div.ul.li:162-5"
+msgid "「ひいっ」"
+msgstr ""HYA!""
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.p:169-1
+msgid "めちゃくちゃ吠えられた。"
+msgstr "It began to bark."
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.p:170-1
+msgid "一軒ほど進んだ月下だが、たちまち引き返してきた。"
+msgstr "Gekka had managed a step forward, but now she came back."
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.p:172-1
+msgid "「月下、これ」"
+msgstr ""Gekka, here.""
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:178-5
+msgctxt "../test/novel_08.html+html.body.div.div.div.div.div.div.div.ul.li:178-5"
+msgid "「こ、これは……？」"
+msgstr ""W-What's this..?""
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:179-5
+msgctxt "../test/novel_08.html+html.body.div.div.div.div.div.div.div.ul.li:179-5"
+msgid "「こ、これは……？」"
+msgstr ""W-What's this..?""
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.p:187-1
+msgid "かじりかけのソーセージを手渡す。"
+msgstr "I handed her a half-chewed sausage."
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.p:189-1
+msgid "「お腹減ってるんだろう、投げてあげなよ」"
+msgstr ""It must be hungry. Toss that to it.""
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:195-5
+msgctxt "../test/novel_08.html+html.body.div.div.div.div.div.div.div.ul.li:195-5"
+msgid "「了解でありますっ」"
+msgstr ""Understood.""
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:196-5
+msgctxt "../test/novel_08.html+html.body.div.div.div.div.div.div.div.ul.li:196-5"
+msgid "「了解でありますっ」"
+msgstr ""Understood.""
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.p:204-1
+msgid "むんずと掴むと、狙いを定める。"
+msgstr "She took it and began to aim."
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:213-5
+msgctxt "../test/novel_08.html+html.body.div.div.div.div.div.div.div.ul.li:213-5"
+msgid "「一昨日来やがれであります！」"
+msgstr ""Take this and don't come back again!""
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:214-5
+msgctxt "../test/novel_08.html+html.body.div.div.div.div.div.div.div.ul.li:214-5"
+msgid "「一昨日来やがれであります！」"
+msgstr ""Take this and don't come back again!""
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.p:222-1
+msgid "ぽいと投げると、たちまち野良犬は飛んでいった。"
+msgstr "She threw it and the dog immediately ran after it."
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.p:223-1
+msgid "遠くでがつがつとソーセージにかぶりついている。"
+msgstr "In the distance it began to eat the sausage."
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.p:225-1
+msgid "「今度から、ゴミ箱には南京錠でもかけておこう」"
+msgstr ""Let's add a padlock to the garbage box from now on.""
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:231-5
+msgctxt "../test/novel_08.html+html.body.div.div.div.div.div.div.div.ul.li:231-5"
+msgid "「……賛成であります」"
+msgstr ""....Agreed.""
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:232-5
+msgctxt "../test/novel_08.html+html.body.div.div.div.div.div.div.div.ul.li:232-5"
+msgid "「……賛成であります」"
+msgstr ""....Agreed.""
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.p:240-1
+msgid "いつものツンとした顔で受け応える月下。"
+msgstr "Gekka replied with her normal calm expression back in place."
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.p:242-1
+msgid "灰桜「お待たせしました～」"
+msgstr "Haizakura "I'm back~!""
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.p:244-1
+msgid "ちょうど灰桜が、箒とちりとり、火ばさみを持ってきてくれた。"
+msgstr "Haizakura came back with a broom, dust pan, and fire tongs."
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.p:245-1
+msgid "興味を持ったのだろうか、後ろから黒猫のシャノが付いてくる。"
+msgstr "Shano the black cat had come along after her, apparently curious to find out what all of the fuss was about."
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:252-5
+msgctxt "../test/novel_08.html+html.body.div.div.div.div.div.div.div.ul.li:252-5"
+msgid "「危ないので、シャノは中で待っているのであります」"
+msgstr ""It's dangerous so please wait inside, Shano.""
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:253-5
+msgctxt "../test/novel_08.html+html.body.div.div.div.div.div.div.div.ul.li:253-5"
+msgid "「危ないので、シャノは中で待っているのであります」"
+msgstr ""It's dangerous so please wait inside, Shano.""
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.p:261-1
+msgid "月下が抱き上げると、フロアに戻している。"
+msgstr "Gekka picked up the cat and returned her to the cafe."
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.p:262-1
+msgid "なんとも微笑ましい光景だった。"
+msgstr "It was a funny sight."
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.p:264-1
+msgid "灰桜「どうして笑っているのですか？」"
+msgstr "Haizakura "Why are you laughing?""
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.p:265-1
+msgid "「いや、猫は怖くないんだと思ってさ」"
+msgstr ""It's just funny that she isn't scared of the cat.""
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.p:266-1
+msgid "灰桜「みゅ？」"
+msgstr "Haizakura "Myu?""
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.p:267-1
+msgid "「掃除しちゃおっか」"
+msgstr ""Let's clean this up then, shall we?""
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.p:269-1
+msgid "戻ってきた月下と手分けして、ゴミ箱の周辺を掃除する。"
+msgstr "Gekka came back and the three of us began to clean."
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.p:270-1
+msgid "野良犬は満足したようで、どこかに行ってしまったようだ。"
+msgstr "The stray dog seemed to be satisfied with the sausage and left."
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.p:271-1
+msgid "掃除が終わったら、仕込みを始めなくちゃな。"
+msgstr "Once the cleaning was finished I'd need to begin preparing the kitchen."
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.div.div.div:275-1
+msgid ""
+"<a href=\"novel_07.html\">＜＜前のエピソード</a> <a href=\"novel_09.html\""
+">次のエピソード＞＞</a>"
+msgstr "<a href=\"novel_07.html\">＜＜Previous episode</a> <a href=\"novel_09.html\""
+">Next episode＞＞</a>"
+
+#: ../test/novel_08.html%2Bhtml.body.div.div.p:285-1
+msgid "執筆：丘野塔也 挿絵：まろやか ＣＶ：富田美憂（月下）"
+msgstr "<p>Writer: Okano Touya</p><p>Illustrations: Maroyaka</p><p>CV: Miyu Tomita (Gekka)</p><p>Translation: Tigoris</p>"
+
+#: ../test/novel_08.html%2Bhtml.body.div.div:289-1
+msgid "目次へ戻る"
+msgstr "Return to the table of contents"
+
+#: ../test/novel_08.html%2Bhtml.body.div.div:290-1
+msgid "©VISUAL ARTS / Key"
+msgstr "©VISUAL ARTS / Key"

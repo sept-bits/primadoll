@@ -1,0 +1,349 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-02 21:10+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.2\n"
+
+#: ../test/novel_04.html%2Bhtml[lang]:2-1
+msgid "ja"
+msgstr ""
+
+#: ../test/novel_04.html%2Bhtml.head.title:8-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】 | Key"
+msgstr "Prima Doll Unofficial Translation 【A doll and a song. The curtain of a new story rises.】 | Key"
+
+#: ../test/novel_04.html%2Bhtml.head.meta[content]:9-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】"
+msgstr "Prima Doll Unofficial Translation 【A doll and a song. The curtain of a new story rises.】"
+
+#: ../test/novel_04.html%2Bhtml.head.meta[content]:10-1
+msgid "Key,キー,kinetic,novel,キネティックノベル"
+msgstr ""
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div:44-1
+msgid "プリマドール・アンコール"
+msgstr "Prima Doll Encore"
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div:48-1
+msgid "01-04 喫茶・黒猫亭（１）"
+msgstr "01-04 Cafe - Black Cat Pavilion (1)"
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div:52-1
+msgid ""
+"<a href=\"novel_03.html\">＜＜前のエピソード</a> <a href=\"novel.html\">目次</a> <a "
+"href=\"novel_05.html\">次のエピソード＞＞</a>"
+msgstr "<a href=\"novel_03.html\">＜＜Previous episode</a> <a href=\"novel.html\">Table of contents</a> <a "
+"href=\"novel_05.html\">Next episode＞＞</a>"
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.p:58-1
+msgid "皇都五区。"
+msgstr "The fifth ward of the Imperial Capital."
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.p:59-1
+msgid "万国港へと向かう目抜き通りをすこし外れたところにその店はあった。"
+msgstr "The cafe was located a short distance from the road leading to the international harbor."
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.p:60-1
+msgid "もっとこぢんまりとした店構えを想像していたが、意外と大きい。"
+msgstr "I had imagined the cafe would be a small place, but it was surprisingly large."
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.p:61-1
+msgid "土蔵造りの二階建てには、和洋の意匠が巧みに盛り込まれている。かつてのお大尽の商家を借り上げているのだろう。"
+msgstr "It was a two story building made with earth and wood walls that cleverly incorporated elements of eastern and western architecture. It must have been the property of a wealthy merchant."
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.p:62-1
+msgid "軒先に提げられた看板には『喫茶 黒猫亭』の文字。"
+msgstr "A sign hanging from the eaves of the shop read "Cafe Black Cat Pavilion.""
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:72-5
+msgctxt "../test/novel_04.html+html.body.div.div.div.div.div.div.div.ul.li:72-5"
+msgid "「はーいーざーくーらー」"
+msgstr ""HA-I-ZA-KU-RA-!!""
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:73-5
+msgctxt "../test/novel_04.html+html.body.div.div.div.div.div.div.div.ul.li:73-5"
+msgid "「はーいーざーくーらー」"
+msgstr ""HA-I-ZA-KU-RA-!!""
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.p:82-1
+msgid "その下で、むにゅむにゅと頬を摘ままれている少女人形。"
+msgstr "A female doll was having her cheeks pinched underneath the sign."
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:91-5
+msgctxt "../test/novel_04.html+html.body.div.div.div.div.div.div.div.ul.li:91-5"
+msgid "「買い出しにどれだけ時間をかけているの！？」"
+msgstr ""Just how long does it take to buy bread?!""
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:92-5
+msgctxt "../test/novel_04.html+html.body.div.div.div.div.div.div.div.ul.li:92-5"
+msgid "「買い出しにどれだけ時間をかけているの！？」"
+msgstr ""Just how long does it take to buy bread?!""
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.p:99-1
+msgid "灰桜「ごべんなさぁぁぁい……！」"
+msgstr "Haizakura "I'm shorryyyy...!""
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.p:101-1
+msgid "灰桜の頬をむにむにむにと揉んでいるのは、すこし年上の外装をした人形。"
+msgstr "The girl pinching Haizakura's cheeks was a slightly older-looking doll."
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.p:102-1
+msgid "ひとつに結んだ黒い髪が、塗れたような光沢を放っている。"
+msgstr "She had sleek black hair that was tied up in a ponytail."
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.p:104-1
+msgid "「ま、まあまあ、その辺りで」"
+msgstr ""Th-That's probably enough...""
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.p:105-1
+msgid "力加減は心得ているようで、痛くは無さそうだが、一応間に入る。"
+msgstr "It seemed like the girl knew how to pinch without causing any real harm, but I stepped into the middle anyway."
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:114-5
+msgctxt "../test/novel_04.html+html.body.div.div.div.div.div.div.div.ul.li:114-5"
+msgid "「ごめんなさい、えっと……」"
+msgstr ""I'm sorry, um...."""
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:115-5
+msgctxt "../test/novel_04.html+html.body.div.div.div.div.div.div.div.ul.li:115-5"
+msgid "「ごめんなさい、えっと……」"
+msgstr ""I'm sorry, um...."""
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.p:121-1
+msgid "灰桜「こ、こちらご紹介します、宇佐美さんこと、うささんです！」"
+msgstr "Haizakura "Th-This is Usami-san, short for Usa-san!""
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.p:122-1
+msgid "「逆だけど、まあいいや」"
+msgstr ""You got them backwards, but close enough.""
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.p:123-1
+msgid "灰桜「そして、こちらがわたしの先輩の……」"
+msgstr "Haizakura "And this is my senpai...""
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:131-5
+msgctxt "../test/novel_04.html+html.body.div.div.div.div.div.div.div.ul.li:131-5"
+msgid "「鴉羽よ」"
+msgstr ""Karasuba.""
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:132-5
+msgctxt "../test/novel_04.html+html.body.div.div.div.div.div.div.div.ul.li:132-5"
+msgid "「鴉羽よ」"
+msgstr ""Karasuba.""
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.p:139-1
+msgid "灰桜が口を開く前に、にっこりと微笑みを向けてくれた。"
+msgstr "She turned to smile at me before Haizakura could talk."
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:148-5
+msgctxt "../test/novel_04.html+html.body.div.div.div.div.div.div.div.ul.li:148-5"
+msgid "「それで、どうして２人は一緒なのかしら？」"
+msgstr ""And what brings you two here together?""
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:149-5
+msgctxt "../test/novel_04.html+html.body.div.div.div.div.div.div.div.ul.li:149-5"
+msgid "「それで、どうして２人は一緒なのかしら？」"
+msgstr ""And what brings you two here together?""
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.p:156-1
+msgid "灰桜「それは話せば長くなるのですが……深い深い事情がありまして」"
+msgstr "Haizakura "If we were to discuss that it would take a while... it's a very very complicated situation.""
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.p:158-1
+msgid "もごもごしながら、指先をくるくる弄んでいる。"
+msgstr "She was mumbling and fidgeting."
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.p:160-1
+msgid "「灰桜、お金落としちゃったみたいで」"
+msgstr ""Seems that Haizakura dropped her money.""
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.p:161-1
+msgid "灰桜「みゅっ」"
+msgstr "Haizakura "Myu!""
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.p:162-1
+msgid "「だから、パン屋でバイトしていたんです」"
+msgstr ""So she had to get a job at the bakery.""
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.p:163-1
+msgid "灰桜「みゅみゅっ」"
+msgstr "Haizakura "Myu myu!""
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.p:164-1
+msgid "「一生懸命働いて、この通りパンを入手したので、どうか怒らないでくださいっ」"
+msgstr ""She worked really hard to get this bread, so please don't be angry with her.""
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.p:165-1
+msgid "灰桜「そ、そーです！ 終わりよければすべて……うみゅっ！」"
+msgstr "Haizakura "Th-That's right! All's well that ends wel- Myu!!""
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:173-5
+msgctxt "../test/novel_04.html+html.body.div.div.div.div.div.div.div.ul.li:173-5"
+msgid "「はーいーざーくーらー。今月何回目だと思ってるのっ」"
+msgstr ""HA-I-ZA-KU-RA-! How many times have you done that this month?""
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:174-5
+msgctxt "../test/novel_04.html+html.body.div.div.div.div.div.div.div.ul.li:174-5"
+msgid "「はーいーざーくーらー。今月何回目だと思ってるのっ」"
+msgstr ""HA-I-ZA-KU-RA-! How many times have you done that this month?""
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.p:181-1
+msgctxt "../test/novel_04.html+html.body.div.div.div.div.p:181-1"
+msgid "灰桜「すびばせぇん……！」"
+msgstr "Haizakura "I'm shorry!!""
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.p:183-1
+msgid "じっとり半目で呆れながら、また頬をむにむにむにむに。"
+msgstr "She gave Haizakura a flat stare and continued to pinch her cheek."
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:192-5
+msgctxt "../test/novel_04.html+html.body.div.div.div.div.div.div.div.ul.li:192-5"
+msgid "「どこで落としたの？」"
+msgstr ""Where did you drop it?""
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:193-5
+msgctxt "../test/novel_04.html+html.body.div.div.div.div.div.div.div.ul.li:193-5"
+msgid "「どこで落としたの？」"
+msgstr ""Where did you drop it?""
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.p:199-1
+msgid "灰桜「わかりばせぇん……出発前にシャノちゃんと遊んだときはあったのですがぁぁ…！」"
+msgstr "Haizakura "I don't know... probably when I was playing with Shano-chan before I left...!""
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:207-5
+msgctxt "../test/novel_04.html+html.body.div.div.div.div.div.div.div.ul.li:207-5"
+msgid "「シャノ？」"
+msgstr ""Shano?""
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:208-5
+msgctxt "../test/novel_04.html+html.body.div.div.div.div.div.div.div.ul.li:208-5"
+msgid "「シャノ？」"
+msgstr ""Shano?""
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.p:216-1
+msgid "鴉羽、ぱっと手を離して軒先を見る。"
+msgstr "Karasuba let go of the other girl's cheeks and looked behind her."
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.p:217-1
+msgid "ちょうど日向になっている場所に、一匹のずんぐりとした黒猫が丸まっている。"
+msgstr "Right where the sun was shining under the eaves was a single black cat curled up and asleep."
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.p:218-1
+msgid "どうやら、この猫がシャノちゃんらしい。"
+msgstr "Apparently the cat is Shano-chan."
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:227-5
+msgctxt "../test/novel_04.html+html.body.div.div.div.div.div.div.div.ul.li:227-5"
+msgid "「そういえば、この子ずっと寝てるわね……」"
+msgstr ""She's been sleeping this whole time....""
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:228-5
+msgctxt "../test/novel_04.html+html.body.div.div.div.div.div.div.div.ul.li:228-5"
+msgid "「そういえば、この子ずっと寝てるわね……」"
+msgstr ""She's been sleeping this whole time....""
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.p:236-1
+msgid "脇の下に手を差し込む。"
+msgstr "She reached under the cat and lifted her up."
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.p:237-1
+msgid "そっと抱き上げると、だらしなく胴体が伸びた。まだふてぶてしく眠ったままだ。"
+msgstr "The cat's eyes remained closed as she was lifted up, her body stretching out as she was held up under her front legs. "
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.p:238-1
+msgid "灰桜「あーーーーっ！」"
+msgstr "Haizakura "Aaah!!""
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.p:240-1
+msgid "さっきまで寝ていた場所を確認して、灰桜は声を上げる。"
+msgstr "Haizakura checked where the cat had been sleeping and then shouted."
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.p:241-1
+msgid "小さな封筒が、その下に敷かれていた。"
+msgstr "A small envelope had been under the cat."
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.p:243-1
+msgid "灰桜「お金ですっ」"
+msgstr "Haizakura "The money!""
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.p:244-1
+msgid "「ははぁ……こんな所にあったとはね」"
+msgstr ""Haha... to think it'd be in a place like that.""
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:253-5
+msgctxt "../test/novel_04.html+html.body.div.div.div.div.div.div.div.ul.li:253-5"
+msgid "「シャノはよく、お腹の下にものを隠すのよ。まったくもう…」"
+msgstr ""Shano likes to hide things under her belly. I swear....""
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:254-5
+msgctxt "../test/novel_04.html+html.body.div.div.div.div.div.div.div.ul.li:254-5"
+msgid "「シャノはよく、お腹の下にものを隠すのよ。まったくもう…」"
+msgstr ""Shano likes to hide things under her belly. I swear....""
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.p:260-1
+msgid "灰桜「めっ、ですねー」"
+msgstr "Haizakura "Yeah, that cat!""
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.p:262-1
+msgid "ほのぼのと灰桜は微笑んでいる。"
+msgstr "Haizakura smiled warmly."
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:271-5
+msgctxt "../test/novel_04.html+html.body.div.div.div.div.div.div.div.ul.li:271-5"
+msgid "「あなたのせいでしょ！」"
+msgstr ""It's your fault!""
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:272-5
+msgctxt "../test/novel_04.html+html.body.div.div.div.div.div.div.div.ul.li:272-5"
+msgid "「あなたのせいでしょ！」"
+msgstr ""It's your fault!""
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.p:278-1
+msgid "灰桜「うみゅっ！」"
+msgstr "Haizakura "Myu!""
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:286-5
+msgctxt "../test/novel_04.html+html.body.div.div.div.div.div.div.div.ul.li:286-5"
+msgid "「次からはがま口を提げること！」」"
+msgstr ""Put it in your purse next time!""
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:287-5
+msgctxt "../test/novel_04.html+html.body.div.div.div.div.div.div.div.ul.li:287-5"
+msgid "「次からはがま口を提げること！」」"
+msgstr ""Put it in your purse next time!""
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.p:293-1
+msgctxt "../test/novel_04.html+html.body.div.div.div.div.p:293-1"
+msgid "灰桜「すびばせぇん……！」"
+msgstr "Haizakura "I'm sorry...!""
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.p:295-1
+msgid "またぐにぐにと、お餅みたいにほっぺたを揉まれていた。"
+msgstr "She was once again having her cheeks pinched and kneaded like mochi."
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.div.div.div:297-1
+msgid ""
+"<a href=\"novel_03.html\">＜＜前のエピソード</a> <a href=\"novel_05.html\""
+">次のエピソード＞＞</a>"
+msgstr "<a href=\"novel_03.html\">＜＜Previous episode</a> <a href=\"novel_05.html\""
+">Next episode＞＞</a>"
+
+#: ../test/novel_04.html%2Bhtml.body.div.div.p:307-1
+msgid "執筆：丘野塔也 挿絵：まろやか ＣＶ：楠木ともり（鴉羽）"
+msgstr "<p>Writer: Okano Touya</p><p>Illustrations: Maroyaka</p><p>CV: Tomori Kusunoki (Karasuba)</p><p>Translation: Tigoris</p>"
+
+#: ../test/novel_04.html%2Bhtml.body.div.div:312-1
+msgid "目次へ戻る"
+msgstr "Return to the table of contents"
+
+#: ../test/novel_04.html%2Bhtml.body.div.div:313-1
+msgid "©VISUAL ARTS / Key"
+msgstr "©VISUAL ARTS / Key"
