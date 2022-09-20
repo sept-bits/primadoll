@@ -1,0 +1,632 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-02 21:10+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.3.2\n"
+
+#: ../test/novel_11.html%2Bhtml[lang]:2-1
+msgid "ja"
+msgstr ""
+
+#: ../test/novel_11.html%2Bhtml.head.title:8-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】 | Key"
+msgstr "Prima Doll Unofficial Translation 【A doll and a song. The curtain of a new story rises.】 | Key"
+
+#: ../test/novel_11.html%2Bhtml.head.meta[content]:9-1
+msgid "「プリマドール」公式サイト 【歌と人形。新たに上がる、物語の幕。】"
+msgstr "Prima Doll Unofficial Translation 【A doll and a song. The curtain of a new story rises.】"
+
+#: ../test/novel_11.html%2Bhtml.head.meta[content]:10-1
+msgid "Key,キー,kinetic,novel,キネティックノベル"
+msgstr ""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div:44-1
+msgid "プリマドール・アンコール"
+msgstr "Prima Doll Encore"
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div:48-1
+msgid "01-11 桜とカフェ（３）－終－"
+msgstr "01-11 Cherry Blossoms and Cafés (3)"
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div:52-1
+msgid ""
+"<a href=\"novel_10.html\">＜＜前のエピソード</a> <a href=\"novel.html\">目次</a> <a "
+"href=\"novel_12.html\">次のエピソード＞＞</a>"
+msgstr "<a href=\"novel_10.html\">＜＜Previous episode</a> <a href=\"novel.html\">Table of contents</a> <a "
+"href=\"novel_12.html\">Next episode＞＞</a>"
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:60-1
+msgid "ペンダントライトのフィラメントが、何度か明滅する。"
+msgstr "The filament of the pendant lights flickers constantly."
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:61-1
+msgid ""
+"窓辺に立って外を眺める。すっかり日が沈んでおり、街を行く人手もない。黒猫亭の柔らかな光が、ステンドガラスを通じて夜闇に溶け出していくようだ。灯火管制はとっ"
+"くの昔に終わっているが、人々はその頃の名残を残しており、皆早々に自宅の電灯を消してしまう。外灯もまばらで、頼りになるのは月明かりだけという有様だ。"
+msgstr "I stand by the window and look outside. The sun has set completely and not a soul could be seen walking through the city. The gentle light of the Black Cat Pavilion shines through the tinted window glass and melts into the darkness of the night. Although the Light Conservation Act ended long ago, the remains of those days can still be seen. Most people still turn off the lights in their homes as soon as possible. There aren’t many street lights either so the only reliable light source is the moon."
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:63-1
+msgid ""
+"ボクは調度品にはたきをかけて、落ちた埃を丁寧に拭き取った。特にレコードプレイヤーは静電気を蓄えているせいか、汚れが付着しやすい。今日も店内のムード作りに一"
+"役買ってくれたことだし、その労をねぎらってやらないといけない。"
+msgstr "I dust the furnishings and carefully sweep up the fallen off dust. Record players in particular collect dust easily, probably because of the static electricity. Today as well, he has played a part in setting the mood in the restaurant and I must reward him for his efforts."
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:65-1
+msgid ""
+"一段落したところで背筋を伸ばす。ふと隣を見ると、木目を美しく輝かせているアップライトピアノが目に入る。なんとなしにカバーを上げ、鍵盤を覗かせる。そっと指を"
+"落とすと、肌寒い夜を思わせる硬質な音が響いた。前の勤め先では、奥様がよく弾いていたっけ。なんていう曲だったか聞きそびれてしまった。確かローベリアの曲で、戦"
+"時中は弾くのがはばかられていたとか、そんなことを言っていた気がする……。"
+msgstr "After finishing the first portion of cleaning I stretch my back. Looking next to me, I see the upright piano with its beautiful shining wood grain. For no particular reason, I opened the cover and let the keys peek out. I gently lowered my finger and a stiff sound that reminded me of a chilly night reverberated. I remember the Madam at my last job used to play it often. I missed the chance to ask what the song was called. I know it was a Lobelian song, and I think she said something about how she was afraid to play it during the war or something like that..."
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:72-5
+msgctxt "../test/novel_11.html+html.body.div.div.div.div.div.div.div.ul.li:72-5"
+msgid "「床掃除、終わりました」"
+msgstr ""I’ve finished mopping the floor""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:73-5
+msgctxt "../test/novel_11.html+html.body.div.div.div.div.div.div.div.ul.li:73-5"
+msgid "「床掃除、終わりました」"
+msgstr ""I’ve finished mopping the floor""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:81-1
+msgid "ぶっきらぼうな声。月下がモップを洗っている。"
+msgstr "Gekka said in a blunt voice while washing the mop."
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:83-1
+msgid "「ごめん、サボってるわけじゃないんだけど……」"
+msgstr ""Sorry, I wasn’t slacking off. It's just...""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:90-5
+msgctxt "../test/novel_11.html+html.body.div.div.div.div.div.div.div.ul.li:90-5"
+msgid "「別に、気にしないであります」"
+msgstr ""I don’t really mind""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:91-5
+msgctxt "../test/novel_11.html+html.body.div.div.div.div.div.div.div.ul.li:91-5"
+msgid "「別に、気にしないであります」"
+msgstr ""I don’t really mind""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:99-1
+msgid "いつも通りの無表情。黙々と後片付けをしている。"
+msgstr "With no expression on her face as usual, she silently cleans up after herself."
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:101-1
+msgid "「ねえ、月下はピアノ弾けたりしない？」"
+msgstr ""Hey Gekka, can you play the piano?""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:108-5
+msgctxt "../test/novel_11.html+html.body.div.div.div.div.div.div.div.ul.li:108-5"
+msgid "「戦闘人形ですので」"
+msgstr ""I’m a battle doll""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:109-5
+msgctxt "../test/novel_11.html+html.body.div.div.div.div.div.div.div.ul.li:109-5"
+msgid "「戦闘人形ですので」"
+msgstr ""I’m a battle doll""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:116-1
+msgid "「それもそうか……誰か弾けるかな？」"
+msgstr ""Yeah, that’s true...I wonder if anyone else can?""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:123-5
+msgctxt "../test/novel_11.html+html.body.div.div.div.div.div.div.div.ul.li:123-5"
+msgid "「なぜ、そんなことを聞くのでありますか」"
+msgstr ""Why are you asking that?""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:124-5
+msgctxt "../test/novel_11.html+html.body.div.div.div.div.div.div.div.ul.li:124-5"
+msgid "「なぜ、そんなことを聞くのでありますか」"
+msgstr ""Why are you asking that?""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:131-1
+msgid "「鴉羽さんと話していたんだよ」"
+msgstr ""I was talking with Karasuba-san about it""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:133-1
+msgid "ピアノを活用し、お店に新しい客を呼び込む。なんだったら、自律人形がちょっとしたショーをしても面白い。鴉羽に話したことを繰り返した。"
+msgstr "Using the piano to bring new customers into the restaurant. How it would be fun to put on a little show with autonomous dolls. I repeated what I had told Karasuba-san."
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:141-5
+msgctxt "../test/novel_11.html+html.body.div.div.div.div.div.div.div.ul.li:141-5"
+msgid "「黒猫亭にはレコードプレイヤーがあります」"
+msgstr ""The Black Cat Pavilion does have a record player""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:142-5
+msgctxt "../test/novel_11.html+html.body.div.div.div.div.div.div.div.ul.li:142-5"
+msgid "「黒猫亭にはレコードプレイヤーがあります」"
+msgstr ""The Black Cat Pavilion does have a record player""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:149-1
+msgid "「そうだけど、実際に演奏して、歌を送ると違うものだよ」"
+msgstr ""That’s true, but having a live performance is totally different""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:156-5
+msgctxt "../test/novel_11.html+html.body.div.div.div.div.div.div.div.ul.li:156-5"
+msgid "「機械によって空気を振るわせ、音を奏でる」"
+msgstr ""It’s a machine that shakes the air to produce sound""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:157-5
+msgctxt "../test/novel_11.html+html.body.div.div.div.div.div.div.div.ul.li:157-5"
+msgid "「機械によって空気を振るわせ、音を奏でる」"
+msgstr ""It’s a machine that shakes the air to produce sound""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:167-1
+msgid "月下はじっとボクを見つめた。"
+msgstr "Gekka stared at me."
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:175-5
+msgctxt "../test/novel_11.html+html.body.div.div.div.div.div.div.div.ul.li:175-5"
+msgid "「いったい、なにが違うのでありましょう……」"
+msgstr ""How is it any different?""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:176-5
+msgctxt "../test/novel_11.html+html.body.div.div.div.div.div.div.div.ul.li:176-5"
+msgid "「いったい、なにが違うのでありましょう……」"
+msgstr ""How is it any different?""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:184-1
+msgid "それは素朴な疑問のようで、解き明かせない不思議を尋ねているような、そんな言葉だった。"
+msgstr "It seemed like a naive question, as if she was asking about a mystery that could never be solved."
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:186-1
+msgid "おとめ「月下、掃除は終わったか？」"
+msgstr ""Gekka, are you finished with cleaning?""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:188-1
+msgid "二階から降りてくるのは、オーナーの奥宮さんだ。"
+msgstr "Coming down from upstairs is the owner, Okumiya-san."
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:196-5
+msgctxt "../test/novel_11.html+html.body.div.div.div.div.div.div.div.ul.li:196-5"
+msgid "「完了であります」"
+msgstr ""Yes, I have completed it""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:197-5
+msgctxt "../test/novel_11.html+html.body.div.div.div.div.div.div.div.ul.li:197-5"
+msgid "「完了であります」"
+msgstr ""Yes, I have completed it""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:204-1
+msgid "おとめ「時間通りだな」"
+msgstr "Otome: "Right on time""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:205-1
+msgid "「すみません、こっちはまだ終わっていなくて……」"
+msgstr ""I’m sorry, I haven’t finished yet...""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:206-1
+msgid "おとめ「なに、まだ慣れていないだろうしな。月下、鴉羽の仕事を手伝ってやってくれ」"
+msgstr "Otome: "No worries, you're probably not used to it yet. Gekka, go help Karasuba with her work""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:212-5
+msgctxt "../test/novel_11.html+html.body.div.div.div.div.div.div.div.ul.li:212-5"
+msgid "「了解であります」"
+msgstr ""Understood""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:213-5
+msgctxt "../test/novel_11.html+html.body.div.div.div.div.div.div.div.ul.li:213-5"
+msgid "「了解であります」"
+msgstr ""Understood""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:221-1
+msgid "鴉羽さんはこの時間、帳簿や仕入れの監理をしている。月下は背筋を伸ばして、軽く靴底を鳴らすと、モップとバケツを持ってフロアを去っていた。"
+msgstr "At this time, Karasuba-san is supervising the account books and stockings. Gekka stretches her back and with a light squeak from her shoes she leaves the service area, mop and bucket in hand."
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:223-1
+msgid "「あの、奥宮少佐」"
+msgstr ""Um, Major Okunomiya...""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:224-1
+msgid "おとめ「少佐は止めないか」"
+msgstr "Otome: "Can you please stop calling me ‘Major’?""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:225-1
+msgid "「すみません、癖で……ピアノを弾けるお知り合いはいますか？」"
+msgstr ""Sorry, out of habit...do you know anyone who can play the piano?""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:226-1
+msgid "おとめ「わたしは心得があるが」"
+msgstr "Otome: "I know how to play actually""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:227-1
+msgid "「ええっ！？」"
+msgstr ""Eeeeh?!""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:228-1
+msgid "おとめ「なんだ、その驚きようは」"
+msgstr "Otome: "What, is it that surprising?""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:229-1
+msgid "「いえ、失礼しました。奥宮さんがピアノ……」"
+msgstr ""Sorry, that was rude of me. So Okunomiya-san can play...""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:231-1
+msgid ""
+"すらりとした手足。広い肩幅。軍人だった頃はさぞかし絵になっただろう。軍隊は男社会ではあるが、それでも奥宮さんであれば一目置かれたことだろう。張りのある声で"
+"一喝すれば、たちまち兵士達の間に緊張が走ったことは想像に難くない。"
+msgstr "Long and slender limbs. Broad shoulders. She must have been quite the eye-catcher as a soldier. The army is a male-dominated field, but even so, if it’s Okumiya-san, she must have been looked up to. It's not hard to imagine the tension among the soldiers when she shouted out orders with her taut voice."
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:233-1
+msgid "「……意外とお嬢様だったんですね」"
+msgstr ""That’s surprisingly lady-like""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:234-1
+msgid "おとめ「ニヤニヤするな」"
+msgstr "Otome: "Stop grinning like that""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:235-1
+msgid "「そ、そんなわけでは」"
+msgstr ""N- no, I would never...""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:237-1
+msgid "慌てて顔を引き締める。"
+msgstr "Panicked, my face stiffened up."
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:238-1
+msgid "奥宮さんは視線を背けて、少々気まずそうにしていた。"
+msgstr "Okumiya-san looked a little embarrassed as she turned her gaze away."
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:240-1
+msgid "おとめ「私にだって、花も恥じらう乙女だった頃があるのだ」"
+msgstr "Otome: "Even I used to be a maiden that made even the flowers blush""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:242-1
+msgid "ぷいと顔を背けると、月下の後を追っていた。"
+msgstr "She turned away with a pout and followed Gekka."
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:243-1
+msgid "機会を伺ってその腕前を見せてもらおう。密かにそう心に決めていた。"
+msgstr "I'll create an opportunity for her to show me her skill. I had secretly made up my mind to do so."
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:251-5
+msgctxt "../test/novel_11.html+html.body.div.div.div.div.div.div.div.ul.li:251-5"
+msgid "「お外の掃き掃除、しゅーりょーしました！」"
+msgstr ""I finished sweeping outside!""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:252-5
+msgctxt "../test/novel_11.html+html.body.div.div.div.div.div.div.div.ul.li:252-5"
+msgid "「お外の掃き掃除、しゅーりょーしました！」"
+msgstr ""I finished sweeping outside!""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:260-1
+msgid "からんころんとドアベルを鳴らして、灰桜が帰ってくる。"
+msgstr "The doorbell rings and Haizakura returns."
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:262-1
+msgid "「野良犬がうろついていなかった？」"
+msgstr ""Were there any stray dogs roaming around?""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:268-5
+msgctxt "../test/novel_11.html+html.body.div.div.div.div.div.div.div.ul.li:268-5"
+msgid "「ついていました！」"
+msgstr ""There was one!""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:269-5
+msgctxt "../test/novel_11.html+html.body.div.div.div.div.div.div.div.ul.li:269-5"
+msgid "「ついていました！」"
+msgstr ""There was one!""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:276-1
+msgid "「やっぱり……」"
+msgstr ""I thought so...""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:282-5
+msgctxt "../test/novel_11.html+html.body.div.div.div.div.div.div.div.ul.li:282-5"
+msgid "「でも、今日の余り物はないんですって伝えると分かってくれたみたいです」"
+msgstr ""But when I told him we didn't have any leftovers today, he seemed to understand""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:283-5
+msgctxt "../test/novel_11.html+html.body.div.div.div.div.div.div.div.ul.li:283-5"
+msgid "「でも、今日の余り物はないんですって伝えると分かってくれたみたいです」"
+msgstr ""But when I told him we didn't have any leftovers today, he seemed to understand""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:290-1
+msgid "「ほんとに？」"
+msgstr ""Really?""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:296-5
+msgctxt "../test/novel_11.html+html.body.div.div.div.div.div.div.div.ul.li:296-5"
+msgid "「はい、別の場所で夕飯を摂られるみたいです」"
+msgstr ""Yes. He went somewhere else to get dinner""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:297-5
+msgctxt "../test/novel_11.html+html.body.div.div.div.div.div.div.div.ul.li:297-5"
+msgid "「はい、別の場所で夕飯を摂られるみたいです」"
+msgstr ""Yes. He went somewhere else to get dinner""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:305-1
+msgid "灰桜の言葉が通じたのだろうか……。"
+msgstr "I wonder if the dog actually understood Haizakura..."
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:306-1
+msgid "大方、匂いで残飯が無いことを察したのだろうけど。"
+msgstr "Most likely, it could tell by the smell that there were no leftovers."
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:313-5
+msgctxt "../test/novel_11.html+html.body.div.div.div.div.div.div.div.ul.li:313-5"
+msgid "「ところで、うささん。ピアノがお得意なんですか？」"
+msgstr ""By the way, Usa-san. Are you perhaps good at playing the piano?""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:314-5
+msgctxt "../test/novel_11.html+html.body.div.div.div.div.div.div.div.ul.li:314-5"
+msgid "「ところで、うささん。ピアノがお得意なんですか？」"
+msgstr ""By the way, Usa-san. Are you perhaps good at playing the piano?""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:321-1
+msgid "「なんとなく、格好だけね。せっかくあるものだから」"
+msgstr ""No, I was just messing around. Since we have one""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:323-1
+msgid "ぽろぽろと鍵盤を叩く。"
+msgstr "I press down on the keys."
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:330-5
+msgctxt "../test/novel_11.html+html.body.div.div.div.div.div.div.div.ul.li:330-5"
+msgid "「音を聞くと、心が弾みますね」"
+msgstr ""It's a heartening sound to hear, huh?""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:331-5
+msgctxt "../test/novel_11.html+html.body.div.div.div.div.div.div.div.ul.li:331-5"
+msgid "「音を聞くと、心が弾みますね」"
+msgstr ""It's a heartening sound to hear, huh?""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:338-1
+msgid "「そう？」"
+msgstr ""Is that so?""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:345-5
+msgctxt "../test/novel_11.html+html.body.div.div.div.div.div.div.div.ul.li:345-5"
+msgid "「思わず笑ってしまったり、なんだか寂しくなって泣いてしまったり……」"
+msgstr ""It makes me smile unconsciously but it also makes me kind of sad and then I feel like crying...""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:346-5
+msgctxt "../test/novel_11.html+html.body.div.div.div.div.div.div.div.ul.li:346-5"
+msgid "「思わず笑ってしまったり、なんだか寂しくなって泣いてしまったり……」"
+msgstr ""It makes me smile unconsciously but it also makes me kind of sad and then I feel like crying...""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:352-1
+msgid "「灰桜は音楽が好きなんだね」"
+msgstr ""Haizakura likes music, right?""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:358-5
+msgctxt "../test/novel_11.html+html.body.div.div.div.div.div.div.div.ul.li:358-5"
+msgid "「はい、そうなのだと思います」"
+msgstr ""Yes, I think I do""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:359-5
+msgctxt "../test/novel_11.html+html.body.div.div.div.div.div.div.div.ul.li:359-5"
+msgid "「はい、そうなのだと思います」"
+msgstr ""Yes, I think I do""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:365-1
+msgid "「じゃあ、さ」"
+msgstr ""Well, then""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:367-1
+msgid "最後の白鍵を弾く。"
+msgstr "I play the last white key."
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:368-1
+msgid "澄んだ音色が、フロアに響いていた。"
+msgstr "A soft tone echoes through the service area."
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:370-1
+msgid "「なにか、歌ってみれば？」"
+msgstr ""Wanna try singing something?""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:376-5
+msgctxt "../test/novel_11.html+html.body.div.div.div.div.div.div.div.ul.li:376-5"
+msgid "「歌……」"
+msgstr ""Singing...?""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:377-5
+msgctxt "../test/novel_11.html+html.body.div.div.div.div.div.div.div.ul.li:377-5"
+msgid "「歌……」"
+msgstr ""Singing...?""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:384-1
+msgid "それは意外な言葉だったようで、きょとんとしている。"
+msgstr "She looked confused as if the word was foreign to her."
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:385-1
+msgid "続いて、なにか考え込むような仕草。"
+msgstr "Followed by a thoughtful gesture."
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:392-5
+msgctxt "../test/novel_11.html+html.body.div.div.div.div.div.div.div.ul.li:392-5"
+msgid "「わたしは歌えません」"
+msgstr ""I cannot sing""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:393-5
+msgctxt "../test/novel_11.html+html.body.div.div.div.div.div.div.div.ul.li:393-5"
+msgid "「わたしは歌えません」"
+msgstr ""I cannot sing""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:400-1
+msgid "そして、じっと瑠璃色の目でボクを見て、そう明瞭に告げた。"
+msgstr "She stared at me with her lapis lazuli colored eyes and told me plainly."
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:402-1
+msgid "「……壊れているから」"
+msgstr ""...because you’re broken?""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:408-5
+msgctxt "../test/novel_11.html+html.body.div.div.div.div.div.div.div.ul.li:408-5"
+msgid "「そうだと思います。メロディと言うのでしょうか、曲に合わせて歌うと言うことができません」"
+msgstr ""I think so. It’s called melody right? I can't really sing along to a song's melody""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:409-5
+msgctxt "../test/novel_11.html+html.body.div.div.div.div.div.div.div.ul.li:409-5"
+msgid "「そうだと思います。メロディと言うのでしょうか、曲に合わせて歌うと言うことができません」"
+msgstr ""I think so. It’s called melody right? I can't really sing along to a song's melody""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:415-1
+msgid "「だったら、伴奏なしで歌えばいいんじゃないかな」"
+msgstr ""Then you could just sing without accompaniment""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:421-5
+msgctxt "../test/novel_11.html+html.body.div.div.div.div.div.div.div.ul.li:421-5"
+msgid "「それは出来るのですが、なんというか本を読んでいるようになってしまって……」"
+msgstr ""I can do that, but it sounds more like reading a book out loud""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:422-5
+msgctxt "../test/novel_11.html+html.body.div.div.div.div.div.div.div.ul.li:422-5"
+msgid "「それは出来るのですが、なんというか本を読んでいるようになってしまって……」"
+msgstr ""I can do that, but it sounds more like reading a book out loud""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:429-1
+msgid "つまるところ、ものすごく音痴ということだろうか。"
+msgstr "In short, she's incredibly tone deaf, I guess."
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:431-1
+msgid "「それって、修理できないのかな？」"
+msgstr ""Is that something that can be fixed?""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:433-1
+msgid "ふるふると首を横に振る。桜色の髪の毛も、一緒に揺れた。"
+msgstr "She shakes her head. Her cherry-blossom-pink hair shakes with it."
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:440-5
+msgctxt "../test/novel_11.html+html.body.div.div.div.div.div.div.div.ul.li:440-5"
+msgid "「論理機関に蓄積した電文が破損しているんです。ですから修理しようがないと言われたことがあります。人間で言うところの……」"
+msgstr ""The data stored in the logic engine is corrupted. So I have been told that there is no way to repair it. Or as humans say,...""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:441-5
+msgctxt "../test/novel_11.html+html.body.div.div.div.div.div.div.div.ul.li:441-5"
+msgid "「論理機関に蓄積した電文が破損しているんです。ですから修理しようがないと言われたことがあります。人間で言うところの……」"
+msgstr ""The data stored in the logic engine is corrupted. So I have been told that there is no way to repair it. Or as humans say,...""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:447-1
+msgid "「記憶喪失？」"
+msgstr ""Memory loss?""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:453-5
+msgctxt "../test/novel_11.html+html.body.div.div.div.div.div.div.div.ul.li:453-5"
+msgid "「それですー！」"
+msgstr ""That’s it!""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:454-5
+msgctxt "../test/novel_11.html+html.body.div.div.div.div.div.div.div.ul.li:454-5"
+msgid "「それですー！」"
+msgstr ""That’s it!""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:461-1
+msgid "ぴょん、と飛んで指差している。"
+msgstr "She hopped like a rabbit and pointed at me."
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:468-5
+msgctxt "../test/novel_11.html+html.body.div.div.div.div.div.div.div.ul.li:468-5"
+msgid ""
+"「わたしには、昔の記憶が無いんです。どこでなにをしていた<ruby>自律人形<rt>オートマタ</rt></ruby>なのか……なんのために作られたのか。"
+"知りたいとは思うのですが～……」"
+msgstr ""I have no memory of the past. I’d like to know where and what I was doing as an autonomous doll before...for what reason I was created, but...""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:469-5
+msgctxt "../test/novel_11.html+html.body.div.div.div.div.div.div.div.ul.li:469-5"
+msgid ""
+"「わたしには、昔の記憶が無いんです。どこでなにをしていた<ruby>自律人形<rt>オートマタ</rt></ruby>なのか……なんのために作られたのか。"
+"知りたいとは思うのですが～……」"
+msgstr ""I have no memory of the past. I’d like to know where and what I was doing as an autonomous doll before...for what reason I was created, but...""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:476-1
+msgid "灰桜は悲しさを感じさせないけど、それが余計に胸を締め付けられた。"
+msgstr "It was obvious that Haizakura didn’t want to make me feel sad but that just made my chest tighten up even more."
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:478-1
+msgid "「記憶喪失は治ることがあるよ」"
+msgstr ""Memory loss can be cured, you know""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:484-5
+msgctxt "../test/novel_11.html+html.body.div.div.div.div.div.div.div.ul.li:484-5"
+msgid "「みゅ？」"
+msgstr ""Myu?""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:485-5
+msgctxt "../test/novel_11.html+html.body.div.div.div.div.div.div.div.ul.li:485-5"
+msgid "「みゅ？」"
+msgstr ""Myu?""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:491-1
+msgid "「だから……灰桜も直るんじゃないかな」"
+msgstr ""So maybe...Haizakura can be fixed too""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:497-5
+msgctxt "../test/novel_11.html+html.body.div.div.div.div.div.div.div.ul.li:497-5"
+msgid "「そう……なのでしょうか？」"
+msgstr ""Is...that so?""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:498-5
+msgctxt "../test/novel_11.html+html.body.div.div.div.div.div.div.div.ul.li:498-5"
+msgid "「そう……なのでしょうか？」"
+msgstr ""Is...that so?""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:504-1
+msgid "「一緒に見つけようよ、灰桜の生まれた理由をさ」"
+msgstr ""Let’s look for it together...the reason why Haizakura was born""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:506-1
+msgid "ボクは小さな<ruby>自律人形<rt>オートマタ</rt></ruby>に、そう持ちかけた。"
+msgstr "That’s the offer I made to the little autonomous doll."
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div:506-51
+msgid "「聞きたいな、灰桜の歌を」"
+msgstr ""I want to hear it...Haizakura’s singing""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:514-5
+msgctxt "../test/novel_11.html+html.body.div.div.div.div.div.div.div.ul.li:514-5"
+msgid "「みゅみゅみゅ………」"
+msgstr ""Myu myu myu...""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:515-5
+msgctxt "../test/novel_11.html+html.body.div.div.div.div.div.div.div.ul.li:515-5"
+msgid "「みゅみゅみゅ………」"
+msgstr ""Myu myu myu...""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:522-1
+msgid "彼女は目を丸くして、すこし驚いて、でも変わらない笑顔で……。"
+msgstr "Her eyes got round. A little surprised, but with the same smile as always..."
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:531-5
+msgctxt "../test/novel_11.html+html.body.div.div.div.div.div.div.div.ul.li:531-5"
+msgid "「はい！」"
+msgstr ""Yes!""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.div.div.div.ul.li:532-5
+msgctxt "../test/novel_11.html+html.body.div.div.div.div.div.div.div.ul.li:532-5"
+msgid "「はい！」"
+msgstr ""Yes!""
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.p:539-1
+msgid "にっこりとそう頷いてくれた。"
+msgstr "...she nodded happily."
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.div.div.div:544-1
+msgid ""
+"<a href=\"novel_10.html\">＜＜前のエピソード</a> <a href=\"novel_12.html\""
+">次のエピソード＞＞</a>"
+msgstr "<a href=\"novel_10.html\">＜＜Previous episode</a> <a href=\"novel_12.html\""
+">Next episode＞＞</a>"
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.p:554-1
+msgid "執筆：丘野塔也 挿絵：まろやか"
+msgstr "<p>Writer: Okano Touya</p><p>Illustrations: Maroyaka</p>"
+
+#: ../test/novel_11.html%2Bhtml.body.div.div.p:554-46
+msgid "ＣＶ：和氣あず未（灰桜） 富田美憂（月下）"
+msgstr "<p>CV: Azumi Waki (Haizakura), Miyu Tomita (Gekka)</p><p>Translation: Zane</p>"
+
+#: ../test/novel_11.html%2Bhtml.body.div.div:558-1
+msgid "目次へ戻る"
+msgstr "Return to the table of contents"
+
+#: ../test/novel_11.html%2Bhtml.body.div.div:559-1
+msgid "©VISUAL ARTS / Key"
+msgstr "©VISUAL ARTS / Key"
