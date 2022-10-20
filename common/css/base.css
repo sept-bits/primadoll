@@ -1573,8 +1573,11 @@ color:#f39c12;
 	text-indent: 2em;
 }
 
-hr {
+:lang(en) hr {
 	margin: 50px 0;
+}
+:lang(en) {
+	font-family: Yu Gothic, Meiryo, sans-serif, monospace;
 }
 
 /* Hyperlinks on main page */
@@ -1599,4 +1602,8 @@ hr {
 
 .novel_main_title_author p{
 	font-size: 18px;
+}
+
+.lang_label {
+	float: right;
 }

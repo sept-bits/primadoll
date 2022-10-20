@@ -5,11 +5,11 @@
   <a class="active" href="/novel.html">Prima Doll Unofficial</a>
   <a href="https://twitter.com/Sep717"><i class="fa fa-fw fa-twitter"></i> Sep7</a>
   <a href="https://key.visualarts.gr.jp/primadoll/novel.html">Prima Doll Official</a>
+  <a href="javascript:void(0);" onclick="setLang()" id="en_lang">EN</a>
   <a href="javascript:void(0);" class="icon" onclick="myFunction()">
     <i class="fa fa-bars"></i>
   </a>
 </div>
-
 
 <style>
 
@@ -96,4 +96,34 @@ function myFunction() {
     x.className = "topnav";
   }
 }
+
+function getLang() {
+  let lang = window.location.href.replace(".html","").slice(-3)
+  // alert(lang);
+  if (lang == "_en") {
+    document.getElementById("jp_lang").innerText = "EN";
+  }
+  else if (lang == "_jp") {
+    document.getElementById("en_lang").innerText = "JP";
+  }
+  else {
+    document.getElementById("en_lang").style.display = "none";
+  }
+}
+
+function setLang() {
+  let lang = window.location.href.replace(".html","").slice(-3)
+  // alert(lang);
+  if (lang == "_en") {
+    window.location.href = window.location.href.replace("_en","_jp")
+  }
+  else if (lang == "_jp") {
+    window.location.href = window.location.href.replace("_jp","_en")
+  }
+}
+
+$(function(){
+  getLang()
+});
+
 </script>
