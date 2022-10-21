@@ -5,7 +5,7 @@
   <a class="active" href="/novel.html">Prima Doll Unofficial</a>
   <a href="https://twitter.com/Sep717"><i class="fa fa-fw fa-twitter"></i> Sep7</a>
   <a href="https://key.visualarts.gr.jp/primadoll/novel.html">Prima Doll Official</a>
-  <a href="javascript:void(0);" onclick="setLang()" id="en_lang">EN</a>
+  <a href="javascript:void(0);" onclick="setLang()" id="select_lang">Switch to JP</a>
   <a href="javascript:void(0);" class="icon" onclick="myFunction()">
     <i class="fa fa-bars"></i>
   </a>
@@ -101,13 +101,14 @@ function getLang() {
   let lang = window.location.href.replace(".html","").slice(-3)
   // alert(lang);
   if (lang == "_en") {
-    document.getElementById("jp_lang").innerText = "EN";
+    <!-- Do nothing, already displays JP -->
+    <!-- document.getElementById("select_lang").innerText = "Switch to JP"; -->
   }
   else if (lang == "_jp") {
-    document.getElementById("en_lang").innerText = "JP";
+    document.getElementById("select_lang").innerText = "Switch to EN";
   }
   else {
-    document.getElementById("en_lang").style.display = "none";
+    document.getElementById("select_lang").style.display = "none";
   }
 }
 
