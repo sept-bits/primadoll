@@ -1580,8 +1580,8 @@ color:#f39c12;
 	font-family: Yu Gothic, Meiryo, sans-serif, monospace;
 }
 
-/* Hyperlinks on main page */
-.novel_top_right a {
+/* Hyperlinks on main page and novel pages*/
+.novel_top_right a, p a {
 	font-size: inherit;
 }
 
